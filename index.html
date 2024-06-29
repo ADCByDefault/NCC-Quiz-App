@@ -3,16 +3,28 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>App</title>
+        <title>NCC Quiz App</title>
+        <link rel="stylesheet" href="style.css" />
         <script defer src="script.js"></script>
-        <style>
-            body {
-                font-family: Arial, sans-serif;
-                text-align: center;
-            }
-        </style>
     </head>
-    <body>
-        <h1>Open console</h1>
+    <body class="indigo-text text-darken-4 fle">
+        <header>
+            <h1>Quiz App</h1>
+        </header>
+        <main>
+            <section>
+                <p class="question" id="question">Loading...</p>
+            </section>
+            <section>
+                <button class="answer" id="A">Loading...</button>
+                <button class="answer" id="B">Loading...</button>
+                <button class="answer" id="C">Loading...</button>
+            </section>
+            <section>
+                <button id="next" class="btn">Next</button>
+                <div>Risposta corretta: <span id="correct"></span></div>
+                <div id="info"></div>
+            </section>
+        </main>
     </body>
 </html>
