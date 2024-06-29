@@ -1,0 +1,120 @@
+0-PROVINCIA DI AREZZO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+1-&&&-In carta muta il capoluogo di Arezzo è indicato da quale numero?-&&&-2-&&&-3-&&&-1-&&&-C
+2-&&&-L'infrastruttura stradale che attraversa la Provincia di Firenze, Arezzo e Siena in carta muta è:-&&&-A1-&&&-A11-&&&-A12-&&&-A
+3-&&&-Quale infrastruttura stradale è dal capoluogo numero 10 al capoluogo numero 2 in carta muta?-&&&-SS.223-&&&-RA3-&&&-A1-&&&-B
+4-&&&-Quale infrastruttura regionale da Arezzo per l'Eremo Camaldoli mi conviene percorrere?-&&&-SR.74-&&&-SR.69-&&&-SR.71-&&&-C
+5-&&&-Quale località si transita da Bibbiena per raggiungere Badia Prataglia percorrendo la S.R.71 ?-&&&-Soci-&&&-Badesse-&&&-Cortona-&&&-A
+6-&&&-Nel Valdarno Superiore l'alta velocità “Direttissima Firenze – Roma” viaggi parallela a quale infrastruttura stradale?-&&&-A11-&&&-A1-&&&-A15-&&&-B
+7-&&&-Il Comune di Badia Tedalda da quale infrastruttura regionale è attraversato?-&&&-SR.258-&&&-SR.2-&&&-SR.70-&&&-A
+8-&&&-Da Arezzo a Cortona quale infrastruttura regionale principale devo prendere?-&&&-SR.74-&&&-SR.429-&&&-SR.71-&&&-C
+9-&&&-Quale comune non fa parte del territorio della Valtiberina Toscana?-&&&-Arezzo-&&&-Anghiari-&&&-San Sepolcro-&&&-A
+10-&&&-Qual è la denominazione esatta di un Monte presente nella Provincia di Arezzo?-&&&-Amiata-&&&-Penna-&&&-Senario-&&&-B
+0-PROVINCIA DI FIRENZE
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+11-&&&-Quale infrastruttura NON è presente nella Provincia di Firenze in carta muta?-&&&-A1-&&&-A12-&&&-A11-&&&-B
+12-&&&-L'infrastruttura stradale A11 quali province attraversa in carta muta?-&&&-Pisa, Lucca, Pistoia, Prato e Firenze-&&&-Pisa, Livorno, Lucca, Pistoia e Prato-&&&-Pisa, Lucca, Pistoia, Siena ed Arezzo-&&&-A
+13-&&&-Quali sono le province indicate con il numero dei capoluoghi che confinano con la Provincia di Firenze in carta muta?-&&&-1,2,5,7,8,9-&&&-1,2,4,5,8,9-&&&-1,2,3,5,6,7,9-&&&-A
+14-&&&-Percorrendo le principali arterie stradali, quanto dista Firenze da Pontassieve ?-&&&-Circa 18 km-&&&-Circa 30 km-&&&-Circa 60 km-&&&-A
+15-&&&-Da Firenze devo andare ad Arezzo, quale infrastruttura prendo?-&&&-Posso prendere la A1-&&&-Posso prendere la A11-&&&-Posso prendere la S.R.71-&&&-A
+16-&&&-La SS.67 Tosco Romagnola continua in quale Regione ?-&&&-Marche-&&&-Liguria-&&&-Emilia Romagna-&&&-C
+17-&&&-La SR. 429 collega?-&&&-Firenze con Pontassieve-&&&-Empoli con Castelfiorentino-&&&-Empoli con Firenze-&&&-B
+18-&&&-L'uscita Casello Autostradale "Firenzuola-Mugello" si trova sulla:-&&&-Variante di Valico Panoramica-&&&-Firenze Mare-&&&-Variante di Valico Direttissima-&&&-C
+19-&&&-Il passo della Futa si trova su quale infrastruttura?-&&&-S.S.65-&&&-S.S.66-&&&-S.S.64-&&&-A
+20-&&&-Come si chiama il Lago presente nel Mugello?-&&&-Chiusi-&&&-Peretola-&&&-Bilancino-&&&-C
+0-PROVINCIA DI GROSSETO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+21-&&&-Dal capoluogo di provincia con numero 10 al capoluogo di provincia con numero 1 in carta muta, quale infrastruttura autostradale devo prendere?-&&&-A11-&&&-A15-&&&-A1-&&&-C
+22-&&&-Quale infrastruttura NON interessa il capoluogo indicato con numero 3 in carta muta?-&&&-S.S.1-&&&-A1-&&&-S.S.223-&&&-B
+23-&&&-Quali sono le province indicate con il numero dei capoluoghi che confinano con la Provincia di Grosseto in carta muta?-&&&-2,4,5-&&&-2,5,10-&&&-1,2,3-&&&-A
+24-&&&-Percorrendo la SS.1 quale parco regionale attraverso?-&&&-Parco di Migliarino, San Rossore, Massaciuccoli-&&&-Parco della Maremma-&&&-Parco delle Alpi Apuane-&&&-B
+25-&&&-Sulla infrastruttura stradale E80 quale Oasi incontro?-&&&-Stagni di Focognano-&&&-Oasi WWF di Orbetello-&&&-Oasi WWF del Bottaccio-&&&-B
+26-&&&-La SS.1 collega :-&&&-Paganico con Siena-&&&-Orbetello con il confine regionale Marche-&&&-Orbetello con il confine regionale Lazio-&&&-C
+27-&&&-Da Grosseto devo andare alla Stazione Ferroviaria di Gavorrano Scalo quale infrastuttura principale devo prendere? Se il cliente vuole acquistare il vino Morellino dove lo porti?-&&&-La SS.62 Scansano-&&&-La SS.1 Grosseto-&&&-La SS.71 Badesse-&&&-B
+28-&&&-Se il cliente vuole acquistare il vino Morellino dove lo porti?-&&&-Scansano-&&&-Grosseto-&&&-Badesse-&&&-A
+29-&&&-Il fiume Ombrone quale parco attraversa?-&&&-Riserva naturale di Scarlino-&&&-Parco del Circeo-&&&-Parco della Maremma-&&&-C
+30-&&&-La Riserva Naturale Diaccia Botrona in quale Comune si trova?-&&&-Murlo-&&&-Grosseto-&&&-Castiglione della Pescaia-&&&-C
+0-PROVINCIA DI LIVORNO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+31-&&&-Quale infrastruttura è presente in Provincia di Livorno in carta muta?-&&&-S.S.1-&&&-A1-&&&-A11-&&&-A
+32-&&&-Da Firenze per andare a Livorno quale infrastruttura stradale in carta muta dovrò percorrere?-&&&-A12-&&&-la S.G.C. FI PI LI-&&&-A1-&&&-B
+33-&&&-Quali sono le province indicate con il numero dei capoluoghi che confinano con la Provincia di Livorno in carta muta?-&&&-5,3-&&&-5,2-&&&-6,7-&&&-A
+34-&&&-Percorrendo le principali arterie stradali, quanto dista Livorno da Cecina ?-&&&-Circa 70 km-&&&-Circa 15 km-&&&-Circa 40 km-&&&-C
+35-&&&-Il comune di Cecina è attraversato da quale strada regionale?-&&&-S.R.206-&&&-S.G.C.FI-PI-LI-&&&-S.R.2-&&&-A
+36-&&&-Per andare alla stazione ferroviaria di Campiglia Marittima da Piombino quale infrastruttura stradale principale devo prendere?-&&&-SS.65-&&&-SS.398-&&&-SS.439-&&&-B
+37-&&&-Se il cliente vuole andare alle Spiagge Bianche dove lo porti?-&&&-Tirrenia-&&&-Livorno-&&&-Rosignano Solvay-&&&-C
+38-&&&-Un cliente ti chiede di andare all'Isola d'Elba, a quale porto lo fai imbarcare?-&&&-Cecina-&&&-Piombino-&&&-Follonica-&&&-B
+39-&&&-Il Parco Archeologico di Baratti e Populonia in quale Comune si trova?-&&&-Livorno-&&&-Piombino-&&&-Cecina-&&&-B
+40-&&&-Quali comuni sono interessati dal Parco Provinciale dei Monti Livornesi?-&&&-Livorno, Collesalvetti e Rosignano Marittimo-&&&-Livorno, Collesalvetti e Bibbona-&&&-Livorno, Santa Luce e Castellina Marittima-&&&-A
+0-PROVINCIA DI LUCCA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+41-&&&-L'Autostrada Firenze Mare quali province attraversa in carta muta?-&&&-Firenze, Prato, Pistoia, Livorno e Pisa-&&&-Firenze, Prato, Pistoia, Lucca e Siena-&&&-Firenze, Prato, Pistoia, Lucca e Pisa-&&&-C
+42-&&&-La diramazione Bretella Lucca Viareggio in carta muta collega l'infrastruttura stradale :-&&&-A11-&&&-A12-&&&-A1-&&&-B
+43-&&&-Quali sono le province indicate con il numero dei capoluoghi che confinano con la Provincia di Lucca in carta muta?-&&&-5,10,8,6-&&&-5,10,8,9-&&&-3,2,1,9-&&&-A
+44-&&&-L'infrastruttura stradale regionale S.R.445 quale territorio interessa?-&&&-Valtiberina-&&&-Garfagnana-&&&-Maremma Pisana-&&&-B
+45-&&&-Quale infrastruttura stradale NON è presente nel territorio della Provincia di Lucca?-&&&-S.S.12-&&&-S.S. 439-&&&-S.S.66-&&&-C
+46-&&&-Borgo a Buggiano da quale infrastruttura regionale è interessato?-&&&-SR.435-&&&-SR.445-&&&-SR.74-&&&-A
+47-&&&-Da Montecatini Terme a Lucca quanti km sono circa ?-&&&-10-&&&-35-&&&-80-&&&-B
+48-&&&-Per andare al Ponte del Diavolo da Lucca quale infrastruttura stradale statale principale devo prendere?-&&&-la Strada Statale Cassia-&&&-la Strada Statale dell'Abetone e del Brennero-&&&-la Strada Statale Tosco Romagnola-&&&-B
+49-&&&-La Bretella Lucca - Viareggio è denominata anche:-&&&-Diramazione A1/A12-&&&-Diramazione A1/A15-&&&-Diramazione A11/A12-&&&-C
+50-&&&-Quale Parco è presente nella Provincia di Lucca?-&&&-Parco Regionale Alpi Apuane-&&&-Arcipelago Toscano-&&&-Parco Naturale Migliarino San Rossore Massaciuccoli-&&&-A
+0-PROVINCIA DI MASSA – CARRARA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+51-&&&-In quale provincia attraversano le infrastrutture stradali A12 e A15 in carta muta?-&&&-Lucca-&&&-Massa Carrara-&&&-Livorno-&&&-B
+52-&&&-Quale infrastruttura stradale non è presente nel territorio della Provincia di Massa Carrara in carta muta?-&&&-A12-&&&-A15-&&&-A1-&&&-C
+53-&&&-Quali sono le province indicate con il numero dei capoluoghi che confinano con la Provincia di Massa Carrara in carta muta?-&&&-7-&&&-5-&&&-3-&&&-A
+54-&&&-La località Pallerone su quale infrastruttura stradale si trova?-&&&-S.S.62-&&&-S.S.63-&&&-S.S.1-&&&-B
+55-&&&-L'infrastruttura S.S.330 di Buonviaggi è dal :-&&&-Confine la Regione Liguria ad innesto con la S.S.62 a Caprigliola-&&&-Confine la Regione Liguria ad innesto con la S.S.63 a Caprigliola-&&&-Confine la Regione Emilia Romagna ad innesto con la S.S.62 a Caprigliola-&&&-A
+56-&&&-Per andare alla stazione ferroviaria di Pontremoli da Filattiera quale infrastruttura devo percorrere?-&&&-S.S.62-&&&-S.S.63-&&&-S.S.66-&&&-A
+57-&&&-Colonnata si trova a 8 km di Carrara a:-&&&-Ovest-&&&-Est-&&&-Nord-&&&-B
+58-&&&-Un cliente chiede di andare alla sede centrale della Provincia di Massa Carrara, dove lo porti?-&&&-Sarzana-&&&-Carrara-&&&-Massa-&&&-C
+59-&&&-Il comune di Aulla da quali infrastrutture è attraversato?-&&&-S.S.62, S.S.63-&&&-S.S.62, S.S.66-&&&-S.S.63,S.S.65-&&&-A
+60-&&&-La Val di Magra è attraversata da quale torrente?-&&&-Torrente Verde-&&&-Fiume Magra-&&&-Fiume Arno-&&&-B
+0-PROVINCIA DI PISA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+61-&&&-Quale provincia attraversano le infrastrutture stradali A12 e A11 in carta muta?-&&&-Firenze-&&&-Pisa-&&&-Livorno-&&&-B
+62-&&&-Quale infrastruttura stradale non è presente nel territorio della Provincia di Pisa in carta muta?-&&&-S.G.C. FI PI LI-&&&-A1-&&&-A12-&&&-B
+63-&&&-Quali sono le province indicate con il numero dei capoluoghi che confinano con la Provincia di Pisa  in carta muta?-&&&-4,3,2,1 e 7-&&&-4,3,6,7 e 9-&&&-4,3,2,10 e 7-&&&-C
+64-&&&-Nel Comune di Vecchiano quali infrastrutture autostradali sono presenti?-&&&-A12 e A11-&&&-A12 e A15-&&&-A1 e A11-&&&-A
+65-&&&-L'infrastruttura stradale "Tosco Romagnola" attraversa quale territorio?-&&&-Mugello-&&&-Garfagnana-&&&-Valdarno Inferiore-&&&-C
+66-&&&-Per andare a San Giuliano Terme da Pisa quale infrastruttura stradale devo prendere?-&&&-S.S.12 e sono circa 6 km-&&&-S.S.12 e sono circa 25 km-&&&-S.S.1 e sono circa 6 km-&&&-A
+67-&&&-Sei a Pisa ed un cliente chiede di andare al mare, dove lo porteresti tramite la strada provinciale?-&&&-Migliarino-&&&-San Giuliano Terme-&&&-Marina di Pisa-&&&-C
+68-&&&-La SS.12 è una strada statale che parte da Pisa ed arriva :-&&&-Confine Francese-&&&-Confine Austriaco-&&&-Confine Svizzero-&&&-B
+69-&&&-Il Mar Tirreno rispetto a Pisa Centro s trova a :-&&&-Ovest-&&&-Est-&&&-Sud-&&&-A
+70-&&&-Quale Monte è presente nella Provincia di Pisa?-&&&-Cavallo-&&&-Serra-&&&-Amiata-&&&-B
+0-PROVINCIA DI PISTOIA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+71-&&&-Quale infrastruttura è presente nella Provincia di Pistoia in carta muta?-&&&-A1-&&&-A11-&&&-A12-&&&-B
+72-&&&-Il capoluogo della Provincia di Prato è indicato dal numero in carta muta?-&&&-9-&&&-8-&&&-7-&&&-A
+73-&&&-Quali sono le province indicate con il numero dei capoluoghi che confinano con la Provincia di Pistoia in carta muta?-&&&-7,10 e 6-&&&-5,7 e 10-&&&-7,10 e 9-&&&-C
+74-&&&-La infrastruttura stradale Porrettana quale località attraversa?-&&&-Taviano-&&&-Pracchia-&&&-Cantagallo-&&&-A
+75-&&&-Per andare in Val di Luce da Lucca quale strada statale devo percorrere?-&&&-S.S.12-&&&-S.S.66-&&&-S.S.67-&&&-A
+76-&&&-La SR 66 Pistoiese dove termina?-&&&-Montecatini Terme-&&&-La Lima-&&&-Abetone-&&&-B
+77-&&&-Se voglio andare alla Stazione Ferroviaria Serravalle Pistoiese quale infrastruttura stradale devo prendere?-&&&-SR 66 Pistoiese-&&&-SR 436 Francesca-&&&-SR435 Lucchese-&&&-C
+78-&&&-Quanto dista Pistoia ( Ospedale San Jacopo) a San Marcello Pistoiese prendendo l'infrastruttura SS 66 Pistoiese?-&&&-Circa 30 km-&&&-Circa 15 km-&&&-Circa 100 km-&&&-A
+79-&&&-Il Monte Gomito rispetto al centro di Pistoia si trova?-&&&-Est-&&&-Ovest-&&&-Nord-&&&-C
+80-&&&-Il Fiume che attraversa la Valdinievol è denominato?-&&&-Serchio-&&&-Pescia di Pescia-&&&-Arno-&&&-B
+0-PROVINCIA DI PRATO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+81-&&&-Quale infrastruttura è presente nella Provincia di Prato  in carta muta?-&&&-A11-&&&-A12-&&&-A1-&&&-A
+82-&&&-Il capoluogo della Provincia di Pistoia è indicato dal numero in carta muta?-&&&-7-&&&-9-&&&-8-&&&-C
+83-&&&-Quali sono le province indicate con il numero dei capoluoghi che confinano con la Provincia di Prato Carrara in carta muta?-&&&-8 e 7-&&&-8 e 10-&&&-7 e 5-&&&-B
+84-&&&-La S.R.325 quale valle attraversa?-&&&-Val di Bisenzio-&&&-Valdinievole-&&&-Valdarno Inferiore-&&&-A
+85-&&&-Poggio a Caiano e Carmignano sono attraversati da quale infrastruttura regionale?-&&&-S.R.325-&&&-S.R.66-&&&-S.R.435-&&&-B
+86-&&&-La SR 325 Val di Setta e val di Bisenzio dove termina?-&&&-Ponte a Signa-&&&-Prato-&&&-Montepiano-&&&-A
+87-&&&-Sono sulla A11 in direzione Pistoia per andare all'Ospedale S.stefano mi conviene uscire a ?-&&&-Pistoia-&&&-Prato Ovest-&&&-Firenze Nord-&&&-B
+88-&&&-La Declassata Prato - Pistoia è la:-&&&-S.S.791-&&&-S.S.398-&&&-S.S.719-&&&-C
+89-&&&-L'A11 cosa collega ?-&&&-Firenze con Pisa Nord-&&&-Firenze con Pisa Ovest-&&&-Firenze con Arezzo-&&&-A
+90-&&&-L'area ANPIL del Monteferrato  quali comuni interessa?-&&&-Montemurlo, Prato e Vaiano-&&&-Montemurlo, Pistoia e Vernio-&&&-Sambuca Pistoiese, Montale e Firenze-&&&-A
+0-PROVINCIA DI SIENA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+91-&&&-Quale infrastruttura NON è presente nella Provincia di Siena in carta muta?-&&&-A1-&&&-S.S.223-&&&-A11-&&&-C
+92-&&&-In carta muta la Provincia di Siena è indicata con numero capoluogo-&&&-2-&&&-3-&&&-1-&&&-A
+93-&&&-Quali sono le province indicate con il numero dei capoluoghi che confinano con la Provincia di Siena in carta muta?-&&&-3,5,10 e 9-&&&-3,5,10 e 1-&&&-3,5,9,8-&&&-B
+94-&&&-Per andare a San Gimignano percorrendo il Raccordo Autostrastrale da Firenze verso Siena quale uscita mi conviene prendere?-&&&-Poggibonsi-&&&-Siena-&&&-San Casciano Val di Pesa-&&&-A
+95-&&&-Da Siena per andare a Buonconvento quale infrastruttura stradale mi conviene prendere?-&&&-S.S. 2-&&&-S.R. 429-&&&-S.S.223-&&&-A
+96-&&&-La SR 68 Val di Cecina inizia e finisce?-&&&-Cecina  - Livorno-&&&-Cecina - Poggibonsi-&&&-Cecina - Volterra-&&&-B
+97-&&&-La Tangenziale Siena Ovest è la:-&&&-S.S.647-&&&-S.S.674-&&&-S.S.1-&&&-B
+98-&&&-Se un turista chiede di andare a vedere il Palio di Siena che infrastruttura conviene prendere da Arezzo oltre la E78?-&&&-S.S.66-&&&-SS.1-&&&-SS.715-&&&-C
+99-&&&-Per raggiungere Monteriggioni devo percorrere il R.A.3 e si trova tra:-&&&-Colle Val d'Elsa e Siena-&&&-Colle Val d'Elsa e Poggibonsi-&&&-Badesse e Siena-&&&-C
+100-&&&-Il fiume Elsa nasce da:-&&&-Crete Senesi-&&&-Montagnola Senese-&&&-Monte Cetona-&&&-B

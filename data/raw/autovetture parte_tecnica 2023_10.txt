@@ -1,0 +1,24 @@
+0-PROVINCIA DI FIRENZE
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+1-&&&-Quale infrastruttura stradale è presso il capoluogo individuato con lettera L in carta muta?-&&&-il ramo stradale della SGC FI PI LI-&&&-il ramo stradale della Cassia-&&&-il ramo stradale della A1-&&&-A
+2-&&&-Quale è il percorso stradale che collega i capoluoghi individuati con lettere B e D in carta muta?-&&&-SGC. FI PI LI-&&&-Raccordo Autostradale Firenze- Siena-&&&-A1 Milano - Napoli-&&&-B
+3-&&&-Sulla carta muta la Diramazione A11/A12 Viareggio Lucca è vicino-&&&-al capoluogo H-&&&-al capoluogo L-&&&-al capoluogo G-&&&-C
+4-&&&-Nella città metropolitana di Firenze quale di queste infrastrutture stradali  è presente?-&&&-SR.445-&&&-SR.429-&&&-SS.66-&&&-B
+5-&&&-Percorrendo principalmente la SS.67 quanti km sono circa da Firenze a Contea-Londa?-&&&-Circa 33 km-&&&-Circa 10 km-&&&-Circa 50 Km-&&&-A
+6-&&&-Sono sulla Direttissima A1 nei pressi di Barberino di Mugello verso Bologna quale è il casello autostradale successivo?-&&&-Calenzano-&&&-Firenzuola-&&&-Badia-&&&-B
+7-&&&-Quale è la rete stradale statale e regionale che interessa il Comune di Empoli ?-&&&-SS.67, SGC FI PI LI e SR.2-&&&-SS.67, SGC FI PI LI, SR.429-&&&-SS.1, SGC FI PI LI e SR.429-&&&-B
+8-&&&-Quale è la strada di interesse statale che collega Firenze Pietramala?-&&&-S.S. 65-&&&-S.S.1-&&&-S.S.2-&&&-A
+9-&&&-Per andare ad Empoli da Firenze evitando la SGC FI PI LI c'è alternativa?-&&&-Si, prendendo la SR.429 Val d'Elsa-&&&-No, non c'è alternativa-&&&-Si, prendendo la SS.67 Tosco Romagnola-&&&-C
+10-&&&-Il Monte Falterona  si trova?-&&&-nel cuore delle Foreste Casentinesi-&&&-nel cuore della Foresta di Vallombrosa-&&&-nel cuore della Riserva Naturale Tombolo di Cecina-&&&-A
+0-PROVINCIA DI SIENA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+1-&&&-Guardando la carta muta l'infrastruttura stradale da capoluogo B a capoluogo C è:-&&&-La SS.74-E78-&&&-La SS.73-E78-&&&-La SS.73-E80-&&&-B
+2-&&&-Quale è il percorso stradale che collega i capoluoghi individuati con lettere B e D in carta muta?-&&&-SGC. FI PI LI-&&&-Raccordo Autostradale Firenze- Siena-&&&-A1 Milano - Napoli-&&&-B
+3-&&&-La provincia di Siena è attraversata da quali infrastrutture stradali in carta muta?-&&&-Raccordo Autostradale Firenze- Siena, SS.715, SS.223 ed A11-&&&-Raccordo Autostradale Firenze- Siena, SS.715, SR.222 ed A11-&&&-Raccordo Autostradale Firenze- Siena, SS.715, SS.223 ed A1-&&&-C
+4-&&&-Quale strada devo percorrere per raggiungere le terme di San Filippo partendo da Siena?-&&&-SS 2-&&&-SS223-&&&-SS715-&&&-A
+5-&&&-Per andare da Siena a Montevarchi la strada più corta passa da:-&&&-Gaiole in Chianti-&&&-San Gimignano-&&&-Greve in Chianti-&&&-A
+6-&&&-Il cliente mi chiede di vedere il Ponte della Pia , su quale strada mi trovo?-&&&-SS68 di Val Cecina-&&&-SS 73 Senese Aretina-&&&-SP 408 di Montevarchi-&&&-ABBONATA
+7-&&&-Quale Casello Autostradale non è in Provincia di Siena-&&&-Chiusi – Chianciano Terme-&&&-Monte S. Savino-&&&-Val di Chiana – Sinalunga-&&&-B
+8-&&&-Trova l'errore nell'elenco di infrastrutture stradali statali presenti in Provincia di Siena:-&&&-SS3bis, SS.398-&&&-SS.146, SS.2-&&&-SS.223, SS.68-&&&-A
+9-&&&-Percorrendo le arterie principali quanto dista Buonconvento da Siena?-&&&-Circa 10 km-&&&-Circa 30 km-&&&-Circa 100 km-&&&-B
+10-&&&-Come si chiamano le terme più rinomate nella provincia di Siena?-&&&-Terme di Saturnia-&&&-Terme di Venturina-&&&-Terme di Bagno Vignoni-&&&-C

@@ -1,0 +1,101 @@
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+1-&&&-Firenze, Arezzo e Siena sono attraversate da quale infrastruttura stradale in carta muta?-&&&-A15-&&&-A1-&&&-A11-&&&-B
+2-&&&-L'infrastruttura stradale E45 è presente in quale provincia in carta muta?-&&&-Grosseto-&&&-Siena-&&&-Arezzo-&&&-C
+3-&&&-La lettera H in carta muta quale capoluogo rappresenta?-&&&-Firenze-&&&-Arezzo-&&&-Livorno-&&&-B
+4-&&&-L'infrastruttura stradale regionale Umbro Casentinese Romagnola quale territorio comunale attraversa?-&&&-Bucine-&&&-Reggello-&&&-Cortona-&&&-C
+5-&&&-L’infrastruttura autostradale A1 e l'infrastruttura stradale regionale regionale SR.69 quale territorio attraversa?-&&&-Casentino-&&&-Valtiberina-&&&-Valdarno-&&&-C
+6-&&&-Percorrendo le principali arterie stradali a scorrimento veloce per circa 40 km da Arezzo verso est a quale località raggiungo?-&&&-Montevarchi-&&&-Firenze-&&&-Sansepolcro-&&&-C
+7-&&&-Quale casello autostradale NON è presente sulla infrastruttura autostradale "A1 Milano Napoli"?-&&&-Monte San Savino-&&&-Pistoia-&&&-Valdarno-&&&-B
+8-&&&-Quale località si transita volendo raggiungere Camucia da Castiglion Fiorentino?-&&&-Figline Valdarno-&&&-Arezzo-&&&-Montecchio-&&&-C
+9-&&&-Loro Ciuffenna è ubicata in quale territorio ?-&&&-Casentino-&&&-Valdarno-&&&-Valtiberina-&&&-B
+10-&&&-Un cliente chiede di andare a vedere un santuario francescano, dove si trova?-&&&-Chiusi della Verna-&&&-Montenero-&&&-Loro Ciuffenna-&&&-A
+11-&&&-Firenze, Arezzo e Siena sono attraversate da quale infrastruttura stradale in carta muta?-&&&-A15-&&&-A1-&&&-A11-&&&-B
+12-&&&-A1, A11, SGC FI LI PI sono presenti in quale provincia in carta muta?-&&&-Firenze-&&&-Siena-&&&-Prato-&&&-A
+13-&&&-L’infrastruttura stradale dal capoluogo F a Capoluogo L in carta muta si identifica in:-&&&-SS.223-E78-&&&-Raccordo autostradale RA3-&&&-Autostrada A1-&&&-B
+14-&&&-Per andare a Pontassieve da Firenze quale infrastruttura stradale posso prendere?-&&&-SS.67-&&&-A1-&&&-SS.66-&&&-A
+15-&&&-La SGC FI PI LI ha due rami:-&&&-FI PI e PI LI-&&&-FI PO e PO LI-&&&-FI PT e FI LI-&&&-A
+16-&&&-Sulla A1 Panoramica verso Bologna da Firenze quale casello autostradale trovo?-&&&-Firenzuola- Mugello-&&&-Badia-&&&-Pian del Voglio-&&&-C
+17-&&&-Marradi è attraversato da quale infrastruttura stradale regionale?-&&&-SR.222-&&&-SR.302-&&&-SR.325-&&&-B
+18-&&&-Trova l'errore nell'elenco di infrastrutture stradali statali presenti in Provincia di Firenze:-&&&-SS.67, SS.65-&&&-SS.67, SS.66-&&&-SS.67, RA3-&&&-B
+19-&&&-L'infrastruttura stradale denominata "della Futa" è:-&&&-SS.64-&&&-SS.65-&&&-SS.66-&&&-B
+20-&&&-Su Appennino Tosco - Romagnolo quale valico trovo?-&&&-Passo del Muraglione-&&&-Passo del Cerreto-&&&-Passo delle Radici-&&&-A
+21-&&&-Qual è l’infrastruttura stradale che transita dai capoluoghi D a E in carta muta?-&&&-Aurelia-&&&-Maremmana-&&&-E78-&&&-A
+22-&&&-Siena e Grosseto da quale infrastruttura stradale sono attraversate in carta muta?-&&&-la strada statale di Paganico-&&&-la strada statale di val di Cornia-&&&-la strada statale Aurelia-&&&-A
+23-&&&-L’infrastruttura stradale dal capoluogo F a Capoluogo E in carta muta si identifica in:-&&&-SS.223-E78-&&&-Raccordo autostradale RA3-&&&-Autostrada A1-&&&-A
+24-&&&-L'infrastruttura stradale statale denominata "di Paganico" quale territorio comunale attraversa?-&&&-Radicondoli-&&&-Campagnatico-&&&-Follonica Est-&&&-B
+25-&&&-Da Grosseto andando verso il sud percorrendo circa 45 km quale località raggiungo?-&&&-Braccagni-&&&-Orbetello-&&&-Fonteblanda-&&&-B
+26-&&&-Da Grosseto per andare a Civitella Marittima escludendo la SS.223 posso prendere un'altra infrastruttura stradale come alternativa?-&&&-No-&&&-Si, posso prendere la SS.1 uscendo a Braccagni proseguendo sulla strada provinciale-&&&-Si, posso prendere la SS.1 uscendo a Fonteblanda proseguendo sulla strada provinciale-&&&-B
+27-&&&-Lungo la provinciale Castiglionese verso Grosseto trovo:-&&&-Ospedale-&&&-Aeroporto Militare-&&&-Stazione Ferroviaria-&&&-B
+28-&&&-Trova l'errore nell'elenco di infrastrutture stradali statali presenti in Provincia di Grosseto:-&&&-SS.1, SS.439-&&&-SS.1, SS.223-&&&-SS.1, SS.2-&&&-C
+29-&&&-L'infrastruttura stradale E78 è denominata :-&&&-Due Mari Grosseto - Firenze-&&&-Due Mari Grosseto - Livorno-&&&-Due Mari Grosseto - Fano-&&&-C
+30-&&&-Vicino a Grosseto quale parco è presente?-&&&-Parco Regionale Migliarino, San Rossore, Massaciuccoli-&&&-Parco Alpi Apuane-&&&-Parco della Maremma-&&&-C
+31-&&&-La lettera C in carta muta quale capoluogo rappresenta?-&&&-Firenze-&&&-Pisa-&&&-Livorno-&&&-B
+32-&&&-I capoluoghi L, C e D sono attraversati da quale infrastruttura stradale in carta muta?-&&&-Autostrada del mare-&&&-Strada Grande Comunicazione-&&&-Autostrada del sole-&&&-B
+33-&&&-Dal capoluogo A al capoluogo C quale infrastruttura stradale transita in carta muta?-&&&-A12-&&&-SS.1-&&&-SGC.FI PI LI-&&&-A
+34-&&&-La SGC FI PI LI si biforca in due rami:-&&&-Uno in direzione est/nord verso Pisa e l'altro in direzione est/sud verso Livorno-&&&-Uno in direzione ovest/nord verso Pisa e l'altro in direzione ovest/sud verso Livorno-&&&-Uno in direzione nord/ovest verso Pisa e l'altro in direzione ovest/sud verso Massa-&&&-B
+35-&&&-L'infrastruttura stradale regionale n.206 collega:-&&&-Cecina e Pisa-&&&-Cecina e Livorno-&&&-Livorno e Pisa-&&&-A
+36-&&&-Percorrendo la SS1 in direzione Livorno da Grosseto quale uscita mi conviene prendere per andare al Santuario della Madonna delle Grazie?-&&&-Uscita Venturina e proseguendo la strada provinciale-&&&-Uscita Montenero e proseguendo la strada provinciale-&&&-Uscita Montenero e proseguendo la strada regionale-&&&-B
+37-&&&-La SS.68 quale territorio comunale attraversa?-&&&-Rosignano Marittimo-&&&-Sassetta-&&&-Cecina-&&&-C
+38-&&&-Trova l'errore nell'elenco di infrastrutture stradali statali presenti in Provincia di Livorno:-&&&-SS.1, SS.398-&&&-SS.1, SS.2-&&&-SS.1, SS.68-&&&-B
+39-&&&-Per andare all'Oasi di Bolgheri, dove è ubicata:-&&&-Lungo la fascia costiera della Val di Cecina-&&&-Lungo la fascia costiera di Marina di Grosseto-&&&-Lungo la fascia costiera di Tirrenia-&&&-A
+40-&&&-Il parco Archeominerario di Silvestro dove si trova?-&&&-Presso Campiglia Marittima-&&&-Presso Rosignano Marittimo-&&&-Presso Riparbella-&&&-A
+41-&&&-La lettera C in carta muta quale capoluogo rappresenta?-&&&-Pisa-&&&-Lucca-&&&-Livorno-&&&-A
+42-&&&-L'infrastruttura stradale A11 in carta muta quali capoluoghi transita?-&&&-M,N,B-&&&-M,N,A-&&&-L,C,D-&&&-A
+43-&&&-Dal capoluogo N al capoluogo B quale infrastruttura stradale transita in carta muta?-&&&-A11-&&&-A12-&&&-SGC.FI PI LI-&&&-A
+44-&&&-La diramazione A11/A12:-&&&-Si innesta a Lucca ed arriva a Viareggio-&&&-Si innesta a Lucca ed arriva a Pisa-&&&-Si innesta a Pistoia ed arriva a Lucca-&&&-A
+45-&&&-La SR. Ex 445 quale territorio comunale attraversa?-&&&-Montecatini Terme-&&&-Stazzema-&&&-Barga-&&&-C
+46-&&&-La SR. 435 Lucchese da quale centro abitato inizia?-&&&-Inizia a Lucca attraversando il territorio comunale di Capannori-&&&-Inizia a Lucca attraversando il territorio comunale di Seravezza-&&&-Inizia a Viareggio attraversando il territorio comunale di Camaiore-&&&-A
+47-&&&-Il Comune di Minucciano da quale infrastruttura stradale è attraversato?-&&&-Dalla Lucchese-&&&-Dalla Sarzanese Valdera-&&&-Ex 445 della Garfagnana-&&&-C
+48-&&&-Quale è l'elenco di infrastrutture stradali statali presenti in Provincia di Lucca corretto?-&&&-SS.1, SS.63 e SS.66-&&&-SS.1, SS.12 e SS.439-&&&-SS.1, SS.2 e SS.439-&&&-B
+49-&&&-Un cliente chiede di andare all'Orrido di Botri, dove lo porti?-&&&-Pescaglia-&&&-Bagni di Lucca-&&&-Lucca-&&&-B
+50-&&&-Su Appennino Tosco - Emiliano quale valico è presente?-&&&-Passo delle Radici-&&&-Passo della Futa-&&&-Passo del Muraglione-&&&-A
+51-&&&-L'infrastruttura stradale A12 quali province attraversa?-&&&-Massa Carrara, Lucca, Livorno e Pisa-&&&-Massa Carrara, Lucca, Livorno e Pistoia-&&&-Massa Carrara, Firenze, Siena e Grosseto-&&&-A
+52-&&&-Quale infrastruttura stradale è presente nella Provincia di Massa Carrara in carta muta?-&&&-A11-&&&-A1-&&&-A15-&&&-C
+53-&&&-Quale Provincia interessa il capoluogo individuato con la lettera C in carta muta?-&&&-Pisa-&&&-Massa Carrara-&&&-Livorno-&&&-A
+54-&&&-Il territorio comunale di Zeri da quale infrastruttura stradale regionale è attraversato?-&&&-SR.ex 445 della Garfagnana-&&&-SR.435 Lucchese-&&&-Nessuna-&&&-C
+55-&&&-La SR. Ex 445 quale territorio comunale attraversa?-&&&-Montecatini Terme-&&&-Pontremoli-&&&-Fivizzano-&&&-C
+56-&&&-La SS. 665 Massese:-&&&-Innesto sulla SS.62 della Cisa-&&&-Innesto sulla SS.63 del Valico e del Cerreto-&&&-Innesto sulla SS.1 Aurelia-&&&-A
+57-&&&-Trova l'errore nell'elenco di infrasrutture stradali statali presenti in Provincia di Massa Carrara:-&&&-SS.62, SS.63-&&&-SS.62, SS.665-&&&-SS.62, SS.398-&&&-C
+58-&&&-Percorrendo l'arteria principale quanto è distante Massa da Aulla?-&&&-Circa 100 km-&&&-Circa 10 km-&&&-Circa 40 km-&&&-C
+59-&&&-L'infrastruttura stradale statale "di Buonviaggio" che numero ha?-&&&-398-&&&-331-&&&-330-&&&-C
+60-&&&-Su Appennino Tosco - Emiliano quale valico è presente?-&&&-Passo del Muraglione-&&&-Passo del Cerreto-&&&-Passo della Futa-&&&-B
+61-&&&-La lettera D in carta muta quale capoluogo rappresenta?-&&&-Firenze-&&&-Pisa-&&&-Livorno-&&&-C
+62-&&&-A11, A12, SGC FI LI PI sono presenti in quale provincia in carta muta?-&&&-Pisa-&&&-Lucca-&&&-Prato-&&&-A
+63-&&&-La diramazione A11/A12 in carta muta in quale provincia è presente?-&&&-Firenze-&&&-Lucca-&&&-Pisa-&&&-B
+64-&&&-La SCG Firenze Pisa Livorno si biforca in due rami a:-&&&-All'altezza di Lavaiano, in Comune di Casciana Terme Lari-&&&-All'altezza di San Miniato-&&&-All'altezza di Empoli-&&&-A
+65-&&&-La SR.206 quale territorio comunale attraversa?-&&&-Montecatini Terme-&&&-Chianni-&&&-Pisa-&&&-C
+66-&&&-Quale infrastruttura stradale regionale attraversa il territrorio della Valdera?-&&&-SR.74-&&&-SR.69-&&&-SR.439-&&&-C
+67-&&&-Da Pisa andando verso il sud percorrendo circa 60 km quale località raggiungo?-&&&-Viareggio-&&&-Livorno-&&&-Cecina-&&&-C
+68-&&&-Trova l'errore nell'elenco di infrastrutture stradali statali presenti in Provincia di Pisa:-&&&-SS.2, SS.146-&&&-SS.67, SS.439-&&&-SS.1, SS.68-&&&-A
+69-&&&-Un cliente ti chiede di portarlo alla Certosa di Pisa dove lo porti?-&&&-Nel Comune di Calci-&&&-Nel Comune di Casciana Terme Lari-&&&-Nel Comune di Vicopisano-&&&-A
+70-&&&-Quale monte NON è presente nella Provincia di Pisa?-&&&-Serra-&&&-Vitalba-&&&-Gomito-&&&-C
+71-&&&-La lettera M in carta muta quale capoluogo rappresenta?-&&&-Firenze-&&&-Pistoia-&&&-Prato-&&&-C
+72-&&&-A11, A12, SGC FI LI PI sono presenti in quale provincia in carta muta?-&&&-Pisa-&&&-Pistoia-&&&-Prato-&&&-A
+73-&&&-L’infrastruttura stradale A12 quale provincia  attraversa in carta muta?-&&&-Firenze-&&&-Massa – Carrara-&&&-Pistoia-&&&-B
+74-&&&-Percorrendo le arterie principali, quanto dista il Giardino Zoologico dal centro di Pistoia?-&&&-Circa 4 km-&&&-Circa 20 km-&&&-Circa 50 km-&&&-A
+75-&&&-La SR.435 quale territorio comunale attraversa?-&&&-Marliana-&&&-Stazzema-&&&-Serravalle Pistoiese-&&&-C
+76-&&&-La SR. 436 Francesca da quale centro abitato inizia?-&&&-Inizia a Montecatini Terme attraversando il territorio comunale di Monsummano Terme-&&&-Inizia a Montecarini Terme attraversando il territorio comunale di Marliana-&&&-Inizia a Viareggio attraversando il territorio comunale di Camaiore-&&&-A
+77-&&&-Il Comune di Uzzano da quale infrastruttura stradale regionale è attraversato?-&&&-SR.66 Pistoiese-&&&-SR.70 della Consuma-&&&-SR.435 Lucchese-&&&-C
+78-&&&-Trova l'errore nell'elenco di infrastrutture stradali statali presenti in Provincia di Pistoia:-&&&-SS.67,SS.65-&&&-SS.66,SS.12-&&&-SS.64,SS.719-&&&-A
+79-&&&-Tra Pistoia e Poggio a Caiano quale centro abitato percorrendo la "pistoiese" è presente?-&&&-Montemurlo-&&&-Monsummano Terme-&&&-Quarrata-&&&-C
+80-&&&-Su Appennino Tosco - Emiliano quale valico è presente?-&&&-Passo della Porretta-&&&-Passo del Giogo-&&&-Passo del Muraglione-&&&-A
+81-&&&-La lettera N in carta muta quale capoluogo rappresenta?-&&&-Firenze-&&&-Pistoia-&&&-Prato-&&&-B
+82-&&&-L’infrastruttura stradale dal capoluogo L al capoluogo M in carta muta si identifica in:-&&&-Autostrada A1-&&&-Raccordo autostradale RA3-&&&-Autostrada A11-&&&-C
+83-&&&-L'infrastruttura stradale "Firenze Mare" in quale provincia NON è presente in carta muta?-&&&-Firenze-&&&-Prato-&&&-Livorno-&&&-C
+84-&&&-Quale territorio comunale NON è attraversato dalla SR.325?-&&&-Vaiano-&&&-Montemurlo-&&&-Cantagallo-&&&-B
+85-&&&-Da Prato andando verso il nord percorrendo circa 35 km quale località raggiungo?-&&&-Montecatini Terme-&&&-Vaiano-&&&-Montepiano-&&&-C
+86-&&&-La SR. 325 di Val di Setta e Val di Bisenzio ha origine:-&&&-Inizia a Sasso Marconi e termina a Ponte a Signa-&&&-Inizia a Prato e termina a Ponte a Signa-&&&-Inizia a Bologna e termina a Firenze-&&&-A
+87-&&&-Quale infrastruttura stradale statale è presente nella Provincia di Prato?-&&&-SS.66-&&&-SS.719-&&&-SS.398-&&&-B
+88-&&&-Un cliente ti chiede di portare a comprare il vino in comune di Carmignano, dove lo porteresti?-&&&-Artimino-&&&-Comeana-&&&-Lecore-&&&-A
+89-&&&-Tra Poggio a Caiano e Quarrata quale centro abitato percorrendo la "pistoiese" è presente?-&&&-Seano-&&&-Cantagallo-&&&-Vernio-&&&-A
+90-&&&-Quale fiume è presente nella Provincia di Prato?-&&&-Tevere-&&&-Bisenzio-&&&-Elsa-&&&-B
+91-&&&-Firenze, Arezzo e Siena sono attraversate da quale infrastruttura stradale in carta muta?-&&&-A15-&&&-A1-&&&-A11-&&&-B
+92-&&&-L’infrastruttura stradale dal capoluogo L vicino al capoluogo H in carta muta si identifica in:-&&&-SS.223-E78-&&&-Raccordo autostradale RA3-&&&-Autostrada A1-&&&-C
+93-&&&-La lettera H in carta muta quale capoluogo rappresenta?-&&&-Firenze-&&&-Arezzo-&&&-Siena-&&&-B
+94-&&&-Per andare al Florence American Cemetery percorrendo il raccordo autostradale da Firenze verso Siena quale uscita devo prendere?-&&&-Badesse-&&&-Impruneta- Greve in Chianti-&&&-Colle Val d'Elsa-&&&-B
+95-&&&-La SR.2 quale territorio comunale attraversa?-&&&-Chiusdino-&&&-Montalcino-&&&-Monteriggioni-&&&-C
+96-&&&-Quale località si transita volendo raggiungere Buonconvento da San Quirico d'Orcia?-&&&-Torrenieri-&&&-Torrita di Siena-&&&-Colle Val d'Elsa-&&&-A
+97-&&&-Trova l'errore nell'elenco di infrastrutture stradali statali presenti in Provincia di Siena:-&&&-SS.1, SS.398-&&&-SS.146, SS.2-&&&-SS.223, SS.68-&&&-A
+98-&&&-La SR.222 :-&&&-Inizia presso Badia a Ripoli e termina a Siena-&&&-Inizia presso Signa e termina a Siena-&&&-Inizia presso Radda in Chianti e termina a Grosseto-&&&-A
+99-&&&-Da Siena andando verso il nord percorrendo circa 30 km quale località raggiungo?-&&&-San Casciano in Val di Pesa-&&&-Firenze-&&&-Poggibonsi-&&&-C
+100-&&&-Quale fiume è presente nella Provincia di Siena?-&&&-Tressa-&&&-Bruna-&&&-Arno-&&&-A

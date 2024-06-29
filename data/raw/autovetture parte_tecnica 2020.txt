@@ -1,0 +1,120 @@
+0-PROVINCIA DI AREZZO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+1-&&&-L’autostrada A1 quali province attraversa nella carta muta?-&&&-Siena, Arezzo e Firenze-&&&-Siena, Arezzo e Grosseto-&&&-Pistoia, Prato e Lucca-&&&-A
+2-&&&-Quale Provincia interessa il Capoluogo individuato con la lettera C nella carta muta?-&&&-Arezzo-&&&-Siena-&&&-Grosseto-&&&-A
+3-&&&-Dal capoluogo di provincia con lettera C al capoluogo di provincia con lettera D in carta muta, quale infrastruttura autostradale devo prendere?-&&&-A11-&&&-A15-&&&-A1-&&&-C
+4-&&&-Quale infrastruttura regionale attraversa il territorio comunale di Pergine Valdarno?-&&&-S.R. 70-&&&-S.R. 74-&&&-S.R.69-&&&-C
+5-&&&-L'uscita Palazzo del Pero su quale infrastruttura si trova?-&&&-E78/S.S.73-&&&-E78/S.R.74-&&&-E80/S.S.65-&&&-A
+6-&&&-Nella Valtiberina Toscana quale infrastruttura stradale è presente?-&&&-E90-&&&-E45-&&&-E35-&&&-B
+7-&&&-Percorrendo le principali arterie stradali, quanto dista Capolona da Arezzo ?-&&&-Circa 30 km-&&&-Circa 15 km-&&&-Circa 60 km-&&&-B
+8-&&&-Quale località si transita da Bibbiena per raggiungere Castiglion Fiorentino percorrendo la S.R.71 ?-&&&-Cortona-&&&-Badesse-&&&-Rigutino-&&&-C
+9-&&&-La S.S.3 bis è denominata anche :-&&&-E78-&&&-E80-&&&-E45-&&&-C
+10-&&&-Il fiume Arno da quale monte nasce?-&&&-Monte Falco-&&&-Monviso-&&&-Monte Falterona-&&&-C
+0-PROVINCIA DI FIRENZE
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+11-&&&-Quale è la lettera individuata per il capoluogo della Provincia di Pistoia nella carta muta?-&&&-G-&&&-F-&&&-M-&&&-B
+12-&&&-L’infrastruttura stradale che collega i capoluoghi D e M in carta muta è?-&&&-Strada di grande comunicazione-&&&-Strada extraurbana principale-&&&-Strada urbana-&&&-A
+13-&&&-Quale infrastruttura NON E' PRESENTE nella Provincia di Firenze nella carta muta?-&&&-A11-&&&-A1-&&&-A15-&&&-C
+14-&&&-Il Comune di Campi Bisenzio da quali infrastrutture principali è attraversato?-&&&-A1 e A11-&&&-A1 e A12-&&&-A11 e A12-&&&-A
+15-&&&-La Firenze Mare collega?-&&&-Firenze con litorale tirrenico-&&&-Firenze con litorale ligure-&&&-Firenze con litorale adriatico-&&&-A
+16-&&&-La Strada Regionale n.69 attraversa:-&&&-Valle d'Ombrone-&&&-Valdarno Superiore-&&&-Val di Cornia-&&&-B
+17-&&&-Quale infrastruttura stradale a scorrimento veloce si prende per raggiungere Montelupo Fiorentino dal centro di Firenze?-&&&-S.S.65 della Futa-&&&-S.G.C. Firenze Pisa Livorno-&&&-A11 Firenze – Pisa Nord-&&&-B
+18-&&&-Il passo Vetta delle Croci su quale infrastruttura stradale si trova?-&&&-Sulla S.R.302-&&&-Sulla A11-&&&-Sulla S.S.65-&&&-A
+19-&&&-Nel Comune di San Godenzo nella Provincia di Firenze è presente quale parco?-&&&-Parco nazionale delle Foreste Casentinesi-&&&-Parco nazionale dell'Appenino Tosco - Emiliano-&&&-Parco nazionale dell'Arcipelago Toscano-&&&-A
+20-&&&-Il passo del Muraglione è un valico di quale catena montuosa?-&&&-Apuane-&&&-Appennino ligure-&&&-Appennino tosco – romagnolo-&&&-C
+0-PROVINCIA DI GROSSETO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+21-&&&-Qual è l'infrastruttura che attraversa i capoluoghi individuati con lettere A e B in carta muta?-&&&-Autosole-&&&-Autopalio-&&&-Grosseto-Fano-&&&-C
+22-&&&-Quali province attraversa l’infrastruttura che collega il capoluogo indicato con lettera A al capoluogo indicato con lettera M in carta muta?-&&&-Livorno e Grosseto-&&&-Grosseto e Siena-&&&-Firenze e Siena-&&&-A
+23-&&&-Qual è la infrastruttura NON presente nella Provincia di Grosseto in carta muta?-&&&-A1-&&&-S.S.1-&&&-E78-&&&-A
+24-&&&-Quale infrastruttura regionale attraversa il Comune di Scansano in Provincia di Grosseto?-&&&-Maremmana-&&&-Nessuna-&&&-Senese-Aretina-&&&-B
+25-&&&-Quale località turistica posso raggiungere da Grosseto tramite l'Aurelia verso SUD?-&&&-Riserva Naturale Basso Merse-&&&-Il giardino dei Tarocchi-&&&-Il porto turistico di Punta Ala-&&&-B
+26-&&&-Percorrendo la S.R.74 quale località attraverso?-&&&-Magliano in Toscana-&&&-Marsiliana-&&&-Chiusdino-&&&-B
+27-&&&-Quale infrastruttura stradale devo prendere da Grosseto per andare all'Oasi WWF di Orbetello?-&&&-E78-&&&-E80-&&&-E45-&&&-B
+28-&&&-Quale è il parco regionale presente nella Provincia di Grosseto?-&&&-Parco della Maremma-&&&-Parco delle Alpi Apuane-&&&-Parco di Migliarino, San Rossore, Massaciuccoli-&&&-A
+29-&&&-La città del tufo "Pitigliano" su quale infrastruttura si trova?-&&&-S.S.1-&&&-S.R.69-&&&-S.R.74-&&&-C
+30-&&&-L'aeroporto di Grosseto, rispetto al centro storico di Grosseto, si trova in direzione:-&&&-Est-&&&-Nord-&&&-Ovest-&&&-C
+0-PROVINCIA DI LIVORNO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+31-&&&-In quali province è individuata la infrastruttura S.S.1 in carta muta?-&&&-Livorno e Siena-&&&-Grosseto e Siena-&&&-Livorno e Grosseto-&&&-C
+32-&&&-Qual è la classificazione dell'infrastruttura individuata dalle lettere D e B in carta muta?-&&&-regionale-&&&-comunale-&&&-statale-&&&-C
+33-&&&-Quale infrastruttura NON è presente in Provincia di Livorno in carta muta?-&&&-S.S.1-&&&-A12-&&&-A11-&&&-C
+34-&&&-Il casello autostradale Collesalvetti su quale infrastruttura autostradale é presente?-&&&-A12-&&&-A15-&&&-A11-&&&-A
+35-&&&-La Strada Regionale n.206  nella Maremma Livornese quale Comune interessa?-&&&-Cecina-&&&-Casale Marittimo-&&&-Lajatico-&&&-A
+36-&&&-La strada regionale n.206 è denominata :-&&&-Pisana - Livornese-&&&-Pisana - Lucchese-&&&-Senese - Aretina-&&&-A
+37-&&&-Percorrendo le principali arterie stradali, quanto dista Livorno da Vada ?-&&&-Circa 70 km-&&&-Circa 15 km-&&&-Circa 30 km-&&&-C
+38-&&&-Quale località si transita volendo andare a Quercianella da Castiglioncello?-&&&-Calambrone-&&&-Chioma-&&&-Marina di Bibbona-&&&-B
+39-&&&-Come si chiama l'Area Archeologica che si trova in comune di Piombino?-&&&-Area Archeologica di Rosselle-&&&-Parco Archeologico di Baratti e Populonia-&&&-Area Archeologica di Fiesole-&&&-B
+40-&&&-Quale isola NON fa parte del Parco Nazionale dell'Arcipelago Toscano?-&&&-Isola Pianosa-&&&-Isola di Ponza-&&&-Isola di Giglio-&&&-B
+0-PROVINCIA DI LUCCA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+41-&&&-Quale è il capoluogo di provincia individuato con la lettera B in carta muta?-&&&-Arezzo-&&&-Livorno-&&&-Siena-&&&-C
+42-&&&-Quale è l’infrastruttura che collega le località indicate con lettere L e D in carta muta?-&&&-A1-&&&-SGC FI PI LI-&&&-A15-&&&-B
+43-&&&-Quali province attraversa l'infrastruttura dal capoluogo individuato con lettera E al capoluogo individuato con lettera G in carta muta?-&&&-Prato, Pistoia e Lucca-&&&-Prato, Pistoia e Livorno-&&&-Prato, Pistoia e Massa Carrara-&&&-A
+44-&&&-Da quale infrastruttura stradale regionale è interessato il territorio della Garfagnana?-&&&-S.R.70-&&&-S.R.445-&&&-S.R.71-&&&-B
+45-&&&-Quale infrastruttura stradale è presente nel Comune di Massarosa della Provincia di Lucca?-&&&-S.R. 66-&&&-S.R. 69-&&&-S.S.439-&&&-C
+46-&&&-Devo andare alla Villa Museo di Puccini presso Torre del Lago da Lucca quali infrastrutture devo percorrere?-&&&-L'A11 e  la S.S.12-&&&-L'A11 e la S.S.1-&&&-L'A1 e la S.S.73-&&&-B
+47-&&&-Percorrendo le infrastrutture principali, quanto dista Lucca da Bagni di Lucca?-&&&-Circa 30 km-&&&-Circa 45 km-&&&-Circa 60 km-&&&-A
+48-&&&-Percorrendo la Firenze Mare, l'acquedotto Nottolini si trova nei pressi di:-&&&-Casello Autostradale di Montecatini Terme-&&&-Casello Autostradale di Lucca-&&&-Casello Autostradale di Massarosa-&&&-B
+49-&&&-La diramazione A11/A12 è denominata :-&&&-Bretella Lucca - Altopascio-&&&-Bretella Prato-&&&-Bretella Lucca - Viareggio-&&&-C
+50-&&&-Quale è il parco naturale in prossimità di Stazzema?-&&&-Parco Nazionale dell’Appennino Tosco – Emiliano-&&&-Parco Regionale Alpi Apuane-&&&-Parco Nazionale dell’Arcipelago Toscano-&&&-B
+0-PROVINCIA DI MASSA – CARRARA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+51-&&&-Da quali infrastrutture stradali è interessata la provincia individuata dal capoluogo con lettera H in carta muta?-&&&-A12 e A11-&&&-A12 e A15-&&&-A11 e A1-&&&-B
+52-&&&-Quali province attraversa l'infrastruttura dal capoluogo individuato con lettera D al capoluogo individuato con lettera G, in carta muta?-&&&-Firenze, Prato, Pistoia e Lucca-&&&-Firenze, Prato, Pistoia e Livorno-&&&-Firenze, Siena, Grosseto ed Arezzo-&&&-A
+53-&&&-Quale è l'infrastruttura stradale che tocca i capoluoghi delle province indicate con lettere H e L nella carta muta?-&&&-A1-&&&-A12-&&&-A15-&&&-B
+54-&&&-Se voglio andare al Castello Malaspina a Fosdinovo da Ceserano che tipo di infrastuttura devo prendere?-&&&-Statale-&&&-Provinciale-&&&-Regionale-&&&-A
+55-&&&-Quale infrastruttura stradale è presente nel territorio della Valle del Magra?-&&&-S.S.62 della Cisa-&&&-S.S.12 dell'Abetone e del Brennero-&&&-S.S.66 Pistoiese-&&&-A
+56-&&&-Percorrendo le principali arterie stradali, quanto dista Pontremoli da Aulla ?-&&&-Circa 20 km-&&&-Circa 55 km-&&&-Circa 10 km-&&&-A
+57-&&&-L'infrastruttura regionale S.R.445 quali comuni nella Provincia di Massa Carrara attraversa?-&&&-Fivizzano e Massa-&&&-Seravezza e Pisa-&&&-Fivizzano e Casola in Lunigiana-&&&-C
+58-&&&-Quale è il parco nazionale presente nella Provincia di Massa Carrara?-&&&-Parco nazionale dell'Appenino Tosco - Emiliano-&&&-Parco nazionale delle Foreste Casentinesi-&&&-Parco nazionale dell'Arcipelago Toscano-&&&-A
+59-&&&-L'infrastruttura S.S.665 Massese quali comuni attraversa?-&&&-Aulla, Fivizzano e Viareggio-&&&-Aulla, Licciana Nardi e Comano-&&&-Montignoso, Lucca-&&&-B
+60-&&&-La Valle del Verde è attraversata da quale torrente?-&&&-Torrente Giallo-&&&-Torrente Verde-&&&-Torrente Azzurro-&&&-B
+0-PROVINCIA DI PISA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+61-&&&-Quale Provincia interessa il Capoluogo individuato con la lettera F nella carta muta?-&&&-Pistoia-&&&-Prato-&&&-Siena-&&&-A
+62-&&&-Quale è l’infrastruttura che collega le località indicate con lettere L e H in carta muta?-&&&-A12-&&&-S.G.C.FI-PI-LI-&&&-A1-&&&-A
+63-&&&-Quale infrastruttura NON interessa il capoluogo indicato con lettera D  in carta muta?-&&&-A1-&&&-A12-&&&-A11-&&&-B
+64-&&&-Tra Pontedera e Ponsacco quale infrastruttura attraverso?-&&&-Pisana -Livornese-&&&-Senese - Aretina-&&&-Firenze Pisa Livorno-&&&-C
+65-&&&-Quale infrastruttura stradale statale attraversa il territorio del Valdarno Inferiore?-&&&-S.S. 66 Pistoiese-&&&-S.S.68 Val di Cecina-&&&-S.S. 67 Tosco Romagnola-&&&-C
+66-&&&-Quanto dista la sede del Parco Naturale Migliarino, San Rossore, Massaciuccoli da Pisa?-&&&-Circa 5 km-&&&-Circa 30 km-&&&-Circa 50 km-&&&-A
+67-&&&-Se voglio andare a Marina di Pisa da Pisa che infrastruttura devo prendere?-&&&-strada provinciale-&&&-strada comunale-&&&-autostrada-&&&-A
+68-&&&-L'interporto Amerigo Vespucci in che zona si trova?-&&&-Guasticce-&&&-Cascina-&&&-Empoli-&&&-A
+69-&&&-Quale è il parco regionale presente nella Provincia di Pisa?-&&&-Parco delle Alpi Apuane-&&&-Parco di Migliarino, San Rossore, Massaciuccoli-&&&-Parco della Maremma-&&&-B
+70-&&&-Piazza Miracoli rispetto alla stazione ferroviaria di Pisa, è ubicata in direzione:-&&&-Nord-&&&-Sud-&&&-Est-&&&-A
+0-PROVINCIA DI PISTOIA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+71-&&&-In quali province è individuata la infrastruttura A12 in carta muta?-&&&-Massa Carrara, Lucca, Pistoia e Pisa-&&&-Massa Carrara, Lucca, Pisa, Livorno-&&&-Pistoia, Prato, Lucca e Firenze-&&&-B
+72-&&&-Quale è l’infrastruttura individuata dalle lettere D e C in carta muta?-&&&-Raccordo Autostradale Firenze - Siena-&&&-A11-&&&-A1-&&&-C
+73-&&&-In quale province NON è individuata la S.S.1  in carta muta?-&&&-Grosseto-&&&-Livorno-&&&-Firenze-&&&-C
+74-&&&-Sono appena entrata sul raccordo di Pistoia dalla Porrettana venendo da Nord, devo andare allo zoo di Pistoia, quale uscita migliore mi conviene?-&&&-Pistoia Ovest-&&&-Pistoia Viale Europa-&&&-Prato-&&&-A
+75-&&&-Per andare all'Abetone da Lucca quale strada statale devo percorrere?-&&&-S.S.12-&&&-S.S.66-&&&-S.S.67-&&&-A
+76-&&&-Quale strada statale NON è presente nella Provincia di Pistoia?-&&&-S.S.64-&&&-S.S.1-&&&-S.S.66-&&&-B
+77-&&&-Da Pistoia per raggiungere Pavana quale infrastruttura devo percorrere?-&&&-Lucchese-&&&-Pistoiese-&&&-Porrettana-&&&-C
+78-&&&-Il passo dell'Oppio si trova su quale infrastruttura?-&&&-S.S.65-&&&-S.S.66-&&&-S.S.64-&&&-B
+79-&&&-Il centro di Pistoia rispetto al Montalbano si trova-&&&-Est-&&&-Sud-&&&-Nord-&&&-C
+80-&&&-Quale riserva naturale è nella Provincia di Pistoia?-&&&-Riserva Naturale Basso Merse-&&&-Padule di Fucecchio-&&&-Farma-&&&-B
+0-PROVINCIA DI PRATO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+81-&&&-Quale infrastruttura è presente nella Provincia di Prato  in carta muta?-&&&-A11-&&&-A12-&&&-A1-&&&-A
+82-&&&-L'infrastruttura stradale individuata dalla lettera D alla lettera G quali province attraversa in carta muta?-&&&-Prato, Pistoia, Lucca e Massa Carrara-&&&-Pistoia, Prato, Firenze e Siena-&&&-Lucca, Pistoia, Firenze e Prato-&&&-C
+83-&&&-Quale è la lettera individuata per il capoluogo della Provincia di Prato in carta muta?-&&&-D-&&&-E-&&&-F-&&&-B
+84-&&&-Quale infrastruttura regionale attraversa la Val di Bisenzio?-&&&-S.R.325-&&&-S.R.302-&&&-S.R.435-&&&-A
+85-&&&-La S.R.66 Pistoiese quali comuni attraversa nella Provincia di Prato?-&&&-Poggio a Caiano e Vinci-&&&-Poggio a Caiano e Carmignano-&&&-Prato e Vaiano-&&&-B
+86-&&&-La SS.719 è denominata anche:-&&&-Declassata Prato - Firenze-&&&-Declassata Prato - Pistoia-&&&-Declassata Firenze - Siena-&&&-B
+87-&&&-Da Prato per andare a Cantagallo quale infrastruttura devo percorrere?-&&&-Lucchese-&&&-Val di Setta e Val di Bisenzio-&&&-Francesca-&&&-B
+88-&&&-L'interporto della Toscana  in che zona si trova?-&&&-Galciana-&&&-Empoli-&&&-Gonfienti-&&&-C
+89-&&&-La A12 è denominata anche:-&&&-Autostrada Azzurra-&&&-Autostrada Adriatica-&&&-Autostrada del Sole-&&&-A
+90-&&&-Il Centro di Scienze Naturali di Prato si trova all'interno del:-&&&-Cascine di Tavola-&&&-Parco Galceti-&&&-Stagni di Focognano-&&&-B
+0-PROVINCIA DI SIENA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+91-&&&-L'infrastruttura Raccordo Autostradale “Firenze – Siena” quali capoluoghi di provincia interessa nella carta muta?-&&&-D-C-&&&-C-B-&&&-D-B-&&&-C
+92-&&&-Le infrastrutture stradali individuate dalla lettera D alla lettera A  quali province attraversano in carta muta?-&&&-Firenze, Siena ed Arezzo-&&&-Prato, Pistoia e Siena-&&&-Firenze, Siena e Grosseto-&&&-C
+93-&&&-Quali sono le infrastrutture principali interessate nel capoluogo indicato con la lettera B nella carta muta?-&&&-Raccordo Autostradale “Firenze - Siena”  e A11-&&&-Raccordo Autostradale “Firenze - Siena” e  E78-&&&-A1 e S.S.2-&&&-B
+94-&&&-Quali infrastrutture stradali attraversano il Comune di Chiusi in Provincia di Siena?-&&&-A1 e S.S.146-&&&-A1 e S.S.2-&&&-A11 e E78-&&&-A
+95-&&&-Quale infrastruttura stradale regionale NON è presente nella Provincia di Siena?-&&&-S.R. 69-&&&-S.R. 429-&&&-S.R. 2-&&&-A
+96-&&&-Da Colle Val d'Elsa a Volterra quale infrastruttura stradale devo prendere?-&&&-Chiantigiana-&&&-Val di Cecina-&&&-Cassia-&&&-B
+97-&&&-Percorrendo le principali arterie stradali, quanto dista Lucignano d'Arbia da Siena?-&&&-Circa 45 km-&&&-Circa 20 km-&&&-Circa 60 km-&&&-B
+98-&&&-L'Abbazia di Monte Oliveto Maggiore in quale comune ricade?-&&&-Montemurlo-&&&-Montepulciano-&&&-Asciano-&&&-C
+99-&&&-Il Raccordo Autostradale “Firenze – Siena” è denominato anche:-&&&-Autosole-&&&-Variante di Valico-&&&-Autopalio-&&&-C
+100-&&&-Dove si trova la riserva naturale di Castelvecchio?-&&&-San Gimignano-&&&-Volterra-&&&-Siena-&&&-A

@@ -1,0 +1,103 @@
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+1-&&&-Nella Provincia di Arezzo quale di queste infrastrutture stradali è presente in carta muta?-&&&-E80-&&&-E45-&&&-E78-&&&-B
+2-&&&-Guardando la carta muta l'infrastruttura stradale da capoluogo B a capoluogo C è:-&&&-La SS.74-E78-&&&-La SS.73-E78-&&&-La SS.73-E80-&&&-B
+3-&&&-Il capoluogo individuato con lettera A in carta muta è attraversato da quale infrastruttura stradale ?-&&&-Aurelia-&&&-Maremmana-&&&-Aretina – Senese-&&&-A
+4-&&&-Sono nei pressi della stazione di Laterina, quale infrastruttura regionale prendo per andare ad Arezzo?-&&&-SR.74-&&&-SR.70-&&&-SR.69-&&&-C
+5-&&&-Sono sulla E45 verso il Nord nei pressi di Sansepolcro dopo circa 15 km esco a :-&&&-Arezzo-&&&-Montevarchi-&&&-Pieve Santo Stefano-&&&-C
+6-&&&-Quale infrastruttura di interesse nazionale scorre vicino al centro abitato di Ponticino ?-&&&-A12-&&&-A15-&&&-A1-&&&-C
+7-&&&-L'E45 è chiamata anche :-&&&-SS.2 Bis Tiberina-&&&-SS.3 Bis Tiberina-&&&-SS.3 Tiberina-&&&-B
+8-&&&-Per raggiungere Monterchi da Arezzo quali infrastrutture stradali devo prendere?-&&&-la SS.73 e poi la strada provinciale-&&&-la SS.73 e poi la strada comunale-&&&-la SS.73-&&&-A
+9-&&&-Quale casello autostrada è presente nell'Autostrada A1 Milano Napoli in Regione Toscana?-&&&-Valdichiana-&&&-Pistoia-&&&-Fabro-&&&-A
+10-&&&-In quale valle è ubicato il Comune di Bucine?-&&&-Valdambra-&&&-Valdichiana-&&&-Valtiberina-&&&-A
+1-&&&-Nella città metropolitana di Firenze quale di queste infrastrutture stradali è presente in carta muta?-&&&-SR.445-&&&-SR.429-&&&-SS.66-&&&-B
+2-&&&-Guardando la carta muta l'infrastruttura stradale da capoluogo B a capoluogo C è:-&&&-La SS.74-E78-&&&-La SS.73-E78-&&&-La SS.73-E80-&&&-B
+3-&&&-Il capoluogo individuato con lettera A in carta muta è attraversato da quale infrastruttura stradale ?-&&&-Aurelia-&&&-Maremmana-&&&-Cassia-&&&-A
+4-&&&-La principale strada che collega i comuni del Valdarno è:-&&&-SR.71-&&&-SR.302-&&&-SR.69-&&&-C
+5-&&&-Sono sulla A1 nei pressi di Incisa- Reggello verso Arezzo dopo circa 17 km esco a :-&&&-Arezzo-&&&-Scandicci-&&&-Valdarno-&&&-C
+6-&&&-Vicino al centro abitato di Ellera quale infrastruttura stradale percorre?-&&&-La SS.62-&&&-La SS.66-&&&-La SS.67-&&&-C
+7-&&&-L'E78 è chiamata anche :-&&&-Del Mare Grosseto Fano-&&&-Due Mari Grosseto Fano-&&&-Due Mari Grosseto Ancona-&&&-B
+8-&&&-Il cliente deve andare alla sede dell'Unione dei Comuni Valdarno e Valdisieve dove lo porti?-&&&-Rufina-&&&-Firenze-&&&-Dicomano-&&&-A
+9-&&&-Leccio è ubicato in quale valle ?-&&&-Valdambra-&&&-Valdarno-&&&-Valtiberina-&&&-B
+10-&&&-Nella città Metropolitana di Firenze è presente:-&&&-Lago di Bilancino-&&&-Lago di Suviana-&&&-Lago Nero-&&&-A
+1-&&&-La Provincia di Grosseto da quali infrastrutture stradali è attraversata in carta muta?-&&&-Aurelia, Raccordo Autostradale Firenze - Siena-&&&-Aurelia, E78-&&&-Maremmana, Massese-&&&-B
+2-&&&-Quale è il percorso stradale che collega i capoluoghi individuati con lettere A e B in carta muta?-&&&-Raccordo Autostradale Firenze- Siena-&&&-Statale di Paganico-&&&-A1 Milano - Napoli-&&&-B
+3-&&&-Sulla carta muta la Diramazione A11/A12 Viareggio Lucca è vicino-&&&-al capoluogo H-&&&-al capoluogo L-&&&-al capoluogo G-&&&-C
+4-&&&-Percorrendo principalmente la SR74 quanti km sono circa da Albinia a Pitigliano?-&&&-Circa 33 km-&&&-Circa 10 km-&&&-Circa 50 Km-&&&-C
+5-&&&-Quali sono gli assi viari che interessano il Comune di Follonica?-&&&-SR.74 Maremmana e SS.1 Aurelia-&&&-SS. 439 Sarzanese Valdera e SS.1 Aurelia-&&&-SS.398 Val di Cornia e SS.1 Aurelia-&&&-B
+6-&&&-Quale è il percorso stradale per andare alla Riserva della Feniglia da Grosseto?-&&&-Percorro l'Aurelia ed esco ad Ansendonia-&&&-Percorro l'Aurelia ed esco ad Alberese-&&&-Percorro la Maremmana ed esco ad Albinia-&&&-A
+7-&&&-Un cliente vuole andare all'Isola del Giglio, dove lo porti?-&&&-Porto Ercole-&&&-Porto Santo Stefano-&&&-Porto di Punta Ala-&&&-B
+8-&&&-Quale località si transita volendo raggiungere Follonica da Grosseto?-&&&-Braccagni-&&&-Rispescia-&&&-Magliano in Toscana-&&&-A
+9-&&&-L'E78 è chiamata anche :-&&&-Mari Grosseto Fano-&&&-Due Mari Grosseto Fano-&&&-Due Mari Grosseto Ancona-&&&-B
+10-&&&-Come si chiamano le terme più rinominate nella provincia di Grosseto?-&&&-Terme di Saturnia-&&&-Terme di Venturina-&&&-Terme di Bagno Vignoni-&&&-A
+1-&&&-Il capoluogo con lettera A in carta muta rappresenta-&&&-Grosseto-&&&-Livorno-&&&-Siena-&&&-A
+2-&&&-L'infrastruttura autostradale A12 in carta muta-&&&-Attraversa le province di Livorno, Pisa, Lucca e Massa Carrara-&&&-Attraversa le province di Grosseto, Livorno, Pisa e Lucca-&&&-Attraversa le province di Grosseto, Livorno, Pisa e Pistoia-&&&-A
+3-&&&-Quali sono le infrastrutture stradali che passano in prossimità del capoluogo individuato con la lettera D in carta muta?-&&&-A1, A11, R.A. Firenze-Siena e SGC FI PI LI-&&&-A1, A12, R.A. Firenze-Siena e SGC FI PI LI-&&&-A11, A12, R.A. Firenze-Siena e SGC FI PI LI-&&&-A
+4-&&&-Per andare alla Darsena Toscana da Pisa che infrastruttura stradale devo prendere?-&&&-E45 e la provinciale-&&&-E78 e la provinciale-&&&-E80 e la provinciale-&&&-C
+5-&&&-Quale tra queste infrastrutture stradali è esistente nella Provincia di Livorno?-&&&-SS.68-&&&-SS.2-&&&-SS.439-&&&-A
+6-&&&-La Bretella di collegamento A12 Dir con quale infrastruttura stradale si collega?-&&&-Aurelia-&&&-Pisana – Livornese-&&&-Lucchese-&&&-A
+7-&&&-Sono sulla Aurelia nei pressi di Cecina verso Grosseto dopo circa 24 km esco a :-&&&-Livorno-&&&-Piombino-&&&-Donoratico-&&&-C
+8-&&&-Vicino al centro abitato di Crocino quale infrastruttura stradale percorre?-&&&-La SR.429-&&&-La SR.222-&&&-La SR.206-&&&-C
+9-&&&-In Provincia di Livorno quale infrastruttura stradale di interesse nazionale è presente?-&&&-La A12-&&&-La A11-&&&-La A15-&&&-A
+10-&&&-Come si chiamano le terme più rinominate nella provincia di Livorno?-&&&-Terme di Saturnia-&&&-Terme di Venturina-&&&-Terme di Bagno Vignoni-&&&-B
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+1-&&&-Il capoluogo con lettera L in carta muta rappresenta-&&&-Pisa-&&&-Livorno-&&&-Lucca-&&&-A
+2-&&&-Dal capoluogo individuato con la lettera M al capoluogo individuato con lettera D qual è il nome della infrastruttura stradale in carta muta?-&&&-SS.1 Aurelia-&&&-A11-&&&-SGC FI PI LI-&&&-C
+3-&&&-Sulla carta muta la Diramazione A11/A12 Viareggio Lucca è vicino-&&&-al capoluogo H-&&&-al capoluogo L-&&&-al capoluogo G-&&&-C
+4-&&&-Trova l'errore in questo elenco di infrastrutture stradali presenti nella Provincia di Lucca-&&&-SS.12,SS.439 e SS.1-&&&-SS.12, SS.439 e SS.12radd-&&&-SS.12, SS.439 e SS.2-&&&-C
+5-&&&-La SR.445 si innesta sulla strada statale :-&&&-SS.63-&&&-SS.62-&&&-SS.65-&&&-A
+6-&&&-Il cliente deve andare alla sede dell'Unione dei Comuni Media Valle del Serchio dove lo porti?-&&&-Borgo a Mozzano-&&&-Capannori-&&&-Altopascio-&&&-A
+7-&&&-Quali sono gli assi viari che interessano il Comune di Capannori?-&&&-A11 e SS.12-&&&-A11 e SS.439-&&&-A1 e SS.439-&&&-B
+8-&&&-Sono sulla SS.12 verso Lucca nei pressi di Fabbriche Casabasciana dopo circa 13 km sono a :-&&&-San Marcello Pistoiese-&&&-Borgo a Mozzano-&&&-Bagni di Lucca-&&&-B
+9-&&&-Vicino al centro abitato di San Macario in Piano quale infrastruttura stradale percorre?-&&&-SS.439-&&&-SS.12-&&&-SS.12radd-&&&-A
+10-&&&-Quale monte è presente nella provincia di Lucca?-&&&-Monte Amiata-&&&-Monte Pisanino-&&&-Monte Gomito-&&&-B
+1-&&&-Il capoluogo con lettera M in carta muta rappresenta-&&&-Pisa-&&&-Livorno-&&&-Massa-&&&-B
+2-&&&-Dal capoluogo individuato con la lettera M al capoluogo individuato con lettera D qual è il nome della infrastruttura stradale in carta muta?-&&&-A12-&&&-A15-&&&-SGC FI PI LI-&&&-C
+3-&&&-Sulla carta muta la Diramazione A11/A12 Viareggio Lucca è vicino-&&&-al capoluogo H-&&&-al capoluogo L-&&&-al capoluogo G-&&&-C
+4-&&&-Trova l'errore in questo elenco di infrastrutture stradali presenti nella Provincia di Massa-&&&-SS.62, SS.63 e SS.665-&&&-SS.62, SS.63 e SS.66-&&&-SS.62, SS,63 e SS.1-&&&-B
+5-&&&-Da Aulla percorrendo la A15 verso il Nord dopo circa 20 km esco a :-&&&-Pontremoli-&&&-Fivizzano-&&&-Lucca-&&&-A
+6-&&&-Quale infrastruttura stradale regionale o statale è presente nel territorio comunale di Fosdinovo?-&&&-SS.63-&&&-SS.62-&&&-nessuna-&&&-C
+7-&&&-Sono a Cinquale e devo andare ad Avenza, quale infrastruttura stradale senza pedaggio percorro?-&&&-Massese-&&&-Aurelia-&&&-A12-&&&-B
+8-&&&-Vicino al centro abitato di Maestà dei Saldi quale infrastruttura stradale percorre?-&&&-SS.1 Aurelia-&&&-SS.665 Massese-&&&-SS.62 della Cisa-&&&-B
+9-&&&-Nella Val di Magra quale infrastruttura stradale è presente?-&&&-dell'Abetone e del Brennero-&&&-della Cisa-&&&-Sarzanese Valdera-&&&-B
+10-&&&-Il Passo del Lagastrello si trova sulla:-&&&-SS.63-&&&-SS.62-&&&-SS.665-&&&-C
+1-&&&-Le lettere D,L,M individuano in carta muta :-&&&-la SGC FI PI LI-&&&-A1-&&&-A11-&&&-A
+2-&&&-L'infrastruttura autostradale A12 in carta muta-&&&-Attraversa le province di Livorno, Pisa, Lucca e Massa Carrara-&&&-Attraversa le province di Grosseto, Livorno, Pisa e Lucca-&&&-Attraversa le province di Grosseto, Livorno, Pisa e Pistoia-&&&-A
+3-&&&-La Diramazione A11/A12 Viareggio Lucca è vicino sulla carta muta?-&&&-al capoluogo H-&&&-al capoluogo L-&&&-al capoluogo G-&&&-C
+4-&&&-Trova l'errore in questo elenco di infrastrutture stradali presenti nella Provincia di Pisa-&&&-SS.439, SS.68-&&&-SS.439, SS.66-&&&-SS.439 Dir, SS.67bis-&&&-B
+5-&&&-la NSA325 :-&&&-Innesto con la SS.67 presso Pisa - Innesto con la SP.Romanina-&&&-Innesto con la SS.66 presso Montopoli Val d'Arno - Innesto con la SP.Romanina-&&&-Innesto con la SS.67 presso Montopoli Val d'Arno - Innesto con la SP.Romanina-&&&-C
+6-&&&-Nel Comune di Casale Marittimo quali infrastrutture stradali statali e regionali sono presenti?-&&&-SR.206 e la SS.68-&&&-Nessuna-&&&-SR.206 e SS.439-&&&-B
+7-&&&-Percorrendo la SS.12 quanto dista Ripafratta da San Giuliano Terme?-&&&-Circa 50 km-&&&-Circa 8 km-&&&-Circa 20 km-&&&-B
+8-&&&-Percorrendo la A12 verso il Nord, l'uscita di Pisa Centro mi permette di andare a:-&&&-San Piero a Grado-&&&-Montecatini Val di Cecina-&&&-San Giuliano a Terme-&&&-A
+9-&&&-Il cliente deve andare alla sede dell'Unione Valdera dove lo porti?-&&&-Pontedera-&&&-Pisa-&&&-Ponsacco-&&&-A
+10-&&&-Quale monte è presente in Comune di Chianni?-&&&-Monte Gomito-&&&-Monte Vitalba-&&&-Monte Serra-&&&-B
+1-&&&-Quale infrastruttura stradale è presso il capoluogo individuato con lettera L in carta muta?-&&&-il ramo stradale della SGC FI PI LI-&&&-il ramo stradale della A11 Dir-&&&-il ramo stradale della A1-&&&-A
+2-&&&-Il capoluogo con lettera E in carta muta rappresenta-&&&-Prato-&&&-Livorno-&&&-Lucca-&&&-A
+3-&&&-L'infrastruttura autostradale A11 in carta muta-&&&-Attraversa le province di Firenze, Prato, Pistoia, Lucca e Livorno-&&&-Attraversa le province di Firenze, Prato, Pistoia, Lucca e Pisa-&&&-Attraversa le province di Firenze, Prato, Pistoia, Lucca e Massa Carrara-&&&-B
+4-&&&-Trova l'errore in questo elenco di infrastrutture stradali presenti nella Provincia di Pistoia-&&&-SS.64, SS.66 e SS.716-&&&-SS.64, SS.65 e SS.66-&&&-SS.64, SS.66 e SS.12-&&&-B
+5-&&&-Quanto dista Mammiano Basso percorrendo principalmente la SS.66 da Cireglio?-&&&-Circa 50 km-&&&-Circa 100 km-&&&-Circa 20 km-&&&-C
+6-&&&-la SS.716 :-&&&-Innesto con la SS.64 a nord di Pistoia - Svincolo con l'A11 a Sud di Pistoia-&&&-Innesto con la SS.66 a nord di Pistoia - Svincolo con l'A11 a Sud di Pistoia-&&&-Innesto con la SS.64 a nord di Pistoia - Svincolo con l'A1 a Sud di Pistoia-&&&-A
+7-&&&-Vicino al centro abitato di Campo Tizzoro quale infrastruttura stradale percorre?-&&&-SS.66-&&&-SS.64-&&&-SS.65-&&&-A
+8-&&&-Quale infrastruttura stradale in provincia di Pistoia ha lo stesso numero sia per statale che regionale?-&&&-la strada n.64-&&&-la strada n.66-&&&-la strada n.2-&&&-B
+9-&&&-Il cliente deve andare alla sede dell'Unione di Comuni Montani Appennino Pistoiese dove lo porti?-&&&-Pistoia-&&&-San Marcello Piteglio-&&&-Serravalle Pistoiese-&&&-B
+10-&&&-Quale monte è presente nella provincia di Pistoia?-&&&-Monte Amiata-&&&-Monte Pisanino-&&&-Monte Gomito-&&&-C
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+1-&&&-Il capoluogo con lettera F in carta muta rappresenta-&&&-Prato-&&&-Pistoia-&&&-Lucca-&&&-B
+2-&&&-Quale è il percorso stradale che collega i capoluoghi individuati con lettere D,M e L in carta muta?-&&&-SGC. FI PI LI-&&&-Raccordo Autostradale Firenze- Siena-&&&-A1 Milano - Napoli-&&&-A
+3-&&&-L'infrastruttura autostradale A11 in carta muta-&&&-Attraversa le province di Firenze, Prato, Pistoia, Lucca e Livorno-&&&-Attraversa le province di Firenze, Prato, Pistoia, Lucca e Pisa-&&&-Attraversa le province di Firenze, Prato, Pistoia, Lucca e Massa Carrara-&&&-B
+4-&&&-Come si chiama la SR325 in Provincia di Prato?-&&&-Di Val di Setta e Val di Bisenzio-&&&-Di Val di Setta e Valdarno-&&&-Declassata di Prato-&&&-A
+5-&&&-Quanto dista Montepiano percorrendo principalmente la SR.325 da Usella?-&&&-Circa 40 km-&&&-Circa 10 km-&&&-Circa 18 km-&&&-C
+6-&&&-la SS.719 :-&&&-Dal Casello A1 Prato Calenzano - Innesto con la SS.716 presso Pistoia-&&&-Dal Casello A11 Prato Calenzano - Innesto con la SS.716 presso Pistoia-&&&-Dal Casello A1 Prato Calenzano - Innesto con la SS.716 presso Lucca-&&&-A
+7-&&&-Il territorio comunale di Prato è attraversato da quali infrastrutture stradali?-&&&-Dalla A11 e SS.716-&&&-Dalla A11 e SR.325-&&&-Dalla A11 e SS.719-&&&-C
+8-&&&-Il cliente deve andare alla Riserva Acquerino di Cantagallo da Prato quale infrastruttura stradale percorri?-&&&-SR.325 e poi la provinciale n.2-&&&-SR.325 e poi la provinciale n.692-&&&-SS.325 e poi la provinciale n.2-&&&-A
+9-&&&-Sono presso il Fabbro frazione di Cantagallo per andare al Polo Universitario di Prato quale infrastruttura stradale percorro?-&&&-la strada regionale n.325 e poi viabilità comunale-&&&-la strada regionale n.435 e poi viabilità comunale-&&&-la strada regionale n.325 e poi viabilità provinciale-&&&-A
+10-&&&-Quale monte è presente nella provincia di Prato?-&&&-Monte Ferrato-&&&-Monte Amiata-&&&-Monte Serra-&&&-A
+1-&&&-Quale è la infrastruttura stradale che è adiacente al capoluogo di Provincia individuato con il lettera A in carta muta?-&&&-S.S. 1 Aurelia-&&&-A1-&&&-R.A. Firenze- Siena-&&&-A
+2-&&&-La lettera L quale capoluogo rappresenta in carta muta?-&&&-Siena-&&&-Arezzo-&&&-Pisa-&&&-C
+3-&&&-Sulla carta muta la Diramazione A11/A12 Viareggio Lucca è vicino-&&&-al capoluogo H-&&&-al capoluogo L-&&&-al capoluogo G-&&&-C
+4-&&&-La strada statale 68 di Val Cecina collega:-&&&-Cecina a Colle Val’Elsa-&&&-Cecina a Siena-&&&-Cecina a Arezzo-&&&-A
+5-&&&-Che percorso fai da Siena per andare alla Riserva Naturale di Lucciola Bella?-&&&-La statale di Val Cecina e poi la strada provinciale-&&&-La statale Cassia e poi la strada regionale-&&&-La statale Cassia e poi la strada provinciale-&&&-C
+6-&&&-Il territorio comunale di Chiusdino da quale infrastruttura stradale statale o regionale è attraversato?-&&&-La SR.2-&&&-La SS.2-&&&-Nessuna-&&&-C
+7-&&&-Percorrendo le arterie principali quanto dista Volterra da Siena?-&&&-Circa 10 km-&&&-Circa 55 km-&&&-Circa 100 km-&&&-B
+8-&&&-Il cliente mi chiede di andare all'Unione Comuni Amiata Val d'Orcia, dove lo porti?-&&&-Piancastagnaio-&&&-Cortona-&&&-Radicofani-&&&-A
+9-&&&-Sono sulla A1 da Arezzo e vado verso Roma, quale uscita casello autostradale è consigliata per andare alla "Torre Beccati Questo"?-&&&-Arezzo-&&&-Valdichiana-&&&-Chiusi -Chianciano Terme-&&&-C
+10-&&&-Quale località è vicina alla Montagnola Senese-&&&-Castelnuovo Berardenga-&&&-Roccastrada-&&&-Monteriggioni-&&&-C

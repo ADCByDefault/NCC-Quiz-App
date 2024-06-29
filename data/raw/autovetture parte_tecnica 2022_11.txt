@@ -1,0 +1,103 @@
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+1-&&&-Quale infrastruttura stradale percorro da capoluogo individuato con lettera C a capoluogo individuato con lettera D in carta muta ?-&&&-E45-&&&-A1-&&&-A11-&&&-B
+2-&&&-Nella provincia di Arezzo quale infrastruttura stradale individuata con sigla iniziale E è presente in carta muta?-&&&-E1-&&&-E80-&&&-E45-&&&-C
+3-&&&-Il capoluogo individuato con lettera A in carta muta è attraversato da quale infrastruttura stradale ?-&&&-A1-&&&-SS.1-&&&-A12-&&&-B
+4-&&&-Cortona da quale infrastruttura stradale regionale è attraversato?-&&&-dalla A1-&&&-dalla  SR.71-&&&-dalla SR.74-&&&-B
+5-&&&-Qual è la località più vicina all’uscita del casello autostradale “Chiusi – Chianciano Terme” sulla A1 da Arezzo verso Roma?-&&&-Montepulciano-&&&-Ponticino-&&&-Sarteano-&&&-C
+6-&&&-Percorrendo le principali arterie stradali a scorrimento veloce da Arezzo a Lucignano quanti km sono?-&&&-Circa 50-&&&-Circa 30-&&&-Circa 100-&&&-B
+7-&&&-Lo svincolo Palazzo del Pero su quale infrastruttura stradale si trova?-&&&-SS.73-&&&-SR.73-&&&-SR.70-&&&-A
+8-&&&-Un cliente deve andare a Roma con il treno ed alloggia a Cesa, a quale stazione ferroviaria lo accompagni?-&&&-Firenze Santa Maria Novella-&&&-Castiglione del Lago-&&&-Castiglion Fiorentino-&&&-C
+9-&&&-Nella Valtiberina quale località è presente?-&&&-Cavriglia-&&&-Londa-&&&-Sansepolcro-&&&-C
+10-&&&-Tra la provincia di Arezzo e la provincia di Firenze quale monte è presente?-&&&-Monte Falco-&&&-Monte Amiata-&&&-Monte Serra-&&&-A
+11-&&&-Quale infrastruttura stradale collega il capoluogo identificato con lettera B e il capoluogo identificato con lettera D in carta muta?-&&&-A15-&&&-RA3-&&&-A11-&&&-B
+12-&&&-L’infrastruttura stradale che attraversa le province di Firenze e Arezzo in carta muta è?-&&&-E’ l’autostrada A1, attraversa anche la provincia di Siena-&&&-E’ l’autostrada A1, attraversa anche la provincia di Prato-&&&-E’ l’autostrada A11, attraversa anche la provincia di Siena-&&&-A
+13-&&&-Qual è la provincia che non ha infrastruttura autostradale a pedaggio in carta muta?-&&&-Firenze-&&&-Grosseto-&&&-Siena-&&&-B
+14-&&&-Per andare all’autodromo del Mugello quale infrastruttura principale stradale percorro da Firenze?-&&&-SS.67-&&&-SS.66-&&&-SS.65-&&&-C
+15-&&&-Il territorio comunale di Pelago da quale infrastrutture stradali regionali è attraversato?-&&&-SR.69 e SR.70-&&&-SR.69 e SR.74-&&&-SR.206 e SR.2-&&&-A
+16-&&&-Sono sulla A1 Direttissima per Bologna quale casello autostradale mi conviene uscire per andare al cimitero dei tedeschi sul passo della Futa?-&&&-Firenzuola – Mugello-&&&-Calenzano-&&&-Barberino di Mugello-&&&-A
+17-&&&-L'infrastruttura stradale SR.2 quale territorio comunale attraversa?-&&&-San Casciano in Val di Pesa-&&&-Scarperia e San Piero-&&&-Sambuca Pistoiese-&&&-A
+18-&&&-Quale svincolo uscita è presente sulla strada grande comunicazione Firenze Pisa Livorno?-&&&-Ginestra Fiorentina-&&&-Calenzano-&&&-Firenze Impruneta-&&&-A
+19-&&&-Percorrendo l’infrastruttura stradale Brighellese Ravennate da Borgo San Lorenzo verso Ravenna quale località transito?-&&&-Calenzano-&&&-Crespino sul Lamone-&&&-Polcanto-&&&-B
+20-&&&-Tra la provincia di Arezzo e la provincia di Firenze quale monte è presente?-&&&-Monte Capanne-&&&-Monte Falterona-&&&-Monte Gomito-&&&-B
+21-&&&-In carta muta l'infrastruttura stradale che transita per i capoluoghi identificati con lettere M e A proseguendo fino al confine regionale è:-&&&-Grosseto-Fano-&&&-Maremmana-&&&-Aurelia-&&&-C
+22-&&&-L’infrastruttura stradale che attraversa le province di Firenze e Arezzo in carta muta è?-&&&-E’ l’autostrada A1, attraversa anche la provincia di Siena-&&&-E’ l’autostrada A1, attraversa anche la provincia di Prato-&&&-E’ l’autostrada A11, attraversa anche la provincia di Siena-&&&-A
+23-&&&-Qual è la provincia che non ha infrastruttura autostradale a pedaggio in carta muta?-&&&-Firenze-&&&-Grosseto-&&&-Siena-&&&-B
+24-&&&-Nel Comune di Orbetello quali infrastrutture stradali statali e regionali sono presenti?-&&&-SS.2 e SR.74-&&&-SS.1 e SR.74-&&&-SS.68 e SR.2-&&&-B
+25-&&&-Percorrendo le principali arterie stradali, quanto dista Alberese da Ansedonia?-&&&-Circa 100 km-&&&-Circa 35 km-&&&-Circa 50 km-&&&-B
+26-&&&-Sto percorrendo l’Aurelia, e sono nei pressi di Scarlino, a quale stazione ferroviaria porti il cliente?-&&&-Gavorrano-&&&-Montepescali-&&&-Scarlino-&&&-C
+27-&&&-Percorrendo la infrastruttura regionale “la Maremmana” quali località transito?-&&&-Manciano, Paganico-&&&-Marsiliana, Pitigliano-&&&-Alberese, Grosseto-&&&-B
+28-&&&-Il cliente vuole andare a visitare il giardino dei Tarocchi da Grosseto, in quale comune si trova e quale infrastruttura stradale prendi?-&&&-SS1/E80 e si trova in Comune di Grosseto-&&&-SS1/E78 e si trova in Comune di Orbetello-&&&-SS1/E80 e si trova in Comune di Capalbio-&&&-C
+29-&&&-Quale infrastruttura stradale statale è presente nella Provincia di Grosseto?-&&&-SS.12-&&&-SS.2-&&&-SS.439-&&&-C
+30-&&&-Il parco archeologico città del Tufo dove si trova?-&&&-Sovana-&&&-Pitigliano-&&&-Scarlino-&&&-A
+31-&&&-Dal capoluogo individuato con lettera F al capoluogo individuato con lettera G quale infrastruttura transita in carta muta?-&&&-Firenze Mare-&&&-Autostrada del Sole-&&&-Autostrada della Cisa-&&&-A
+32-&&&-L’infrastruttura stradale che attraversa le province di Lucca, Massa e Pisa in carta muta è?-&&&-E’ l’autostrada A12, attraversa anche la provincia di Livorno-&&&-E’ l’autostrada A12, attraversa anche la provincia di Prato-&&&-E’ l’autostrada A11, attraversa anche la provincia di Livorno-&&&-A
+33-&&&-Quale Provincia interessa il capoluogo individuato con la lettera H in carta muta?-&&&-Lucca-&&&-Massa Carrara-&&&-Livorno-&&&-B
+34-&&&-Percorrendo le principali arterie stradali quanto dista San Vincenzo da Cecina?-&&&-Circa 80 km-&&&-Circa 35 km-&&&-Circa 10 km-&&&-B
+35-&&&-Nel Comune di Cecina quali infrastrutture stradali sono presenti?-&&&-SS.2 e SS.66-&&&-SS.1 e SS.68-&&&-SS.1 e SS.398-&&&-B
+36-&&&-Sei alla stazione ferroviaria di Livorno e il cliente vuole visitare il Santuario della Madonna delle Grazie di Montenero, quali infrastrutture stradali percorri?-&&&-la SS.1 e la SR.69-&&&-la SS.1 e la SP.9-&&&-la SS.2 e la SR.2-&&&-B
+37-&&&-La SR.206 quale territorio comunale attraversa?-&&&-Collesalvetti-&&&-Sassetta-&&&-Monteverdi Marittimo-&&&-A
+38-&&&-Quale infrastruttura stradale  NON è presente nella Provincia di Livorno?-&&&-SS.398-&&&-SR.206-&&&-SS.64-&&&-C
+39-&&&-Dal porto dell’Isola Capraia posso prendere il traghetto per andare a :-&&&-Livorno-&&&-Piombino-&&&-Genova-&&&-A
+40-&&&-L’isola Gorgona in quale Parco Nazionale è inserita?-&&&-Parco nazionale delle Foreste Casentinesi-&&&-Parco nazionale delle Cinque Terre-&&&-Parco nazionale dell'Arcipelago Toscano-&&&-C
+41-&&&-Dal capoluogo individuato con lettera E al capoluogo individuato con lettera G quale infrastruttura transita in carta muta?-&&&-Firenze Mare-&&&-Autostrada del Sole-&&&-Autostrada della Cisa-&&&-A
+42-&&&-Quale è l’elenco corretto delle infrastrutture stradali in carta muta nella provincia di Lucca?-&&&-A11, A15-&&&-A1, A12-&&&-A11, A12-&&&-C
+43-&&&-Quale Provincia interessa il capoluogo individuato con la lettera H in carta muta?-&&&-Lucca-&&&-Massa Carrara-&&&-Livorno-&&&-B
+44-&&&-Il percorso autostradale che collega l’aeroporto di Firenze con l’aeroporto di Pisa è:-&&&-A1-&&&-A11-&&&-A12-&&&-B
+45-&&&-Il territorio comunale di Camporgiano da quale infrastruttura stradale regionale è attraversato?-&&&-SR.66-&&&-SR.435-&&&-SR.445-&&&-C
+46-&&&-La SS.12 dell’Abetone e del Brennero:-&&&-Collega Pisa con il confine austriaco-&&&-Collega Pisa con il confine svizzero-&&&-Collega Lucca con il confine tedesco-&&&-A
+47-&&&-Il territorio comunale di Marliana da quale infrastruttura stradale regionale è attraversato?-&&&-SR.435-&&&-SR.436-&&&-Nessuna-&&&-+
+48-&&&-Il ponte del Diavolo si trova nei pressi di una infrastruttura stradale regionale o statale?-&&&-nessuna delle due-&&&-la strada statale-&&&-la strada regionale-&&&-B
+49-&&&-Quale casello autostradale NON è presente nella Provincia di Lucca?-&&&-Chiesina Uzzanese-&&&-Altopascio-&&&-Versilia-&&&-A
+50-&&&-Il lago di Massaciuccoli si trova tra:-&&&-Aurelia e A11-&&&-Aurelia e A15-&&&-Lucchese e A11-&&&-A
+0-PROVINCIA DI MASSA – CARRARA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+51-&&&-Quale è l’elenco corretto delle infrastrutture stradali in carta muta nella provincia di Massa Carrara?-&&&-A11, A15-&&&-A12, A15-&&&-A11, A12-&&&-B
+52-&&&-L’infrastruttura stradale che attraversa le province di Lucca, Massa e Pisa in carta muta è?-&&&-E’ l’autostrada A12, attraversa anche la provincia di Livorno-&&&-E’ l’autostrada A12, attraversa anche la provincia di Prato-&&&-E’ l’autostrada A11, attraversa anche la provincia di Livorno-&&&-A
+53-&&&-Quale Provincia interessa il capoluogo individuato con il numero M in carta muta?-&&&-Lucca-&&&-Massa Carrara-&&&-Livorno-&&&-C
+54-&&&-Il territorio comunale di Fivizzano da quali infrastrutture stradali è attraversato?-&&&-SR.445 e SS.62-&&&-SR.445 e SS.63-&&&-SR.435 e SS.1-&&&-B
+55-&&&-La SS330 di Buonviaggio collega:-&&&-Caprigliola con Albiano Magra-&&&-Caprigliola con Modena-&&&-Aulla con Terrarossa-&&&-A
+56-&&&-La SS.63 del Valico del Cerreto:-&&&-Collega Aulla con la provincia di Reggio Emilia-&&&-Collega Aulla con la provincia di Bologna-&&&-Collega Massa con la provincia di Modena-&&&-A
+57-&&&-Un cliente chiede di andare alla stazione di Pontremoli da Aulla, quale infrastruttura stradale prendi?-&&&-Posso prendere la A15 o la SS62-&&&-Posso prendere la A15 o la SS665-&&&-Posso prendere la A12 o la SS1-&&&-A
+58-&&&-Quale è l’elenco corretto delle infrastrutture stradali in carta muta nella provincia di Massa Carrara?-&&&-SS.63, SS.66-&&&-SS.62, SS.1-&&&-SS.62, SS.665-&&&-C
+59-&&&-In quale territorio comunale si trova la stazione ferroviaria Scorcetoli?-&&&-Fivizzano-&&&-Lucca-&&&-Filattiera-&&&-C
+60-&&&-Pizzo d’Uccello è una montagna che fa parte delle:-&&&-Alpi Apuane-&&&-Alpi Carniche-&&&-Alpi Cozie-&&&-A
+61-&&&-Quale è l’elenco corretto delle infrastrutture stradali in carta muta nella provincia di Pisa?-&&&-A11, A1-&&&-A12, A15-&&&-A11, A12-&&&-C
+62-&&&-L’infrastruttura stradale che attraversa le province di Lucca, Massa e Pisa in carta muta è?-&&&-E’ l’autostrada A12, attraversa anche la provincia di Livorno-&&&-E’ l’autostrada A12, attraversa anche la provincia di Prato-&&&-E’ l’autostrada A11, attraversa anche la provincia di Livorno-&&&-A
+63-&&&-Dal capoluogo individuato con lettera H al capoluogo individuato con lettera L quale infrastruttura transita in carta muta?-&&&-A11-&&&-A12-&&&-A15-&&&-B
+64-&&&-Il percorso autostradale che collega l’aeroporto di Firenze con l’aeroporto di Pisa è:-&&&-A1-&&&-A11-&&&-A12-&&&-B
+65-&&&-La SS.439 Sarzanese  Valdera collega:-&&&-Volterra – Colle Val d’Elsa-&&&-Lajatico – Cecina-&&&-Lajatico – Pomarance-&&&-C
+66-&&&-La SS.12 dell’Abetone e del Brennero:-&&&-Collega Pisa con il confine austriaco-&&&-Collega Pisa con il confine svizzero-&&&-Collega Lucca con il confine tedesco-&&&-A
+67-&&&-La SS.68 Cecina:-&&&-Inizia dalla fine del centro abitato di Cecina all’innesto con RA3 a Poggibonsi-&&&-Attraversa il centro abitato di Cecina all’innesto con RA3 a Poggibonsi-&&&-Inizia dalla fine del centro abitato di Volterra all’innesto con RA3 a Poggibonsi-&&&-A
+68-&&&-Il territorio comunale di Volterra da quali infrastrutture stradali è attraversata?-&&&-SS.68 e SS.2-&&&-SS.68 e SS.439-&&&-SS.66 e SS.439-&&&-B
+69-&&&-Quanti caselli autostradali ci sono nella Provincia di Pisa?-&&&-Sono 2 : Pisa Nord e Pisa Centro-&&&-Sono 3: Pisa Nord, Pisa Centro e Collesalvetti-&&&-E’ 1: Pisa Centro-&&&-A
+70-&&&-Quale fiume è adiacente alla SS.68 nella Provincia di Pisa?-&&&-Era-&&&-Arno-&&&-Cecina-&&&-C
+71-&&&-L’infrastruttura stradale A11 attraversa le province di Pisa, Pistoia, Prato e Firenze in carta muta e:-&&&-attraversa anche la provincia di Livorno-&&&-attraversa anche la provincia di Lucca-&&&-non attraversa la provincia di Lucca-&&&-B
+72-&&&-Quali infrastrutture stradali transitano per il capoluogo identificato con  lettera G in carta muta?-&&&-A12 e Diramazione A11/A12-&&&-A11 e Diramazione A11/A12-&&&-A11 e A12-&&&-B
+73-&&&-L’infrastruttura stradale che collega il capoluogo individuato con lettera B ed il capoluogo individuato con lettera C  in carta muta è:-&&&-Strada statale-&&&-Autostrada-&&&-Strada regionale-&&&-A
+74-&&&-Il percorso autostradale che collega l’aeroporto di Firenze con l’aeroporto di Pisa è:-&&&-A1-&&&-A11-&&&-A12-&&&-B
+75-&&&-Il territorio comunale di San Marcello Piteglio da quali infrastrutture stradali è attraversato?-&&&-SS.12 e A11-&&&-SS.12 e SS.66-&&&-SS.1e SS.12-&&&-B
+76-&&&-Percorrendo la SS.66 dalla stazione ferroviaria di Pistoia a San Marcello Pistoiese quanti km circa:-&&&-80 km-&&&-32 km-&&&-50 km-&&&-B
+77-&&&-La SR.436 Francesca quale territorio comunale attraversa:-&&&-Altopascio-&&&-Marliana-&&&-Larciano-&&&-C
+78-&&&-Sono sulla A11, esco a Pistoia e per andare all’Abetone quale infrastruttura devo prendere?-&&&-Devo prendere la tangenziale ( raccordo) di Pistoia, successivamente prendere la SS.66 a sinistra-&&&-Devo prendere la tangenziale ( raccordo) di Pistoia, successivamente prendere la SS.66 a destra-&&&-Devo prendere la tangenziale ( raccordo) di Pistoia, successivamente prendere la SS.64 a destra-&&&-A
+79-&&&-Quanti caselli autostradali ci sono nella Provincia di Pistoia?-&&&-Sono 3 : Chiesina Uzzanese, Montecatini Terme e Pistoia-&&&-Sono 4: Altopascio, Chiesina Uzzanese, Montecatini Terme e Pistoia-&&&-Sono 2: Montecatini Terme e Pistoia-&&&-A
+80-&&&-Il Monte Gomito fa parte di:-&&&-Appennino Tosco Emiliano-&&&-Appennino Tosco Romagnolo-&&&-Alpi Apuane-&&&-A
+81-&&&-L’infrastruttura stradale A11 attraversa le province di Pisa, Pistoia, Prato e Firenze in carta muta e:-&&&-attraversa anche la provincia di Livorno-&&&-attraversa anche la provincia di Lucca-&&&-non attraversa la provincia di Lucca-&&&-B
+82-&&&-Da quale lettera indica il capoluogo della Provincia di Prato nella carta muta?-&&&-D-&&&-E-&&&-F-&&&-B
+83-&&&-L’infrastruttura stradale che collega il capoluogo individuato con lettera B ed il capoluogo individuato con lettera C  in carta muta è:-&&&-Strada statale-&&&-Autostrada-&&&-Strada regionale-&&&-A
+84-&&&-La A11 e la SS.719 quale territorio comunale attraversano?-&&&-Prato-&&&-Vaiano-&&&-Montale-&&&-A
+85-&&&-Da Terrigoli a Usella quale infrastruttura stradale mi conviene prendere?-&&&-SR.445-&&&-SR.66-&&&-SR.325-&&&-C
+86-&&&-La SS.719 :-&&&-Inizia dal casello autostradale Calenzano – Sesto Fiorentino della A1 fino ad innesto con la SS.716 presso Pistoia-&&&-Inizia dal casello autostradale Calenzano – Sesto Fiorentino della A11 fino ad innesto con la SS.716 presso Pistoia-&&&-Inzia dal casello autostradale Calenzano – Sesto Fiorentino della A1 fino ad innesto con la SS.64 presso Pistoia-&&&-A
+87-&&&-Sono sulla SR.325 da Prato e devo andare alla Unione dei Comuni della Val di Bisenzio, dove si trova?-&&&-Prato-&&&-Vernio-&&&-Vaiano-&&&-B
+88-&&&-Il territorio comunale di Montemurlo da quale infrastruttura stradale è attraversato?-&&&-SR. 66 Pistoiese-&&&-Nessuna-&&&-SR.325 di Val di Setta e Val di Bisenzio-&&&-B
+89-&&&-Quanti caselli autostradali ci sono nella Provincia di Prato?-&&&-2-&&&-1-&&&-3-&&&-A
+90-&&&-La Val di Bisenzio :-&&&-Si trova nel cuore della piana pratese, inoltrandosi parzialmente nella provincia di Pistoia.-&&&-Si trova nel cuore della piana pratese, inoltrandosi parzialmente nella provincia di Lucca.-&&&-Si trova nel cuore della piana pratese, inoltrandosi parzialmente nella provincia di Firenze.-&&&-C
+91-&&&-Il capoluogo della provincia di Siena è individuato da quale lettera in carta muta?-&&&-A-&&&-B-&&&-C-&&&-B
+92-&&&-L’infrastruttura stradale che attraversa le province di Firenze e Arezzo in carta muta è?-&&&-E’ l’autostrada A1, attraversa anche la provincia di Siena-&&&-E’ l’autostrada A1, attraversa anche la provincia di Prato-&&&-E’ l’autostrada A11, attraversa anche la provincia di Siena-&&&-A
+93-&&&-Quali è la provincia che non ha infrastruttura autostradale a pedaggio in carta muta?-&&&-Firenze-&&&-Grosseto-&&&-Siena-&&&-B
+94-&&&-Percorrendo il raccordo autostradale da Firenze verso Siena ed uscendo a San Casciano, quale località vicina raggiungo?-&&&-San Gimignano-&&&-Mercatale in Val di Pesa-&&&-Castellina in Chianti-&&&-B
+95-&&&-Quanto dista dal centro di Firenze il centro di Siena percorrendo il RA3 ?-&&&-Circa 100 km-&&&-Circa 42 km-&&&-Circa 80 km-&&&-C
+96-&&&-Quali infrastrutture stradali attraversano il territorio comunale di Colle di Val d’Elsa?-&&&-SS.68 e RA3-&&&-SS.2 e RA3-&&&-E78 e RA3-&&&-A
+97-&&&-La SS2:-&&&-Confine con Regione Lazio- Siena Sud ( inizio centro abitato di Siena)-&&&-Confine con Regione Umbria - Siena Sud ( inizio centro abitato di Siena)-&&&-Confine con Regione Marche - Siena Sud ( inizio centro abitato di Siena)-&&&-A
+98-&&&-Quanti caselli autostradali ci sono nella Provincia di Siena?-&&&-2-&&&-1-&&&-3-&&&-A
+99-&&&-Devo raggiungere la  stazione ferroviaria Ponte a Tressa in quale territorio comunale si trova?-&&&-Fivizzano-&&&-Lucca-&&&-Monteroni d’Arbia-&&&-C
+100-&&&-L'Unione dei comuni Valdichiana Senese :-&&&-E’ un'unione formata dai comuni di: Cetona, Chianciano Terme, Chiusi, Montepulciano, San Casciano dei Bagni, Sarteano, Sinalunga, Torrita di Siena, Pienza e Trequanda-&&&-E’ un'unione formata dai comuni di: Cetona, Chianciano Terme, Chiusi, Firenze, Montepulciano, Sarteano, Sinalunga, Torrita di Siena, Pienza e Trequanda-&&&-E’ un'unione formata dai comuni di: Cetona, Chianciano Terme, Chiusi, Massa, Montepulciano, San Casciano dei Bagni, Sarteano, Sinalunga, Torrita di Siena, Pienza e Trequanda-&&&-A

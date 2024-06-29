@@ -1,0 +1,11 @@
+0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+1-&&&-Cosa è il CEVNI?-&&&-codice europeo delle vie di navigazione interna.-&&&-consorzio europeo vie navigabili italiane.-&&&-cooperativa europea vie navigabili interne.-&&&-A
+2-&&&-Quale di questi tipi di motore endotermico è considerato ad accensione spontanea?-&&&-Motore Diesel-&&&-Motore a benzina.-&&&-Motore a gpl.-&&&-A
+3-&&&-Cosa si intende per motore endotermico sovralimentato?-&&&-Un motore provvisto di turbocompressore o compressore volumetrico.-&&&-Un motore a kerosene.-&&&-Un motore a 2 tempi.-&&&-A
+4-&&&-I fanali normalmente detti di via hanno una diversa colorazione ossia:-&&&-Rosso a sinistra e verde a dritta-&&&-Giallo a sinistra e verde a dritta-&&&-Entrambi bianchi.-&&&-A
+5-&&&-Che cosa si intende per opera morta di una imbarcazione?-&&&-Parte/volume della barca che si trova sopra la linea di galleggiamento.-&&&-Timone dell’imbarcazione-&&&-Prua dell’imbarcazione-&&&-A
+6-&&&-Che cosa si intende per parabordo?-&&&-Un accessorio di forma rotonda od ovale gonfiato con aria compressa e collocato a intervalli regolari attorno allo scafo della barca, al fine di proteggerla contro gli eventuali urti.-&&&-La poppa dell’imbarcazione.-&&&-Il corrimano dell’imbarcazione.-&&&-A
+7-&&&-Come si determina la sponda destra e sinistra di un fiume?-&&&-Ponendo le spalle verso monte del fiume e utilizzando la mano destra per individuare la sponda destra come destra idraulica e cosi’ facendo anche  con la sinistra.-&&&-Dipende dai luoghi.-&&&-Non è individuabile.-&&&-A
+8-&&&-La sentina è quello spazio?-&&&-Racchiuso tra la chiglia e il pagliolato.-&&&-Soprastante il pagliolato.-&&&-Tra la tuga e il cassero.-&&&-A
+9-&&&-Il motore, se in folle, rimane acceso e, se in marcia, si ferma. Perchè?-&&&-L’elica si è bloccata.-&&&-Il carburatore è sporco.-&&&-L’elica si è rotta.-&&&-A
+10-&&&-In una bassa pressione i valori?-&&&-Aumentano dal centro verso l’esterno.-&&&-Diminuiscono dal centro verso l’esterno.-&&&-Sono inferiori a 940 hpa-&&&-A

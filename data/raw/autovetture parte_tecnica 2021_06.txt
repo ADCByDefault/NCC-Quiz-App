@@ -1,0 +1,84 @@
+0-PROVINCIA DI LIVORNO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+31-&&&-In carta muta la A12 quali province attraversa?-&&&-Massa Carrara, Lucca, Livorno e Pisa-&&&-Massa Carrara, Lucca, Pistoia e Prato-&&&-Firenze, Prato, Pistoia e Lucca-&&&-A
+32-&&&-Quale infrastruttura stradale non è presente nella Provincia di Livorno in carta muta?-&&&-A12-&&&-A1-&&&-la S.G.C. FI PI LI-&&&-B
+33-&&&-La SS.1 in carta muta da quale capoluogo parte ed a quale capoluogo transita?-&&&-B-A-&&&-B-M-&&&-M-L-&&&-A
+34-&&&-Percorrendo le principali arterie stradali quanto dista Quercianella da Rosignano Solvay?-&&&-Circa 70 km-&&&-Circa 12 km-&&&-Circa 40 km-&&&-B
+35-&&&-La SR.206 quale territorio comunale attraversa?-&&&-Cecina-&&&-Sassetta-&&&-Monteverdi Marittimo-&&&-A
+36-&&&-Percorrendo la SR.206 quale località posso transitare?-&&&-Empoli-&&&-Collesalvetti-&&&-Livorno-&&&-B
+37-&&&-Il Comune di Campiglia Marittima da quale infrastruttura stradale è attraversato?-&&&-SR.302-&&&-SR.74-&&&-SS.398-&&&-C
+38-&&&-Quale santuario trovo in prossimità di Livorno?-&&&-Bocca di Rio-&&&-Montenero-&&&-San Francesco-&&&-B
+39-&&&-Il Parco Archeologico di Baratti e Populonia in quale Comune si trova?-&&&-Livorno-&&&-Piombino-&&&-Follonica-&&&-B
+40-&&&-L’isola di Pianosa in quale Parco Nazionale è inserita?-&&&-Parco nazionale delle Foreste Casentinesi-&&&-Parco nazionale dell'Appenino Tosco – Emiliano-&&&-Parco nazionale dell'Arcipelago Toscano-&&&-C
+0-PROVINCIA DI LUCCA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+41-&&&-In carta muta la A11 quali province attraversa?-&&&-Firenze, Prato, Pistoia, Livorno e Pisa-&&&-Firenze, Prato, Pistoia, Lucca e Siena-&&&-Firenze, Prato, Pistoia, Lucca e Pisa-&&&-C
+42-&&&-Quale infrastruttura stradale non è presente nella Provincia di Lucca in carta muta?-&&&-A11-&&&-A12-&&&-A1-&&&-C
+43-&&&-La A11 in carta muta da quale capoluogo parte ed a quale capoluogo transita?-&&&-E-H-&&&-E-C-&&&-C-A-&&&-A
+44-&&&-Percorrendo le principali arterie stradali a scorrimento veloce, quanto dista Lucca da Montecatini Terme?-&&&-Circa 10 km-&&&-Circa 35 km-&&&-Circa 100 km-&&&-B
+45-&&&-La SR.445 quale territorio comunale attraversa?-&&&-Comano-&&&-Pescia-&&&-Barga-&&&-C
+46-&&&-La SR.435 Lucchese da quale centro abitato inizia?-&&&-Inizia dal centro abitato di Lucca-&&&-Inizia dal centro abitato di Capannori-&&&-Inizia dal centro abitato di Montecatini Terme-&&&-A
+47-&&&-Il Comune di Camaiore da quale infrastruttura stradale è attraversato?-&&&-Dalla Maremmana-&&&-Dalla Sarzanese Valdera-&&&-Ex 445 della Garfagnana-&&&-B
+48-&&&-Per andare all’Aeroporto di Lucca- Tassignano percorrendo la A11 verso ovest quale è il casello autostradale più vicino per uscita?-&&&-Pistoia-&&&-Capannori-&&&-Altopascio-&&&-B
+49-&&&-Un cliente chiede di andare a vedere il Ponte del Diavolo che strada percorro principalmente?-&&&-SS.1-&&&-SS.2-&&&-SS.12-&&&-C
+50-&&&-Quale passo ( valico ) è presente nella Provincia di Lucca?-&&&-Passo delle Radici-&&&-Passo della Futa-&&&-Passo Raticosa-&&&-A
+0-PROVINCIA DI MASSA – CARRARA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+51-&&&-In carta muta la A12 quali province attraversa?-&&&-Massa Carrara, Lucca, Pisa e Livorno-&&&-Massa Carrara, Lucca, Pistoia e Prato-&&&-Firenze, Prato, Pistoia e Lucca-&&&-A
+52-&&&-Quale infrastruttura stradale non è presente nella Provincia di Massa Carrara in carta muta?-&&&-A12-&&&-A15-&&&-A1-&&&-C
+53-&&&-Quale Provincia interessa il capoluogo individuato con la lettera H in carta muta?-&&&-Lucca-&&&-Massa Carrara-&&&-Livorno-&&&-A
+54-&&&-Villafranca in Lunigiana si trova sul tragitto stradale da :-&&&-Aulla – Fivizzano-&&&-Aulla – Pontremoli-&&&-Massa – Carrara-&&&-B
+55-&&&-La SR.445 quale territorio comunale attraversa?-&&&-Fivizzano-&&&-Villafranca in Lunigiana-&&&-Camaiore-&&&-A
+56-&&&-La SS.63 del Valico del Cerreto :-&&&-Ha inizio da Aulla e si dirige verso l’Appennino Tosco – Emiliano-&&&-Ha inizio da Aulla e si dirige verso l’Appenino Ligure-&&&-Ha inizio da Pontremoli e si dirige verso l’Appenino Umbro – Marchigiano-&&&-A
+57-&&&-Il Comune di Casola in Lunigiana da quale infrastruttura regionale è attraversato?-&&&-SR.2-&&&-SR.445-&&&-SR.439-&&&-B
+58-&&&-Per il passo della Cisa transita la :-&&&-SS.63-&&&-SS.1-&&&-SS.62-&&&-C
+59-&&&-Quali di queste strade statali sono presenti nella Provincia di Massa?-&&&-SS.62, SS.63 e SS.665-&&&-SS.62, SS.63 e SS.66-&&&-SS.65, SS.64 e SS.398-&&&-A
+60-&&&-Quale è il fiume principale nella Provincia di Massa Carrara?-&&&-Fiume Elsa-&&&-Fiume Magra-&&&-Fiume Arno-&&&-B
+0-PROVINCIA DI PISA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+61-&&&-In carta muta la A12 quali province attraversa?-&&&-Massa Carrara, Lucca, Pistoia e Prato-&&&-Massa Carrara, Lucca, Pisa e Livorno-&&&-Firenze, Prato, Pistoia e Lucca-&&&-B
+62-&&&-Quale infrastruttura stradale non è presente nella Provincia di Pisa in carta muta?-&&&-SGC FI PI LI-&&&-A1-&&&-A11-&&&-B
+63-&&&-La SGC FI PI LI in carta muta da quale capoluogo parte ed a quale capoluogo arriva?-&&&-E-B-&&&-E-F-&&&-C-D-&&&-A
+64-&&&-Nel Comune di San Miniato quali infrastrutture stradali sono presenti?-&&&-SGC FI PI LI e la SS.67-&&&-SGC FI PI LI e la SS.1-&&&-A11 e la SS.65-&&&-A
+65-&&&-La SS.68 quale territorio comunale attraversa?-&&&-Empoli-&&&-Chianni-&&&-Montecatini Val di Cecina-&&&-C
+66-&&&-Se un cliente ti chiede di visitare il Museo della Geotermia, dove lo porteresti?-&&&-Larderello-&&&-Pisa-&&&-Montaione-&&&-A
+67-&&&-Il Comune di Terricciola da quale infrastruttura stradale è attraversato?-&&&-SR.2-&&&-SR.445-&&&-SS.439-&&&-C
+68-&&&-Per andare all’Interporto Amerigo Vespucci quale infrastruttura stradale principale mi conviene prendere da Pontedera?-&&&-A1-&&&-SGC FI PI LI-&&&-A12-&&&-B
+69-&&&-Devo andare a Camp Darby quale infrastruttura stradale mi conviene prendere da Pisa?-&&&-SS.1-&&&-SS.68-&&&-SS.65-&&&-A
+70-&&&-Il Monte Serra dove si trova?-&&&-Sulle Alpi Apuane-&&&-Sui Monti Pisani-&&&-Sui Monti Sibillini-&&&-B
+0-PROVINCIA DI PISTOIA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+71-&&&-In carta muta la A11 quali province attraversa?-&&&-Firenze, Prato, Pistoia, Livorno e Pisa-&&&-Firenze, Prato, Pistoia, Lucca e Siena-&&&-Firenze, Prato, Pistoia, Lucca e Pisa-&&&-C
+72-&&&-Quale infrastruttura stradale non è presente nella Provincia di Pistoia in carta muta?-&&&-A1-&&&-A11-&&&-SS.66-&&&-A
+73-&&&-La A11 in carta muta da quale capoluogo parte ed a quale capoluogo transita?-&&&-E-H-&&&-E-C-&&&-C-A-&&&-A
+74-&&&-La infrastruttura stradale Porrettana quale località attraversa?-&&&-La Cugna-&&&-Pracchia-&&&-Cantagallo-&&&-A
+75-&&&-La SS.64 quale territorio comunale attraversa?-&&&-Pistoia-&&&-Marliana-&&&-Coreglia Antelminelli-&&&-A
+76-&&&-Presso la località La Lima quali infrastrutture stradali si incrociano?-&&&-SS.12 e SR.70-&&&-SS.12 e SS.66-&&&-SS.1 e SR.69-&&&-B
+77-&&&-Il Comune di Serravalle Pistoiese da quale infrastruttura regionale è attraversato?-&&&-SR.66 Pistoiese-&&&-SR.70 della Consuma-&&&-SR.435 Lucchese-&&&-C
+78-&&&-Percorrendo le principali arterie stradali a scorrimento veloce per circa 45 km da Pistoia verso ovest a quale località raggiungo?-&&&-Lucca-&&&-Serravalle Pistoiese-&&&-Viareggio-&&&-A
+79-&&&-Borgo a Buggiano si trova tra :-&&&-Pistoia e Agliana-&&&-Montecatini e Serravalle Pistoiese-&&&-Montecatini e Pescia-&&&-C
+80-&&&-Quale è un fiume presente nella Provincia di Pistoia?-&&&-Serchio-&&&-Ombrone Pistoiese-&&&-Arno-&&&-B
+0-PROVINCIA DI PRATO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+81-&&&-Quale infrastruttura stradale non è presente nella Provincia di Prato in carta muta?-&&&-A1-&&&-A11-&&&-SR.325-&&&-A
+82-&&&-Il capoluogo della Provincia di Prato è indicato dalla lettera in carta muta?-&&&-G-&&&-E-&&&-F-&&&-C
+83-&&&-La A11 in carta muta da quale capoluogo parte ed a quale capoluogo transita?-&&&-E-H-&&&-E-C-&&&-C-A-&&&-A
+84-&&&-Nella Val di Bisenzio quale infrastruttura regionale attraversa-&&&-SR.325-&&&-SR.435-&&&-SR.66-&&&-A
+85-&&&-La infrastruttura regionale Pistoiese transita quali località?-&&&-Seano e Prato-&&&-Seano e Poggio a Caiano-&&&-Vaiano e Vernio-&&&-B
+86-&&&-Percorrendo circa 30 km dalla Stazione FS di Prato verso Ovest quale località raggiungo?-&&&-Montecatini Terme-&&&-Lucca-&&&-Castiglione de’ Pepoli-&&&-A
+87-&&&-Sono sulla A11 da Firenze verso Pisa a quale casello autostradale mi conviene uscire per andare al museo Pecci?-&&&-Calenzano-&&&-Prato Est-&&&-Prato Ovest-&&&-B
+88-&&&-La SS.719 è detta anche:-&&&-Declassata Firenze-&&&-Declassata Calenzano-&&&-Declassata Prato-&&&-C
+89-&&&-Firenze con Pisa Nord è collegata tramite la :-&&&-A11-&&&-A1-&&&-A12-&&&-A
+90-&&&-Il centro di Scienze Naturali di Prato si trova all’interno di:-&&&-Cascine di Tavola-&&&-Parco Galceti-&&&-Stagni di Focognano-&&&-B
+0-PROVINCIA DI SIENA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+91-&&&-In carta muta la A1 quali province attraversa?-&&&-Firenze, Prato e Pistoia-&&&-Firenze, Arezzo e Siena-&&&-Firenze, Arezzo e Grosseto-&&&-B
+92-&&&-Quale infrastruttura stradale non è presente nella Provincia di Siena in carta muta?-&&&-A1-&&&-A11-&&&-RA3-&&&-B
+93-&&&-La RA3 in carta muta da quale capoluogo parte ed a quale capoluogo arriva?-&&&-E-F-&&&-E-C-&&&-F-G-&&&-B
+94-&&&-Percorrendo il raccordo autostradale da Firenze verso Siena ed uscendo a Poggibonsi Nord o Sud quale località raggiungo?-&&&-San Gimignano-&&&-Empoli-&&&-Figline Valdarno-&&&-A
+95-&&&-Percorrendo verso nord circa 50 km su RA3 dalla Stazione FS di Siena a quale località raggiungo?-&&&-San Casciano Val di Pesa-&&&-Badesse-&&&-Firenze-&&&-A
+96-&&&-Ad Ampugnano cosa trovo?-&&&-Stazione Ferroviaria-&&&-Aeroporto-&&&-Ospedale-&&&-B
+97-&&&-Il Comune di Radda in Chianti da quale infrastruttura regionale è attraversato?-&&&-SR.69-&&&-SR.429-&&&-SR.435-&&&-B
+98-&&&-Rapolano Terme è raggiungibile da Siena percorrendo quale infrastruttura stradale?-&&&-SS.1-&&&-SS.65-&&&-SS.715-&&&-C
+99-&&&-Il casello autostradale Valdichiana su quale infrastruttura stradale si trova?-&&&-Autostrada Genova – Rosignano-&&&-Autostrada Firenze – Pisa-&&&-Auostrada Milano – Napoli-&&&-C
+100-&&&-Dalla Montagnola Senese quale fiume nasce?-&&&-Tressa-&&&-Elsa-&&&-Arno-&&&-B

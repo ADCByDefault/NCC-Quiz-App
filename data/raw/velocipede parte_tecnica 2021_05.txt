@@ -1,0 +1,11 @@
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+1-&&&-La larghezza massima di un velocipede è-&&&-1,00 mt-&&&-1,50 mt-&&&-1,30 mt-&&&-C
+2-&&&-La lunghezza massima di un velocipede è-&&&-1,80 mt-&&&-3,00 mt-&&&-3,50 mt-&&&-B
+3-&&&-I velocipedi-&&&-sono veicoli con due o più ruote-&&&-possono avere al massimo tre ruote-&&&-non possono avere più di due ruote-&&&-A
+4-&&&-Le biciclette con pedalata assistita-&&&-per circolare su strada, devono essere munite di un contrassegno di circolazione-&&&-possono essere dotate di motore ausiliario termico-&&&-sono dotate di un motore ausiliario elettrico-&&&-C
+5-&&&-La potenza nominale massima di un motore elettrico ausiliario di una bicicletta a pedalata assistita è-&&&-25 Kw-&&&-0,25 Kw-&&&-2,5 Kw-&&&-B
+6-&&&-L'alimentazione del motore elettrico ausiliario di una bicicletta a pedalata assistita è interrotta quando il veicolo raggiunge la velocità di-&&&-2,5 Km/h-&&&-15 Km/h-&&&-25 Km/h-&&&-C
+7-&&&-L'alimentazione del motore elettrico ausiliario di una bicicletta a pedalata assistita è interrotta-&&&-solo quando il conducente smette di pedalare-&&&-quando il veicolo raggiunge i 25 km/h o prima se il ciclista smette di pedalare-&&&-solo quando si raggiunge la velocità di 25 km/h-&&&-B
+8-&&&-I velocipedi-&&&-possono essere dotati di sistema di frenatura integrale azionabile con una sola leva-&&&-possono essere dotati di un solo freno per le ruote posteriori-&&&-devono obbligatoriamente essere dotate di un dispositivo di frenatura indipendente per ciascun asse che agisca sulle rispettive ruote-&&&-C
+9-&&&-Per le segnalazioni visive i velocipedi-&&&-devono essere dotati di dispositivi di illuminazione autoalimentati intermittenti a luce bianca anteriore e rossa posteriore-&&&-devono essere dotati anteriormente di luci bianche o gialle, posteriormente di luci rosse e di catadiottri rossi-&&&-devono esporre posteriormente solo un catadiottro circolare di colore rosso-&&&-B
+10-&&&-I velocipedi-&&&-possono non essere dotati di dispositivo per le segnalazioni acustiche-&&&-devono avere un dispositivo di segnalazione acustica bitonale-&&&-per le segnalazioni acustiche devono essere muniti di campanello-&&&-C

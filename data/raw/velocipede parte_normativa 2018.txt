@@ -1,0 +1,14 @@
+0-VELOCIPEDI PARTE NORMATIVA
+0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+1-&&&-I velocipedi sono:-&&&-Veicoli esclusivamente a due ruote-&&&-Veicoli a propulsione muscolare prodotta dalle persone che si trovano sul veicolo stesso-&&&-Veicoli a due ruote che possono essere dotati di motore ausiliario endotermico di potenza nominale non superiore a 0,25 kw-&&&-B
+2-&&&-Un velocipede:-&&&-Non può superare mt. 3,00 di lunghezza-&&&-Non può superare mt. 0,8 di lunghezza-&&&-Può avere altezza superiore a mt. 2,50-&&&-A
+3-&&&-Le dimensioni massime di un velocipede sono-&&&-Lunghezza massima mt. 2,00-&&&-Altezza massima mt. 2,20-&&&-Larghezza massima mt. 1,00-&&&-B
+4-&&&-Le dimensioni massime di un velocipede sono-&&&-Lunghezza massima mt. 2,50-&&&-Larghezza massima mt 1,30-&&&-Altezza massima mt. 1,80-&&&-B
+5-&&&-Il comando del freno del velocipede:-&&&-Deve essere esclusivamente di tipo manuale-&&&-Deve essere costituito solo da leva e cavo flessibile-&&&-Può essere tanto manuale che a pedale-&&&-C
+6-&&&-La trasmissione tra comando e freno può essere attuata:-&&&-Solo con un sistema di cavi flessibili-&&&-Anche con sistemi a trasmissione idraulica-&&&-Solo con comando manuale-&&&-B
+7-&&&-Il servizio di NCC:-&&&-Non può essere effettuato con velocipedi a due ruote-&&&-Può essere effettuato solo con velocipedi con motore ausiliari-&&&-Può essere effettuato con velocipedi-&&&-C
+8-&&&-Per condurre un velocipede:-&&&-Occorre aver compiuto 14 anni di età-&&&-Non è previsto il requisito minimo di età-&&&-Occorre aver compiuto 16 anni di età per la circolazione su strada-&&&-B
+9-&&&-I velocipedi:-&&&-Devono essere tenuti il più possibile vicino al margine destro della carreggiata-&&&-Possono circolare contromano sussiste se specifica ordinanza del Sindaco-&&&-Possono circolare in prossimità della mezzeria nelle ore serali con luci accese-&&&-A
+10-&&&-I velocipedi:-&&&-Hanno sempre la precedenza perché considerati utenti deboli della strada-&&&-Devono rispettare le norme sulla precedenza al pari degli altri veicoliin circolazione-&&&-Non hanno l’obbligo di dare la precedenza a destra-&&&-B
+11-&&&-Il conducente di velocipede deve:-&&&-Alzare verticalmente il braccio per segnalare l’intenzione di fermarsi-&&&-Abbassare il braccio sinistro o destro a seconda del lato su cui intende fermarsi-&&&-Sporgere lateralmente il braccio destro sia per la svolta che per segnalare l’intenzione di arrestars-&&&-B
+12-&&&-La sosta:-&&&-E’ la sospensione della marcia del veicolo protratta nel temp-&&&-E’ un arresto momentaneo dovuto al traffico-&&&-Per i velocipedi è consentita anche sui marciapiedi-&&&-A
