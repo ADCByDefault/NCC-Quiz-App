@@ -1,4 +1,4 @@
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Cosa è il CEVNI?-&&&-codice europeo delle vie di navigazione interna.-&&&-consorzio europeo vie navigabili italiane.-&&&-cooperativa europea vie navigabili interne.-&&&-A
 2-&&&-Quale di questi tipi di motore endotermico è considerato ad accensione spontanea?-&&&-Motore Diesel-&&&-Motore a benzina.-&&&-Motore a gpl.-&&&-A
 3-&&&-Cosa si intende per motore endotermico sovralimentato?-&&&-Un motore provvisto di turbocompressore o compressore volumetrico.-&&&-Un motore a kerosene.-&&&-Un motore a 2 tempi.-&&&-A

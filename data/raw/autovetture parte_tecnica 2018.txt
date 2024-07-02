@@ -1,5 +1,5 @@
-0-0-PROVINCIA DI AREZZO
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI AREZZO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-L’autostrada A11 Firenze-Pisa  Nord in quale colore è individuata nella carta muta?-&&&-Blu scuro-&&&-Rossa-&&&-Viola-&&&-A
 2-&&&-L’autostrada A15 Parma-La Spezia in quale colore è  individuata nella carta muta?-&&&-Marrone-&&&-Viola-&&&-Grigia-&&&-B
 3-&&&-Quale è la infrastruttura stradale che passa in prossimità del capoluogo individuato con la  lettera B nella carta muta?-&&&-A1 Milano-Napoli-&&&-Via Aurelia-&&&-Raccordo autostradale Firenze- Siena-&&&-A
@@ -20,8 +20,8 @@
 18-&&&-Quale località si transita volendo raggiungere Monte S. Savino dal  centro di Arezzo?-&&&-Pieve Santo Stefano-&&&-Pieve al Toppo-&&&-Pistoia-&&&-B
 19-&&&-Quale è la nota località famosa per  il Santuario di San Francesco?-&&&-Pratovecchio-&&&-Chiusi della Verna-&&&-San Giovanni Valdarno-&&&-B
 20-&&&-La A1 attraversa la Regione  Toscana?-&&&-Si, parte dalla Lombardia ed arriva  in Campania-&&&-No, è limitata solo in Toscana-&&&-Si, parte dalla Liguria ed arriva  nelle Marche-&&&-A
-0-0-PROVINCIA DI FIRENZE
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI FIRENZE
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Il tracciato stradale di colore rosso rappresentato in carta muta è:-&&&-A1 Milano-Napoli-&&&-A12 Genova-Livorno-Rosignano-&&&-A15 Parma-LaSpezia-&&&-A
 2-&&&-Quale è il percorso stradale che collega i capoluoghi individuati  con lettere A e G in carta muta?-&&&-Via Aurelia-&&&-Raccordo Autostradale Firenze- Siena-&&&-A1 Milano-Napoli-&&&-B
 3-&&&-La diramazione A11/A12 Viareggio-Lucca in quale colore è  rappresentata sulla carta muta?-&&&-Marrone-&&&-Rosso-&&&-Giallo-&&&-C
@@ -42,8 +42,8 @@
 18-&&&-Quale casello autostradale è  presente in A1 Milano-Napoli?-&&&-Firenze Impruneta-&&&-Pistoia-&&&-Versilia-&&&-A
 19-&&&-La Variante di Valico in quale  autostrada è presente?-&&&-A1-&&&-A11-&&&-A15-&&&-A
 20-&&&-Quale provincia NON è  attraversata dalla A11?-&&&-Grosseto-&&&-Firenze-&&&-Pistoia-&&&-A
-0-0-PROVINCIA DI GROSSETO
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI GROSSETO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Quale è la lettera che individua il  capoluogo della Provincia di Grosseto in carta Muta?-&&&-R-&&&-N-&&&-B-&&&-A
 2-&&&-La lettera C quale capoluogo  rappresenta in carta muta?-&&&-Siena-&&&-Massa-&&&-Lucca-&&&-B
 3-&&&-Quale è il percorso stradale che collega i capoluoghi individuati  con lettere A e B in carta muta?-&&&-S.G.C. FI-PI-LI-&&&-A15-&&&-A1-&&&-C
@@ -64,8 +64,8 @@
 18-&&&-Quale è la località famosa per la sua spiaggia ubicata nel percorso stradale da Albinia a Porto Santo  Stefano?-&&&-Principina a mare-&&&-Marina di Alberese-&&&-Giannella-&&&-C
 19-&&&-Quale è il nome della infrastruttura  stradale E78?-&&&-Grosseto-Fano-&&&-Genova-Livorno-&&&-Milano-Napoli-&&&-A
 20-&&&-Qual’è la provincia che NON ha  infrastruttura autostradale?-&&&-Siena-&&&-Grosseto-&&&-Firenze-&&&-B
-0-0-PROVINCIA DI LIVORNO
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI LIVORNO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Il capoluogo individuato con la  lettera C in carta muta è interessato da quale strada?-&&&-A12-&&&-A15-&&&-Via Aurelia-&&&-A
 2-&&&-L’autostrada A12 in quale colore  è individuata sulla carta muta?-&&&-rossa-&&&-gialla-&&&-verde-&&&-C
 3-&&&-Quali sono le infrastrutture stradali che passano in prossimità del capoluogo individuato con la  lettera H in carta muta?-&&&-A12 e SS.1-&&&-A15 e A1-&&&-R.A. Firenze-Siena e A11-&&&-A
@@ -86,8 +86,8 @@
 18-&&&-Un turista a Livorno chiede di andare al Cavallino Matto Parco Giochi a Marina di Castagneto Carducci, qual’è il percorso migliore?-&&&-Tramite la S.S. 1 Aurelia-&&&-Tramite la S.S. 12 dell’Abetone e del Brennero-&&&-Tramite la A11 Firenze-Pisa Nord-&&&-A
 19-&&&-Quale casello autostradale è  presente in A12?-&&&-Firenze Impruneta-&&&-Livorno-&&&-Arezzo-&&&-B
 20-&&&-Quale è il nome della infrastruttura  autostradale A12?-&&&-Firenze-Pisa Nord-&&&-Genova-Livorno-&&&-Milano-Napoli-&&&-B
-0-0-PROVINCIA DI LUCCA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI LUCCA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Il Raccordo Autostradale Firenze-  Siena è indicato con quali lettere in carta muta?-&&&-A-G-&&&-A-E-&&&-F-M-&&&-A
 2-&&&-Da H (Livorno) a R (Grosseto) qual’è il nome della infrastruttura  stradale in carta muta?-&&&-SS.62-&&&-A11-&&&-SS. 1 Aurelia-&&&-C
 3-&&&-La lettera B rappresentata sulla carta muta è adiacente a quale  infrastruttura stradale?-&&&-A15-&&&-A12-&&&-A1-&&&-C
@@ -108,8 +108,8 @@
 18-&&&-Sono sull’autostrada A11 nei pressi di Capannori, qual’è il casello di uscita per andare al  centro di Lucca?-&&&-Altopascio-&&&-Incisa Valdarno-&&&-Lucca Est-&&&-C
 19-&&&-Quale è il nome della infrastruttura  autostradale A11?-&&&-Firenze-Pisa Nord-&&&-Viareggio-Lucca-&&&-Milano – Napoli-&&&-A
 20-&&&-Quale provincia NON è  attraversata dalla A11?-&&&-Livorno-&&&-Firenze-&&&-Lucca-&&&-A
-0-0-PROVINCIA DI MASSA CARRARA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI MASSA CARRARA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-I capoluoghi individuati con le  lettere N e H sono interessati da quale strada in carta muta?-&&&-Raccordo Autostradale Firenze- Siena-&&&-SGC FI-PI-LI-&&&-A1-&&&-B
 2-&&&-Il capoluogo individuato con lettera C è interessato da quale  strada in carta muta?-&&&-A12-&&&-A15-&&&-Via Aurelia-&&&-A
 3-&&&-L’autostrada A12 in quale colore  è rappresentata sulla carta muta?-&&&-rossa-&&&-gialla-&&&-verde-&&&-C
@@ -128,8 +128,8 @@
 16-&&&-Quali sono le strade principali che attraversano il territorio della val  di Magra?-&&&-A15 e S.S. 62-&&&-A15 e S.R. 66-&&&-A15 e A11-&&&-A
 17-&&&-Quale località si transita volendo raggiungere il Cinquale da Marina  di Carrara?-&&&-Marina di Camerota-&&&-Marina di Pisa-&&&-Marina di Massa-&&&-C
 18-&&&-Quale è il nome della autostrada  A15 ?-&&&-Firenze-Pisa Nord-&&&-Parma - La Spezia-&&&-Milano – Napoli-&&&-B
-0-0-PROVINCIA DI PISA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI PISA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-La SGC FI-PI-LI collega i  capoluoghi individuati con quali lettere in carta muta?-&&&-A, N e H-&&&-E e F-&&&-G e R-&&&-A
 2-&&&-Quale è il percorso stradale che collega i capoluoghi individuati  con le lettere A e G in carta muta?-&&&-Via Aurelia-&&&-Raccordo Autostradale Firenze- Siena-&&&-A1 Milano-Napoli-&&&-B
 3-&&&-La Diramazione A11/A12 Viareggio Lucca in quale colore è  rappresentata sulla carta muta?-&&&-Marrone-&&&-Rosso-&&&-Giallo-&&&-C
@@ -150,8 +150,8 @@
 18-&&&-Quale è la località ubicata tra  Marina di Pisa e Calambrone?-&&&-Massa-&&&-Tirrenia-&&&-Torre del Lago-&&&-B
 19-&&&-L’infrastruttura stradale A11 che  cosa è?-&&&-Autostrada-&&&-Strada Statale-&&&-Strada Provinciale-&&&-A
 20-&&&-Quale provincia NON è  attraversata dalla A11?-&&&-Livorno-&&&-Firenze-&&&-Pisa-&&&-A
-0-0-PROVINCIA DI PISTOIA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI PISTOIA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-La SGC FI-PI-LI in quale colore è  rappresentata sulla carta muta?-&&&-Verde-&&&-Arancione-&&&-Grigio-&&&-B
 2-&&&-L’autostrada A12 Genova Livorno in quale colore è rappresentato  sulla carta muta?-&&&-Verde-&&&-Blu-&&&-Rossa-&&&-A
 3-&&&-Quali sono le lettere individuate sulla carta muta che rappresentano la autostrada A11 Firenze-Pisa  Nord ?-&&&-A – G-&&&-A – E – F - M-&&&-H – R-&&&-B
@@ -172,8 +172,8 @@
 18-&&&-Sono sulla autostrada A11 nei pressi di Prato, qual’è il casello di uscita per andare all’Ospedale San  Jacopo?-&&&-Prato Ovest-&&&-Incisa Valdarno-&&&-Pistoia-&&&-C
 19-&&&-Quale casello autostradale è presente in A11 Firenze-Pisa  Nord?-&&&-Firenze Sud-&&&-Montecatini Terme-&&&-Arezzo-&&&-B
 20-&&&-Quale provincia NON è  attraversata dalla A11?-&&&-Grosseto-&&&-Prato-&&&-Pistoia-&&&-A
-0-0-PROVINCIA DI PRATO
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI PRATO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-L’autostrada A15 Parma La  Spezia in quale colore è rappresentata sulla carta muta?-&&&-Viola-&&&-Marrone-&&&-Grigio-&&&-A
 2-&&&-La SGC FI-PI-LI quali capoluoghi rappresentati in carta muta  collega?-&&&-A (Firenze) – N (Pisa) – H (Livorno)-&&&-A (Firenze) – G (Siena)-&&&-E (Prato) – F (Pistoia)-&&&-A
 3-&&&-Quale è il colore del tracciato stradale che collega i capoluoghi di Grosseto e di Siena  rappresentato in carta muta?-&&&-Verde-&&&-Marrone-&&&-Blu-&&&-B
@@ -194,8 +194,8 @@
 18-&&&-Quale è l’autostrada che si attraversa volendo raggiungere  Poggio a Caiano da Prato?-&&&-A1-&&&-A15-&&&-A11-&&&-C
 19-&&&-Quale casello autostradale è presente in A11 Firenze-Pisa  Nord?-&&&-Firenze Sud-&&&-Prato Ovest-&&&-Arezzo-&&&-B
 20-&&&-L’infrastruttura stradale A11 che  cosa è?-&&&-Autostrada-&&&-Strada Statale-&&&-Strada Provinciale-&&&-A
-0-0-PROVINCIA DI SIENA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI SIENA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Il percorso stradale da G ad R individuato in carta muta quali capoluoghi delle province  interessa-&&&-Siena e Grosseto-&&&-Siena e Firenze-&&&-Prato e Pistoia-&&&-A
 2-&&&-La autostrada A12 in quale colore  è rappresentata sulla carta muta?-&&&-rossa-&&&-gialla-&&&-verde-&&&-C
 3-&&&-Qual’ è la infrastruttura stradale che passa in prossimità del capoluogo individuato con la lettera G in carta muta?-&&&-A12-&&&-A15-&&&-accordo Autostradale Firenze-Sien-&&&-C
@@ -216,8 +216,8 @@
 18-&&&-Quale località si transita volendo  raggiungere S. Quirico d’Orcia da Montepulciano?-&&&-Pienza-&&&-Cortona-&&&-Colle Val d’Elsa-&&&-A
 19-&&&-Quale è la famosa località nota per le sue Torri e Case-Torri in  Provincia di Siena?-&&&-Asciano-&&&-Badesse-&&&-San Gimignano-&&&-C
 20-&&&-Qual’è il primo casello autostradale fuori dalla Regione Toscana sulla A1 in direzione di  Roma?-&&&-Calenzano-&&&-Fabro-&&&-Incisa Valdarno-&&&-B
-0-0-PROVINCIA DI AREZZO
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI AREZZO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Con quale numero è individuato il  Capoluogo della Provincia di Arezzo in carta muta ?-&&&-2-&&&-6-&&&-1-&&&-A
 2-&&&-Qual è l'infrastruttura autostradale che interessa il Capoluogo rappresentato con il numero 6 nella carta muta ?-&&&-A1 Milano – Napoli-&&&-A11 Firenze – Pisa nord-&&&-R.A. Firenze- Siena-&&&-C
 3-&&&-Quale Provincia interessa il Capoluogo individuato con il numero 10 in carta  muta ?-&&&-Siena-&&&-Grosseto-&&&-Lucca-&&&-B
@@ -228,8 +228,8 @@
 8-&&&-Quale località si transita volendo  raggiungere Poppi da Stia-&&&-Pieve Santo Stefano-&&&-Pratovecchio-&&&-Capolona-&&&-B
 9-&&&-Come si chiama il passo di crinale  posto sulla S.R. 71 Umbro – Casentinese – Romagnola-&&&-Muraglione-&&&-Futa-&&&-Mandrioli-&&&-C
 10-&&&-La Valtiberina, rispetto al centro storico di Arezzo, è ubicata in quale  direzione ?-&&&-Nord-&&&-Sud-&&&-Ovest-&&&-A
-0-0-PROVINCIA DI FIRENZE
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI FIRENZE
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 11-&&&-Qual è il numero individuato per il  capoluogo della Città Metropolitana di Firenze in carta muta?-&&&-6-&&&-2-&&&-1-&&&-C
 12-&&&-Quali infrastrutture stradali sono presenti nella Città metropolitana di Firenze individuata dal capoluogo con  numero 1 in carta muta-&&&-A1 Milano – Napoli, A11 Firenze – Pisa Nord, SGC FI–PI–LI, Raccordo Autostradale Firenze – Siena-&&&-A1 Milano – Napoli, A12 Genova - Livorno, A11 Firenze – Pisa Nord-&&&-A15 Parma – La Spezia, A12 Genova – Livorno, A11 Firenze – Pisa-&&&-A
 13-&&&-In quale Provincia è individuata la Diramazione A11/A12 sulla carta  muta ?-&&&-Arezzo-&&&-Lucca-&&&-Prato-&&&-B
@@ -240,11 +240,11 @@
 18-&&&-Quale località si transita dal centro di Firenze per raggiungere il Mugello ?-&&&-Pratolino-&&&-Vernio-&&&-Rignano sull'Arno-&&&-A
 19-&&&-Quale località si transita da Pontassieve per raggiungere Dicomano  ?-&&&-Vinci-&&&-Rufina-&&&-Borgo San Lorenzo-&&&-B
 20-&&&-Quale rilievo montuosoè in prossimità  del Passo del Muraglione della S.S. 67 Tosco Romagnola-&&&-Monti del Chianti-&&&-Appennino-&&&-Amiata-&&&-B
-0-0-PROVINCIA DI GROSSETO
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI GROSSETO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 21-&&&-Il Capoluogo di Provincia individuato  con il numero 10 sulla carta muta è interessato da quali infrastrutture stradali?-&&&-SR70 e SS 223 (E78)-&&&-SS1 Aurelia e SS 223 (E78)-&&&-A11 e A12-&&&-B
 22-&&&-Qual è il numero che rappresenta il  Capoluogo della Provincia di Grosseto in carta muta ?-&&&-10-&&&-6-&&&-2-&&&-A
-23-&&&-Il tracciato stradale individuato con i  numeri 1 e 2 in carta muta è-&&&-A11 Firenze – Pisa Nord-&&&-A12 Genova - Livorno --&&&-A1 Milano Napoli-&&&-C
+23-&&&-Il tracciato stradale individuato con i  numeri 1 e 2 in carta muta è-&&&-A11 Firenze – Pisa Nord-&&&-A12 Genova - Livorno -&&&-A1 Milano Napoli-&&&-C
 24-&&&-Qual è l'infrastruttura stradale che collega Grosseto con l'Argentario ?-&&&-A11-&&&-S.S. 1 Aurelia-&&&-S.G.C. FI-PI-LI-&&&-B
 25-&&&-Percorrendo le principali arterie stradali, quanto dista Castiglione della Pescaia alla Stazione FS di Grosseto?-&&&-Circa 60-&&&-Circa 25-&&&-Circa 5 km-&&&-B
 26-&&&-Albinia è collegata a Manciano dalla  infrastruttura stradale:-&&&-Chiantigiana-&&&-Maremmana-&&&-Senese – Aretina-&&&-B
@@ -252,8 +252,8 @@
 28-&&&-L'area archeologica di Roselle è  ubicata nelle vicinanze di-&&&-Follonica-&&&-Grosseto-&&&-Orbetello-&&&-B
 29-&&&-Dove è ubicata la sede del Parco  Naturale della Maremma ?-&&&-Alberese-&&&-Capalbio-&&&-Pitigliano-&&&-A
 30-&&&-Quale rilievo montuoso è in Provincia  di Grosseto?-&&&-Monti del Chianti-&&&-Appennino-&&&-Amiata-&&&-C
-0-0-PROVINCIA DI LIVORNO
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI LIVORNO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 31-&&&-In quali Province perimetrate in carta muta è individuata l'autostrada A11 ?-&&&-FI-PO-PT-LU-PI-&&&-FI-AR-&&&-LI-GR-PT-&&&-A
 32-&&&-Quale è il percorso stradale che collega i capoluoghi di Provincia individuati con numeri 1 e 2 in carta  muta?-&&&-A12-&&&-A1-&&&-S.S. 223-&&&-B
 33-&&&-Quali infrastrutture stradali sono presenti in Provincia di Livorno in  carta muta ?-&&&-A12, SS.1, SGC FI-PI-LI-&&&-A12, A11 e SS.1-&&&-A1, A15 e SS.62-&&&-A
@@ -264,8 +264,8 @@
 38-&&&-Il Santuario di Montenero è ubicato  nelle vicinanze di-&&&-Livorno-&&&-Piombino-&&&-Castagneto Carducci-&&&-A
 39-&&&-Quale è il nome della autostrada A15 ?-&&&-Firenze – Roma-&&&-Parma – La Spezia-&&&-Lucca – Viareggio-&&&-B
 40-&&&-La Riserva Naturale Statale di  Calafuria si trova tra:-&&&-Antignano e Quercianella-&&&-Antignano ed Ardenza-&&&-Castiglioncello e Rosignano Solvay-&&&-A
-0-0-PROVINCIA DI LUCCA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI LUCCA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 41-&&&-La S.S. 1 Aurelia con quali numeri è  indicata in carta muta ?-&&&-1 e 2-&&&-7 e 10-&&&-1 , 7 e 10-&&&-B
 42-&&&-Il numero 9 quale capoluogo di Provincia rappresenta in carta muta?-&&&-Grosseto-&&&-Pisa-&&&-Lucca-&&&-B
 43-&&&-Quali infrastrutture stradali sono  presenti in Provincia di Lucca nella carta muta?-&&&-A11, A12 e Diram. A11/A12-&&&-A12, A11 e A1-&&&-A1, A15 e SS 62-&&&-A
@@ -276,8 +276,8 @@
 48-&&&-Quale casello autostradale NON è presente in A11 Firenze - Pisa Nord ?-&&&-Lucca-&&&-Altopascio-&&&-Versilia-&&&-C
 49-&&&-Quale località è nei dintorni  dell'Aeroporto di Capannori-&&&-Ampugnano-&&&-Peretola-&&&-Tassignano-&&&-C
 50-&&&-Su quale infrastruttura stradale è presente il passo del Monte Quiesa ?-&&&-SR.439 Sarzanese Valdera-&&&-SR 435 Lucchese-&&&-SS 12 Abetone-&&&-A
-0-0-PROVINCIA DI MASSA CARRARA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI MASSA CARRARA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 51-&&&-Quale Provincia interessa il capoluogo  individuato con il numero 3 in carta muta ?-&&&-Massa – Carrara-&&&-Pisa-&&&-Firenze-&&&-A
 52-&&&-Quale è la infrastruttura stradale che collega i capoluoghi di Provincia individuati con lettere 7 e 10 in carta  muta?-&&&-R. A. Firenze – Siena-&&&-A15 Parma – La Spezia-&&&-S.S. 1 Aurelia-&&&-C
 53-&&&-Quale Provincia interessa il capoluogo individuato con il numero 5 in carta  muta?-&&&-Grosseto-&&&-Pistoia-&&&-Massa – Carrara-&&&-B
@@ -288,8 +288,8 @@
 58-&&&-Quale casello autostradale NON è presente sull'Autostrada A15 Parma La  Spezia ?-&&&-Pontremoli-&&&-Viareggio-&&&-Aulla-&&&-B
 59-&&&-Quale è il nome della autostrada A12 ?-&&&-Genova – Livorno-&&&-Parma - La Spezia-&&&-Milano - Napoli-&&&-A
 60-&&&-Quale valle è attraversata  dall'Autostrada A15 ?-&&&-Val del Serchio-&&&-Val di Magra-&&&-Valdarno-&&&-B
-0-0-PROVINCIA DI PISA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI PISA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 61-&&&-Leggendo la carta muta, in quali  Province è individuata l'autostrada A1  ?-&&&-FI-AR-SI-&&&-FI-MS-GR-&&&-LI-GR-&&&-A
 62-&&&-In quale Provincia è individuata  l'autostrada A15 in carta muta ?-&&&-Massa Carrara-&&&-Pisa-&&&-Grosseto-&&&-A
 63-&&&-Quale è il percorso stradale che  collega i Capoluoghi individuati con i numeri 1 e 6 in carta muta?-&&&-A12-&&&-A15-&&&-R.A. Firenze – Siena-&&&-C
@@ -300,8 +300,8 @@
 68-&&&-Quale località si transita volendo  andare a Calci da Cascina ?-&&&-Uliveto Terme-&&&-Ospedaletto-&&&-Calambrone-&&&-A
 69-&&&-Quale è il nome della autostrada A1 ?-&&&-Milano – Napoli-&&&-Parma – La Spezia-&&&-Lucca – Viareggio-&&&-A
 70-&&&-L'Ospedale di Cisanello, rispetto al centro storico di Pisa, è in direzione:-&&&-Est-&&&-Nord-&&&-Ovest-&&&-A
-0-0-PROVINCIA DI PISTOIA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI PISTOIA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 71-&&&-In quale provincia NON è individuata l'Autostrada A11 in carta muta ?-&&&-Arezzo-&&&-Pistoia-&&&-Prato-&&&-A
 72-&&&-Quale è il percorso stradale che collega i capoluoghi di Provincia individuati con numeri 3 e 7 in carta  muta?-&&&-A1 Milano – Napoli-&&&-A12 Genova – Livorno-&&&-S.G.C. FI-PI-LI-&&&-B
 73-&&&-Quale è il percorso stradale che è adiacente ai capoluoghi di Provincia individuati con numeri 1 e 2 in carta  muta?-&&&-S.G.C. FI-PI-LI-&&&-A15-&&&-A1-&&&-C
@@ -312,8 +312,8 @@
 78-&&&-Quale località si transita volendo  raggiungere l'Abetone dal centro di Pistoia ?-&&&-Larciano-&&&-Sambuca Pistoiese-&&&-San Marcello Pistoiese-&&&-C
 79-&&&-Su quale rilievo montuoso è ubicato il  Passo del San Baronto ?-&&&-Montalbano-&&&-Alto Appennino-&&&-Apuane-&&&-A
 80-&&&-Il Padule di Fucecchio, rispetto al centro di Pistoia, si trova in direzione:-&&&-Nord-&&&-Est-&&&-Sud-&&&-C
-0-0-PROVINCIA DI PRATO
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI PRATO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 81-&&&-Qual è il numero individuato per il  capoluogo della Provincia di Prato in carta muta ?-&&&-10-&&&-8-&&&-4-&&&-C
 82-&&&-L'Autostrada A11 da quali numeri è  rappresentata in carta muta ?-&&&-1 – 4 – 5 – 8-&&&-7 – 10-&&&-1 – 2-&&&-A
 83-&&&-In quale Provincia è individuata  l'Autostrada A15 Parma – La Spezia sulla carta muta ?-&&&-Arezzo-&&&-Massa – Carrara-&&&-Pisa-&&&-B
@@ -324,8 +324,8 @@
 88-&&&-Quale località si transita da Prato per  raggiungere Montepiano-&&&-Vernio-&&&-Montale-&&&-Poggio a Caiano-&&&-A
 89-&&&-Il Comune di Montemurloè ubicato tra  quali Capoluoghi di Provincia-&&&-Prato e Pistoia-&&&-Prato e Firenze-&&&-Pistoia e Lucca-&&&-A
 90-&&&-Quale rilievo montuoso è in prossimità  del Passo di Montepiano sulla S.R. 325 Val di Bisenzio ?-&&&-Monte Amiata-&&&-Appennino-&&&-Monte Albano-&&&-B
-0-0-PROVINCIA DI SIENA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI SIENA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 91-&&&-Il percorso stradale individuato in carta  muta dai numeri 1 a 6 quale infrastruttura stradale rappresenta ?-&&&-A1 Milano – Napoli-&&&-R.A. Firenze - Siena-&&&-A11 Firenze – Pisa Nord-&&&-B
 92-&&&-Quale è la infrastruttura stradale che è adiacente al capoluogo di Provincia individuato con il numero 10 in carta  muta?-&&&-S.S. 1 Aurelia-&&&-A15-&&&-R.A. Firenze- Siena-&&&-A
 93-&&&-Quale è il percorso stradale che collega i capoluoghi individuati con i  numeri 6 e 10 in carta muta ?-&&&-S.S. 73 Senese Aretina-&&&-S.S. 223 Paganico (E78)-&&&-S.S. 715 Siena – Bettolle-&&&-B
@@ -336,8 +336,8 @@
 98-&&&-Quale località si transita dal centro di  Siena per raggiungere Asciano-&&&-Poggibonsi-&&&-Badesse-&&&-Taverne d'Arbia-&&&-C
 99-&&&-Presso quale località si trova  l'Aeroporto di Siena ?-&&&-Ampugnano-&&&-Monteaperti-&&&-Ponte a Tressa-&&&-A
 100-&&&-L'area geografica delle Crete Senesi, rispetto al centro storico di Siena, è  ubicata in direzione-&&&-Sud-&&&-Nord-&&&-Ovest-&&&-A
-0-0-PROVINCIA DI AREZZO
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI AREZZO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-L’autostrada A11 quali capoluoghi  delle province interessa nella carta muta?-&&&-H-M-N-B-&&&-H-G-F-E-&&&-H-C-D-E-&&&-A
 2-&&&-Quale Provincia interessa il Capoluogo  individuato con la lettera G nella carta muta?-&&&-Arezzo-&&&-Firenze-&&&-Grosseto-&&&-A
 3-&&&-Quali sono le infrastrutture principali  interessate nella Provincia di Arezzo-&&&-A1, S.S.73 (E78) e E45-&&&-E78, S.S.1 Variante Aurelia-&&&-R.A. Firenze- Siena, A11, A15-&&&-A
@@ -348,8 +348,8 @@
 8-&&&-Quale località si transita da Arezzo per  raggiungere Anghiari percorrendo la  S.S.73 ?-&&&-Le Ville-&&&-Dicomano-&&&-Badesse-&&&-A
 9-&&&-La S.R.71 è denominata?-&&&-Umbro Casentinese Romagnol-&&&-Umbro Aretino Romagnol-&&&-Pisana Livornese-&&&-A
 10-&&&-Le Colline del Chianti sono comprese i  quali province?-&&&-Firenze, Siena ed Arezzo-&&&-Firenze, Siena e Grosseto-&&&-Livorno, Lucca e Pistoia-&&&-A
-0-0-PROVINCIA DI FIRENZE
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI FIRENZE
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-L’autostrada A1 interessa quali  province indicate nella carta muta-&&&-H-G-F-&&&-H-G-E-&&&-M-N-B-&&&-A
 2-&&&-L’infrastruttura stradale che collega i  capoluoghi D e E in carta muta è-&&&-Strada extraurbana principale-&&&-Strada comunale-&&&-Strada extraurbana secondaria-&&&-A
 3-&&&-Quali sono le infrastrutture principali interessate nella Provincia di Firenze con capoluogo lettera H nella carta  muta?-&&&-A1, S.G.C. FI PI LI, A11 e R.A.  Firenze – Siena-&&&-A1, A11, A15 e E78-&&&-A15, A12, S.S.1 e S.S.73-&&&-A
@@ -360,8 +360,8 @@
 8-&&&-Il passo della Colla di Casaglia su quale  infrastruttura stradale si trova?-&&&-Sulla S.R.302-&&&-Sulla A11-&&&-Sulla S.S.65-&&&-A
 9-&&&-Quale è il primo casello autostradale fuori dalla Regione Toscana sulla infrastruttura A1 panoramica per  Bologna?-&&&-Roncobilaccio-&&&-Calenzano-&&&-Incisa Valdarno-&&&-A
 10-&&&-Il passo della Futa è un valico di quale  catena montuosa?-&&&-Appennino tosco – emiliano-&&&-Apuane-&&&-Appennino ligure-&&&-A
-0-0-PROVINCIA DI GROSSETO
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI GROSSETO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Per la infrastruttura A1 quali  capoluoghi delle province interessa nella carta muta?-&&&-H-G-F-&&&-H-G-E-&&&-M-N-B-&&&-A
 2-&&&-L’infrastruttura che collega i capoluoghi di cui alle lettere D e E quali province attraversa in carta muta?-&&&-Livorno e Grosseto-&&&-Livorno e Siena-&&&-Firenze e Siena-&&&-A
 3-&&&-Quali sono le infrastrutture principali  interessate nella Provincia di Grosseto con capoluogo lettera E nella carta muta?-&&&-S.S.1 Variante Aurelia ed E78-&&&-S.S.1 e S.S.65-&&&-A1 e S.S.73-&&&-A
@@ -372,8 +372,8 @@
 8-&&&-Nei pressi di quale località si transita volendo andare a Talamone da  Orbetello Scalo?-&&&-Albinia-&&&-Venturina-&&&-Capalbio-&&&-A
 9-&&&-Da quale località si transita volendo  andare a Follonica da Castiglione della Pescaia?-&&&-Puntone di Scarlino-&&&-Chiusdino-&&&-Marina di Alberese-&&&-A
 10-&&&-Il presidio ospedaliero di Castel del  Piano in quale area geografica è individuato?-&&&-Monte Amiata-&&&-Monte Argentario-&&&-Casentino-&&&-A
-0-0-PROVINCIA DI LIVORNO
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI LIVORNO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Quali province attraversa la  infrastruttura A12?-&&&-Massa-Carrara, Lucca, Pisa e Livorno-&&&-Massa-Carrara, Lucca, Pisa e Prato-&&&-Pisa, Pistoia, Prato e Firenze-&&&-A
 2-&&&-L’infrastruttura che collega i  capoluoghi individuati dalle lettere D e E quali province attraversa in carta muta?-&&&-Livorno e Grosseto-&&&-Livorno e Siena-&&&-Grosseto e Siena-&&&-A
 3-&&&-Quali province sono interessate da  infrastrutture stradali a pedaggio in carta muta?-&&&-Tutte tranne Grosseto-&&&-Tutte-&&&-Tutte tranne Grosseto ed Arezzo-&&&-A
@@ -384,8 +384,8 @@
 8-&&&-Da quale località si transita volendo  andare a Vada da Castiglioncello?-&&&-Rosignano Solvay-&&&-Ardenza-&&&-Marina di Bibbona-&&&-A
 9-&&&-La S.G.C. cosa sta ad indicare?-&&&-Strada di grande comunicazion-&&&-Strada di gestione comunal-&&&-Strada di generale collegament-&&&-A
 10-&&&-Quale è l’isola del Parco Nazionale dell’Arcipelago Toscano non visitabile  con auto?-&&&-Isola di Pianosa-&&&-Isola d’Elba-&&&-Isola di Giglio-&&&-A
-0-0-PROVINCIA DI LUCCA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI LUCCA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Da quali infrastrutture stradali è interessato il capoluogo di provincia individuato con lettera B in carta muta?-&&&-A11 e Diramazione A11-A12-&&&-SGC. FI-PI-LI e S.S.1-&&&-A15 e A1-&&&-A
 2-&&&-La provincia Massa-Carrara da quali  infrastrutture è interessata?-&&&-A12 e A15-&&&-A1 ed A15-&&&-A1, A11-&&&-A
 1-&&&-Quale è la lettera individuata per il  capoluogo nella Provincia di Lucca nella carta muta?-&&&-B-&&&-F-&&&-E-&&&-A
@@ -396,8 +396,8 @@
 8-&&&-Quale località si transita volendo  andare ad Altopascio dal centro di Lucca percorrendo la strada non a pedaggio?-&&&-Porcari-&&&-Pontedera-&&&-Barga-&&&-A
 9-&&&-Il ponte del Diavolo o ponte della  Maddalena si trova in adiacenza di quale infrastruttura stradale?-&&&-S.S.12-&&&-S.S.64-&&&-S.S.1-&&&-A
 10-&&&-Quale riserva naturale è in prossimità  di Torre del Lago?-&&&-Massaciuccoli-&&&-Orecchiella-&&&-Sibolla-&&&-A
-0-0-PROVINCIA DI MASSA-CARRARA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI MASSA-CARRARA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Quale è la lettera individuata per il  capoluogo nella Provincia di Massa- Carrara nella carta muta?-&&&-A-&&&-F-&&&-E-&&&-A
 2-&&&-L’infrastruttura che collega i capoluoghi individuati dalle lettere A e D quali province attraversa in carta  muta?-&&&-Massa-Carrara, Lucca, Pisa e Livorno-&&&-Massa-Carrara, Lucca, Livorno e Grosseto-&&&-Lucca, Pisa e Livorno e Siena-&&&-A
 2-&&&-La infrastruttura stradale che tocca i capoluoghi delle province indicate con lettere A, C e D nella carta muta è?-&&&-A12-&&&-A1-&&&-A15-&&&-A
@@ -408,8 +408,8 @@
 8-&&&-Quale località si transita volendo andare a Passo della Cisa da  Villafranca in Lunigiana?-&&&-Pontremoli-&&&-Aulla-&&&-Fivizzano-&&&-A
 9-&&&-La S.S. 63 è denominata:-&&&-del Valico del Cerreto-&&&-della Cisa-&&&-della Tosco Romagnol-&&&-A
 10-&&&-Il Parco Nazionale dell’Appennino  Tosco -Emiliano si trova rispetto Aulla a:-&&&-Nord-&&&-Ovest-&&&-Sud-&&&-A
-0-0-PROVINCIA DI PISA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI PISA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Quali province attraversa la  infrastruttura A11?-&&&-Firenze, Prato, Pistoia, Lucca e Pisa-&&&-Firenze, Prato, Pistoia, Pisa e Siena-&&&-Firenze, Prato, Pistoia, Pisa e Grosseto-&&&-A
 2-&&&-L’infrastruttura individuata dalle lettere A e D quali province attraversa in carta  muta?-&&&-Massa-Carrara, Lucca, Pisa e Livorno-&&&-Massa-Carrara, Lucca, Livorno e Grosseto-&&&-Lucca, Pisa e Livorno e Siena-&&&-A
 3-&&&-Quali infrastrutture stradali sono  presenti in Provincia di Pisa in carta muta?-&&&-S.G.C. FI-PI-LI, A11-&&&-S.G.C. FI-PI-LI, A1-&&&-A15 e A1-&&&-A
@@ -420,8 +420,8 @@
 8-&&&-Quale località si transita volendo  andare a Pontedera da Navacchio?-&&&-Cascina-&&&-San Miniato-&&&-Empoli-&&&-A
 9-&&&-L’infrastruttura stradale A11 cosa è?-&&&-Autostrada-&&&-Strada Statale-&&&-Strada Provinciale-&&&-A
 10-&&&-L’aeroporto Galileo Galilei di Pisa, rispetto al centro storico, è ubicato in  direzione:-&&&-Sud-&&&-Nord-&&&-Est-&&&-A
-0-0-PROVINCIA DI PRATO
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI PRATO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Quale è la lettera individuata per il  capoluogo della Provincia di Prato in carta muta?-&&&-M-&&&-N-&&&-B-&&&-A
 2-&&&-L’infrastruttura stradale individuata  dalle lettere B, N e M quali province attraversa in carta muta?-&&&-Lucca, Pistoia e Prato-&&&-Lucca, Pistoia e Livorno-&&&-Grosseto, Siena ed Arezzo-&&&-A
 3-&&&-Quale è il percorso stradale che collega  i capoluoghi individuati con lettere H-D C in carta muta?-&&&-S.G.C.FI-PI-LI-&&&-A11-&&&-A1-&&&-A
@@ -432,8 +432,8 @@
 8-&&&-Quale località si transita volendo  andare a Vernio da Prato?-&&&-La Briglia-&&&-Tobbiana-&&&-Seano-&&&-A
 9-&&&-Quale infrastruttura autostradale si incrocia volendo raggiungere Poggio a  Caiano dal centro di Prato?-&&&-A11-&&&-A1-&&&-A15-&&&-A
 10-&&&-L’area naturale protetta di interesse locale tra i Comuni Montemurlo, Prato  e Vaiano si chiama-&&&-Monteferrato-&&&-Foreste Casentinesi-&&&-Apuane-&&&-A
-0-0-PROVINCIA DI PISTOIA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI PISTOIA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Quali province attraversa la  infrastruttura A1?-&&&-Firenze, Arezzo e Siena-&&&-Firenze, Arezzo e Grosseto-&&&-Pistoia, Prato e Lucca-&&&-A
 2-&&&-L’infrastruttura individuata dalle lettere H e F quali province attraversa in carta  muta?-&&&-Firenze e Siena-&&&-Firenze e Livorno-&&&-Pistoia e Firenze-&&&-A
 3-&&&-Quale provincia NON attraversa la  A12?-&&&-Firenze-&&&-Lucca-&&&-Massa-Carrara-&&&-A
@@ -444,8 +444,8 @@
 8-&&&-Quale località si transita volendo  raggiungere Monsummano Terme dal centro di Pistoia non percorrendo strada a pedaggio?-&&&-Serravalle Pistoiese-&&&-Pescia-&&&-Cireglio-&&&-A
 9-&&&-La Valdinievole rispetto al centro di  Pistoia si trova?-&&&-Ovest-&&&-Est-&&&-Nord-&&&-A
 10-&&&-La Val di Luce è situata in-&&&-Appennino Tosco-Emilian-&&&-Apuane-&&&-Appennino Ligur-&&&-A
-0-0-PROVINCIA DI SIENA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI SIENA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Per la infrastruttura Raccordo  Autostradale “Firenze – Siena” quali capoluoghi delle province interessa nella carta muta?-&&&-H-F-&&&-H-F-E-&&&-M-N-B-&&&-A
 2-&&&-Le infrastrutture che collegano i capoluoghi individuati dalle lettere H e E quali province attraversa in carta  muta?-&&&-Firenze, Siena e Grosseto-&&&-Firenze, Siena ed Arezzo-&&&-Prato, Pistoia e Siena-&&&-A
 3-&&&-Quali sono le infrastrutture principali interessate nella Provincia di Siena con capoluogo lettera F nella carta muta?-&&&-Raccordo Autostradale “Firenze - Siena” e E78-&&&-Raccordo Autostradale “Firenze - Siena” e A1-&&&-A1 e S.S.2-&&&-A
@@ -456,8 +456,8 @@
 8-&&&-La “Piazza delle Sorgenti” a Bagno  Vignoni in quale comune ricade-&&&-San Quirico d’Orcia-&&&-Monteriggioni-&&&-Montepulciano-&&&-A
 9-&&&-Il R.A. 3 (Firenze -Siena) cosa sta ad  indicare?-&&&-Raccordo Autostradale-&&&-Raccordo Anulare-&&&-Rampa Accesso-&&&-A
 10-&&&-La riserva naturale del Basso Merse, rispetto al centro storico di Siena, è  ubicata in direzione:-&&&-Sud-&&&-Nord-&&&-Est-&&&-A
-0-0-PROVINCIA DI AREZZO
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI AREZZO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Quale è il numero individuato per il capoluogo nella Provincia di Arezzo nella carta muta?-&&&-8-&&&-9-&&&-10-&&&-B
 2-&&&-Quale Provincia interessa il Capoluogo individuato con il numero 2 nella carta muta ?-&&&-Livorno-&&&-Grosseto-&&&-Lucca-&&&-A
 3-&&&-Qual è la infrastruttura autostradale che tocca il Capoluogo rappresentato con il numero 6 nella carta muta ?-&&&-R.A. Firenze - Siena-&&&-A11 Firenze – Pisa nord-&&&-A1 Milano – Napoli-&&&-B
@@ -468,8 +468,8 @@
 8-&&&-La strada statale Arezzo - Battifolle è denominata:-&&&-S.S.679-&&&-S.S.73-&&&-S.S.1-&&&-A
 9-&&&-Chiusi della Verna in quale territorio è situato?-&&&-Mugello-&&&-Chianti-&&&-Casentino-&&&-C
 10-&&&-Il massiccio del Pratomagno in quali province si trova?-&&&-Arezzo e Siena-&&&-Siena e Firenze-&&&-Arezzo e Firenze-&&&-C
-0-0-PROVINCIA DI FIRENZE
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI FIRENZE
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 11-&&&-Quale è il numero individuato per il capoluogo nella Provincia di Firenze nella carta muta?-&&&-8-&&&-7-&&&-9-&&&-A
 12-&&&-L'infrastruttura stradale che tocca i capoluoghi delle province indicate con numeri 8,3 e 2 nella carta muta è?-&&&-Strada di gestione comunale-&&&-Strada di grande comunicazione-&&&-Strada extraurbana secondaria-&&&-B
 13-&&&-Quale infrastruttura stradale NON è presente nella Provincia di Firenze indicata in carta muta?-&&&-A1 Milano – Napoli-&&&-A12-&&&-Autopalio-&&&-B
@@ -480,8 +480,8 @@
 18-&&&-Quale località si attraversa da Lastra a Signa per raggiungere Empoli?-&&&-Vaglia-&&&-Montelupo Fiorentino-&&&-Quarrata-&&&-B
 19-&&&-Il lago di Bilancino rispetto a Firenze si trova a :-&&&-Sud-&&&-Ovest-&&&-Nord-&&&-C
 20-&&&-Quale è il fiume che interessa il Mugello?-&&&-Sieve-&&&-Arbia-&&&-Ombrone-&&&-A
-0-0-PROVINCIA DI GROSSETO
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI GROSSETO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 21-&&&-Quale è il numero individuato per il capoluogo nella Provincia di Grosseto nella carta muta?-&&&-2-&&&-1-&&&-10-&&&-B
 22-&&&-Quale è l’infrastruttura che tocca i capoluoghi delle province indicate con numeri 8,3 e 2 nella carta muta è?-&&&-A11 Firenze – Pisa Nord-&&&-Strada di grande comunicazione Firenze Pisa Livorno-&&&-S.S.1 Aurelia-&&&-B
 23-&&&-Leggendo la carta muta, quale capoluogo di Provincia è sul tragitto da Firenze a Grosseto?-&&&-10-&&&-9-&&&-5-&&&-A
@@ -492,8 +492,8 @@
 28-&&&-La S.S.223 è denominata anche :-&&&-E78-&&&-E45-&&&-E80-&&&-A
 29-&&&-La riserva naturale Farma in quale comune si trova?-&&&-Follonica-&&&-Radicondoli-&&&-Roccastrada-&&&-C
 30-&&&-Il presidio ospedaliero di Grosseto, rispetto al centro storico di Grosseto, si trova in direzione:-&&&-Ovest-&&&-Sud-&&&-Nord-&&&-C
-0-0-PROVINCIA DI LIVORNO
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI LIVORNO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 31-&&&-L’infrastruttura S.G.C. FI-PI-LI quali capoluoghi interessa in carta muta?-&&&-8,3,2005-&&&-8,3,2002-&&&-7,6,2005-&&&-B
 32-&&&-L’infrastruttura che attraversa i capoluoghi di provincia indicati con numeri 6 e 7 in carta muta è denominata:-&&&-Firenze Mare-&&&-Autostrada del Sole-&&&-Autostrada Adriatica-&&&-A
 33-&&&-Quale capoluogo di provincia è adiacente alla diramazione A11/A12 in carta muta?-&&&-5-&&&-2-&&&-8-&&&-A
@@ -504,8 +504,8 @@
 38-&&&-La riserva naturale Tombolo di Cecina dove si trova?-&&&-Tra Marina di Bibbona e Castagneto Carducci-&&&-Tra San Vincenzo e Populonia-&&&-Tra Vada e Marina di Bibbona-&&&-C
 39-&&&-Sulla infrastruttura statale S.S.1 quale cala trovo?-&&&-Cala Violina-&&&-Cala di Forno-&&&-Calafuria-&&&-C
 40-&&&-Quale isola NON appartiene alla Provincia di Livorno?-&&&-Gorgona-&&&-Capraia-&&&-Isola del Giglio-&&&-C
-0-0-PROVINCIA DI LUCCA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI LUCCA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 41-&&&-Quale è il numero individuato per il capoluogo nella Provincia di Lucca nella carta muta?-&&&-6-&&&-4-&&&-5-&&&-C
 42-&&&-La infrastruttura che tocca i capoluoghi delle province indicate con numeri 3 e 2 nella carta muta è?-&&&-Strada di grande comunicazione Firenze Pisa Livorno-&&&-A11 Firenze – Pisa Nord-&&&-A1 Milano – Napoli-&&&-A
 43-&&&-Leggendo la carta muta, quale capoluogo di Provincia, individuato con numero, è sul tragitto da Firenze a Lucca?-&&&-6-&&&-10-&&&-1-&&&-A
@@ -516,8 +516,8 @@
 48-&&&-Quali tra queste infrastrutture regionali NON è presente nella Provincia di Lucca?-&&&-S.R.435-&&&-S.R.445-&&&-S.R.74-&&&-C
 49-&&&-Il ponte del Diavolo o ponte della Maddalena si trova in adiacenza di quale infrastruttura stradale?-&&&-S.S.64-&&&-S.S.1-&&&-S.S.12-&&&-C
 50-&&&-La grotta del vento in quale comune si trova?-&&&-Pescaglia-&&&-Massa-&&&-Fabbriche di Vergemoli-&&&-C
-0-0-PROVINCIA DI MASSA – CARRARA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI MASSA – CARRARA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 51-&&&-Quale è il numero individuato per il capoluogo nella Provincia di Massa- Carrara nella carta muta?-&&&-4-&&&-5-&&&-3-&&&-A
 52-&&&-L'infrastruttura stradale che attraversa le province indicate dai capoluoghi con numeri 4,5,3 e 2 nella carta muta è?-&&&-A12-&&&-A1-&&&-A15-&&&-A
 53-&&&-Quali capoluoghi di Provincia sono sul tragitto da Firenze a Lucca in carta muta?-&&&-Prato e Livorno-&&&-Prato e Pistoia-&&&-Arezzo e Siena-&&&-B
@@ -528,8 +528,8 @@
 58-&&&-L’A12 è denominata anche:-&&&-Genova-Grosseto-Rosignano-&&&-Genova-Livorno-Rosignano-&&&-Genova-Firenze-Arezzo-&&&-B
 59-&&&-La S.S. 62 è denominata:-&&&-della Cisa-&&&-del Valico del Cerreto-&&&-della Tosco Romagnola-&&&-A
 60-&&&-Quale è il parco naturale in prossimità di Carrara?-&&&-Parco regionale Alpi Apuane-&&&-Parco regionale della Maremma-&&&-Parco regionale Migliarino, San Rossore, Massaciuccoli-&&&-A
-0-0-PROVINCIA DI PISA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI PISA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 61-&&&-L’infrastruttura S.G.C. FI-PI-LI quali capoluoghi interessa in carta muta?-&&&-8,3,2005-&&&-7,6,2005-&&&-8,3,2002-&&&-C
 62-&&&-L’infrastruttura Diramazione A11/A12 quale provincia interessa?-&&&-Pisa-&&&-Livorno-&&&-Lucca-&&&-C
 63-&&&-Quali infrastrutture stradali interessano il capoluogo individuato con numero 3 in carta muta?-&&&-A11, A12 e S.G.C.FI-PI-LI-&&&-A11, A12 e A1-&&&-A11, A15 e A1-&&&-A
@@ -540,8 +540,8 @@
 68-&&&-La riserva naturale di Monterufoli - Caselli in quali comuni si trova ?-&&&-Pomarance,Monteverdi Marittimo e Siena-&&&-Pomarance, Monteverdi Marittimo e Montecatini Val di Cecina-&&&-Castagneto Carducci, Sassetta e Livorno-&&&-B
 69-&&&-La sigla S.G.C. cosa sta ad indicare?-&&&-Strada di grande comunicazione-&&&-Strada di gestione comunale-&&&-Strada di generale collegamento-&&&-A
 70-&&&-La Valdera dove rimane rispetto a Pisa centro?-&&&-Est-&&&-Ovest-&&&-Sud-&&&-A
-0-0-PROVINCIA DI PISTOIA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI PISTOIA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 71-&&&-In quale provincia NON è individuata l’A1 in carta muta?-&&&-Grosseto-&&&-Firenze-&&&-Siena-&&&-A
 72-&&&-L’infrastruttura che attraversa i capoluoghi di provincia indicati con numeri 8,7,6 e 5 in carta muta è denominata:-&&&-Firenze Mare-&&&-Autostrada del Sole-&&&-Autostrada Adriatica-&&&-A
 73-&&&-Quale capoluogo individuato in carta muta è interessato dalle infrastrutture  S.S.1 ed E78?-&&&-2-&&&-3-&&&-1-&&&-C
@@ -552,8 +552,8 @@
 78-&&&-La Valle del Sestaione in quali comuni si trova?-&&&-Abetone, Cutigliano-&&&-Abetone, Serravalle Pistoiese-&&&-San Marcello Pistoiese, Lucca-&&&-A
 79-&&&-La S.R.435 Lucchese in quale territorio comunale attraversa?-&&&-Marliana-&&&-Uzzano-&&&-Fucecchio-&&&-B
 80-&&&-Il Nuovo Ospedale di Pistoia rispetto al centro di Pistoia, si trova in direzione:-&&&-Nord-&&&-Sud-&&&-Est-&&&-B
-0-0-PROVINCIA DI PRATO
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI PRATO
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 81-&&&-In quale capoluogo è individuata la A15 in carta muta?-&&&-5-&&&-4-&&&-7-&&&-B
 82-&&&-L’infrastruttura che attraversa i capoluoghi di provincia indicati con numeri 8, 9 e 10 in carta muta è denominata:-&&&-Autostrada del Sole-&&&-Firenze Mare-&&&-Autostrada Adriatica-&&&-A
 83-&&&-Il capoluogo individuato con numero 1 in carta mutra, da quali infrastrutture è interessato?-&&&-S.S.1 Aurelia e A11-&&&-S.S.1 Aurelia e S.S.223 Paganico-&&&-A11 e A1-&&&-B
@@ -564,8 +564,8 @@
 88-&&&-La area protetta Alto Carigiola all’estremo nord della Provincia di Prato tra quali comuni si trova?-&&&-Tra Vernio e Barberino di Mugello-&&&-Tra Prato e Calenzano-&&&-Tra Cantagallo e Vernio-&&&-C
 89-&&&-Quale infrastruttura autostradale si incrocia volendo raggiungere Poggio a Caiano dal centro di Prato?-&&&-A1-&&&-A15-&&&-A11-&&&-C
 90-&&&-Il Museo Pecci di Prato, rispetto alla Stazione Fs Centrale di Prato, si trova in direzione:-&&&-Sud-&&&-Nord-&&&-Est-&&&-A
-0-0-PROVINCIA DI SIENA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-PROVINCIA DI SIENA
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 91-&&&-Quali province interessa l'infrastruttura autostradale A12 in carta muta?-&&&-LI-PI-LU-MS-&&&-LI-PI-PT-PO-&&&-FI-AR-GR-SI-&&&-A
 92-&&&-Che tipo di classificazione è l'infrastruttura che tocca i capoluoghi delle province indicate con numeri 1 e 10 nella carta muta?-&&&-Statale-&&&-Regionale-&&&-Provinciale-&&&-A
 93-&&&-L'infrastruttura che collega i capoluoghi indicati con numeri 8 e 10 in carta muta, è denominata:-&&&-Autostrada del Sole-&&&-Raccordo Autostradale Firenze - Siena-&&&-Firenze Pisa Livorno-&&&-B

@@ -87,26 +87,45 @@ import syncFs, { fsync } from "fs";
 // let files = syncFs.readdirSync(p);
 // async function readFiles() {
 //     files.forEach(async (filename) => {
-//         let data = (await fs.readFile(p + filename, "utf-8")).split("\r\n");
-//         for (let i = 0; i < data.length; i++) {
-//             let row = data[i];
-//             let split = row.split("-&&&-");
-//             if (!split || split[0].startsWith("0-")) {
-//                 continue;
+//         const filesplit = filename.split(" ");
+//         if (filesplit[0] == "autovetture") {
+//             let data = (await fs.readFile(p + filename, "utf-8")).split("\r\n");
+//             let provincia = "NAN";
+//             for (let i = 0; i < data.length; i++) {
+//                 let row = data[i];
+//                 let split = row.split("-&&&-");
+//                 // if (!split || split[0].startsWith("0-")) {
+//                 //     continue;
+//                 // console.log(provincia);
+
+//                 if (row.startsWith("0-")) {
+//                     if (row.startsWith("0-PROVINCIA DI")) {
+//                         provincia = "NAN";
+//                     }
+//                     if (row.startsWith("0-PROVINCIA DI FIRENZE")) {
+//                         provincia = "FI";
+//                     }
+//                     continue;
+//                 }
+//                 if (split.length != 6) {
+//                     console.error(
+//                         `Error on line: ${i + 1} file ${filename}, row: ${row}`
+//                     );
+//                     continue;
+//                 }
+//                 const [num, question, A, B, C, correct] = split;
+//                 if (filesplit[1] == "parte_tecnica" && provincia == "NAN") {
+//                     continue;
+//                 }
+//                 questions.push({
+//                     num,
+//                     question,
+//                     options: [A, B, C],
+//                     correct,
+//                     filename,
+//                     provincia,
+//                 });
 //             }
-//             if (split.length != 6) {
-//                 console.error(
-//                     `Error on line: ${i + 1} file ${filename}, row: ${row}`
-//                 );
-//                 continue;
-//             }
-//             const [num, question, A, B, C, correct] = split;
-//             questions.push({
-//                 num,
-//                 question,
-//                 options: [A, B, C],
-//                 correct,
-//             });
 //         }
 //     });
 // }

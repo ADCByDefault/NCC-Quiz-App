@@ -1,5 +1,5 @@
 0-VELOCIPEDI PARTE NORMATIVA
-0-0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
+0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-I velocipedi sono:-&&&-Veicoli esclusivamente a due ruote-&&&-Veicoli a propulsione muscolare prodotta dalle persone che si trovano sul veicolo stesso-&&&-Veicoli a due ruote che possono essere dotati di motore ausiliario endotermico di potenza nominale non superiore a 0,25 kw-&&&-B
 2-&&&-Un velocipede:-&&&-Non può superare mt. 3,00 di lunghezza-&&&-Non può superare mt. 0,8 di lunghezza-&&&-Può avere altezza superiore a mt. 2,50-&&&-A
 3-&&&-Le dimensioni massime di un velocipede sono-&&&-Lunghezza massima mt. 2,00-&&&-Altezza massima mt. 2,20-&&&-Larghezza massima mt. 1,00-&&&-B
