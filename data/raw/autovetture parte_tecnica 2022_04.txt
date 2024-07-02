@@ -1,3 +1,4 @@
+0-PROVINCIA DI AREZZO
 0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Trova l’errore nell’elenco delle infrastrutture stradali presenti nella provincia di Arezzo in carta muta?-&&&-E45-&&&-A1-&&&-A11-&&&-C
 2-&&&-L’infrastruttura stradale che collega il capoluogo identificato con numero 2 con il capoluogo identificato con numero 10 in carta muta è:-&&&-A1-&&&-RA6-&&&-RA3-&&&-C

@@ -1,5 +1,5 @@
 import fs from "fs/promises";
-import syncFs, { fsync } from "fs";
+import fsync from "fs";
 
 // const rawPath = "./data/raw";
 // const files = await fs.readdir(rawPath);
@@ -138,3 +138,96 @@ import syncFs, { fsync } from "fs";
 // function sleep(ms) {
 //     return new Promise((resolve) => setTimeout(resolve, ms));
 // }
+
+const path = "./data/raw/";
+const filesnames = await fs.readdir(path);
+let doneCount = 0;
+const questions = [];
+
+for (let i = 0; i < filesnames.length; i++) {
+    readQuestionsFromFile(filesnames[i], path).then((qs) => {
+        doneCount++;
+        questions.push(...qs);
+        if (doneCount >= filesnames.length) {
+            const duplicateSignedQuestions = signDuplicateQuestions(questions);
+            writeData(duplicateSignedQuestions, "all-data.json", "./data/");
+            const duplicateFilteredQuestions = removeDuplicateSignedQuestions(
+                duplicateSignedQuestions
+            );
+            writeData(duplicateFilteredQuestions, "data.json", "./data/");
+        }
+    });
+}
+
+async function readQuestionsFromFile(filename, path = "./") {
+    const filenameSplit = filename.split(".")[0].split(" ");
+    const forType = filenameSplit[0];
+    const type = filenameSplit[1];
+    const date = filenameSplit[2];
+    const questions = [];
+    let provincia = null;
+    const data = (await fs.readFile(path + filename, "utf-8")).split("\r\n");
+    for (let i = 0; i < data.length; i++) {
+        const row = data[i];
+        const columns = row.split("-&&&-");
+        if (row.startsWith("0-PROVINCIA")) {
+            provincia = row.split(" ").slice(2).join(" ");
+            continue;
+        }
+        if (row.startsWith("0-")) {
+            continue;
+        }
+        if (columns.length != 6) {
+            console.error(`Error on line ${i + 1} in file ${filename}`);
+            continue;
+        }
+        const line = i + 1;
+        const [num, question, A, B, C, correct] = columns;
+        questions.push({
+            num,
+            question,
+            A,
+            B,
+            C,
+            correct,
+            provincia,
+            forType,
+            type,
+            date,
+            filename,
+            line,
+        });
+    }
+    return questions;
+}
+
+function writeData(data, filename, path) {
+    fs.writeFile(path + filename, JSON.stringify(data))
+        .then(() => {
+            console.log(`${path}${filename} written`);
+        })
+        .catch(() => {
+            console.log(`could've not write ${path}${filename}`);
+        });
+}
+
+function signDuplicateQuestions(questions) {
+    for (let i = 0; i < questions.length; i++) {
+        for (let j = i + 1; j < questions.length; j++) {
+            if (questions[i].question == questions[j].question) {
+                questions[j].duplicate = true;
+            }
+        }
+    }
+    return questions;
+}
+
+function removeDuplicateSignedQuestions(questions) {
+    questions = questions.filter((question) => {
+        if (question.duplicate == true) {
+            return false;
+        }
+        return true;
+    });
+    return questions;
+}

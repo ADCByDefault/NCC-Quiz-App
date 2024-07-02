@@ -1,3 +1,4 @@
+0-PROVINCIA DI AREZZO
 0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Firenze, Arezzo e Siena sono attraversate da quale infrastruttura stradale in carta muta?-&&&-A15-&&&-A1-&&&-A11-&&&-B
 2-&&&-L'infrastruttura stradale E45 è presente in quale provincia in carta muta?-&&&-Grosseto-&&&-Siena-&&&-Arezzo-&&&-C

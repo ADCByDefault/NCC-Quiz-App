@@ -1,3 +1,4 @@
+0-PROVINCIA DI AREZZO
 0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Quale infrastruttura stradale percorro da capoluogo individuato con lettera C a capoluogo individuato con lettera D in carta muta ?-&&&-E45-&&&-A1-&&&-A11-&&&-B
 2-&&&-Nella provincia di Arezzo quale infrastruttura stradale individuata con sigla iniziale E è presente in carta muta?-&&&-E1-&&&-E80-&&&-E45-&&&-C

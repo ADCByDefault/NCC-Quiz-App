@@ -1,3 +1,4 @@
+0-PROVINCIA DI AREZZO
 0-N-&&&-Domanda-&&&-Risposta A-&&&-Risposta B-&&&-Risposta C-&&&-Esatta
 1-&&&-Nella Provincia di Arezzo quale di queste infrastrutture stradali è presente in carta muta?-&&&-E80-&&&-E45-&&&-E78-&&&-B
 2-&&&-Guardando la carta muta l'infrastruttura stradale da capoluogo B a capoluogo C è:-&&&-La SS.74-E78-&&&-La SS.73-E78-&&&-La SS.73-E80-&&&-B
