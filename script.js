@@ -24,10 +24,17 @@ function loadRandomQuestion() {
     reavealed = false;
     const randomIndex = Math.floor(Math.random() * questions.length);
     currentQuestion = questions[randomIndex];
+    console.log(currentQuestion);
+    if (currentQuestion.forType != "autovetture") loadRandomQuestion();
+    if (
+        currentQuestion.type == "parte_tecnica" &&
+        currentQuestion.provincia != "FIRENZE"
+    )
+        loadRandomQuestion();
     questionElement.innerText = currentQuestion["question"];
-    answerAElement.innerText = currentQuestion["options"][0];
-    answerBElement.innerText = currentQuestion["options"][1];
-    answerCElement.innerText = currentQuestion["options"][2];
+    answerAElement.innerText = currentQuestion["A"];
+    answerBElement.innerText = currentQuestion["B"];
+    answerCElement.innerText = currentQuestion["C"];
     correctElement.innerText = "";
 }
 
