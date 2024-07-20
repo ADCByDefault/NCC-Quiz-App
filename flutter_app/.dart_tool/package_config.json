@@ -164,13 +164,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "flutter_app",
+      "name": "quiz_app",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2024-07-02T21:55:09.406332Z",
+  "generated": "2024-07-18T23:32:47.234991Z",
   "generator": "pub",
   "generatorVersion": "3.4.3",
   "flutterRoot": "file:///C:/flutter",
