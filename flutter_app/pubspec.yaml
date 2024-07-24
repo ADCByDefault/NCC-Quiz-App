@@ -1,5 +1,5 @@
-name: quiz_app
-description: "NCC quiz app"
+name: "NCC_Quiz"
+description: "NCC quiz app by ADCByDefault"
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -16,7 +16,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
-version: 1.0.0+1
+version: 2.0.0+0
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
@@ -31,6 +31,10 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # Hive dependencies for the database
+  hive:
+  hive_flutter:
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -39,6 +43,10 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+  # Hive dev dependencies for the database
+  hive_generator:
+  build_runner:
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is

@@ -1,159 +1,152 @@
+import "dart:convert";
+
 import "package:flutter/material.dart";
 
 class Question {
-  String question, A, B, C, corretta, type, forType;
-  dynamic provincia, risposta;
+  static int currentId = 0;
+  late int id = currentId;
+  final String num, text, A, B, C, correct, forType, type, date, filename, line;
+  dynamic provincia;
 
   Question(
-      {required this.question,
+      {required this.num,
+      required this.text,
       required this.A,
       required this.B,
       required this.C,
-      required this.corretta,
+      required this.correct,
       required this.forType,
       required this.type,
-      this.provincia});
-}
-
-class QuestionCard extends StatefulWidget {
-  final Question question;
-  final Function(int n) onBtnPressed;
-
-  const QuestionCard(
-      {super.key, required this.question, required this.onBtnPressed});
-
-  @override
-  State<QuestionCard> createState() => _QuestionCardState();
-}
-
-class _QuestionCardState extends State<QuestionCard> {
-  bool isAnswered = false;
-  Color? cardBgColor = Colors.grey[100];
-
-  ButtonStyle getButtonStyle(String option) {
-    Color bgColor = Colors.deepPurple;
-    if (isAnswered == true) {
-      bgColor = Colors.red;
-      if (option == widget.question.corretta) {
-        bgColor = Colors.green;
-      }
-    }
-    return ElevatedButton.styleFrom(
-      alignment: Alignment.center,
-      minimumSize: const Size(88, 36),
-      padding: const EdgeInsets.symmetric(horizontal: 16),
-      shape: const RoundedRectangleBorder(
-        borderRadius: BorderRadius.all(Radius.circular(2)),
-      ),
-      backgroundColor: bgColor,
-    );
-  }
-
-  @override
-  void initState() {
-    if (widget.question.risposta == null) {
-      super.initState();
-      return;
-    }
-    isAnswered = true;
-    if (widget.question.corretta == widget.question.risposta) {
-      cardBgColor = Colors.green[100];
+      required this.date,
+      required this.filename,
+      required this.line,
+      dynamic id}) {
+    if (id is int && id >= 0) {
+      this.id = id;
     } else {
-      cardBgColor = Colors.red[100];
+      this.id = currentId;
     }
-    super.initState();
-  }
-
-  void buttonPressed(String a) {
-    if (isAnswered) {
+    if (this.id == currentId) {
+      currentId++;
       return;
     }
-    setState(() {
-      isAnswered = true;
-      widget.question.risposta = a;
-      if (widget.question.corretta == a) {
-        widget.onBtnPressed(1);
-        cardBgColor = Colors.green[100];
-      } else {
-        widget.onBtnPressed(-1);
-        cardBgColor = Colors.red[100];
-      }
-    });
+    if (this.id < currentId) {
+      print(
+          "Might have interfered with question ids. Crated id : $id, should be : $currentId");
+    }
+    if (this.id > currentId) {
+      print(
+          "Jumped currentId counter from $currentId to ${this.id + 1}. Created id : $id");
+      currentId = this.id + 1;
+    }
   }
 
+  Map<String, dynamic> toMap() {
+    return {
+      "id": id,
+      "num": num,
+      "text": text,
+      "A": A,
+      "B": B,
+      "C": C,
+      "correct": correct,
+      "provincia": provincia,
+      "forType": forType,
+      "type": type,
+      "date": date,
+      "filename": filename,
+      "line": line
+    };
+  }
+
+  static Question fromMap(Map<String, dynamic> map) {
+    return Question(
+        num: map["num"],
+        text: map["text"],
+        A: map["A"],
+        B: map["B"],
+        C: map["C"],
+        correct: map["correct"],
+        forType: map["forType"],
+        type: map["type"],
+        date: map["date"],
+        filename: map["filename"],
+        line: map["line"],
+        id: map["id"]);
+  }
+
+  static List<Map<String, dynamic>> toMapFromList(List<Question> questions) {
+    List<Map<String, dynamic>> maps = questions.map((q) {
+      return q.toMap();
+    }).toList();
+    return maps;
+  }
+
+  static List<Question> toListFromMap(List<Map<String, dynamic>> questions) {
+    return questions.map((q) {
+      return Question.fromMap(q);
+    }).toList();
+  }
+
+  static List<Question> fromJSON(String json) {
+    List<Map<String, dynamic>> maps = jsonDecode(json);
+    return toListFromMap(maps);
+  }
+
+  static List<Question> filterQuestions(
+      List<Question> questions, String key, String value) {
+    List<Question> filteredQuestions = [];
+    for (int i = 0; i < questions.length; i++) {
+      Question q = questions[i];
+      Map<String, dynamic> map = questions[i].toMap();
+      if (map[key] != value) continue;
+      filteredQuestions.add(q);
+      questions.remove(q);
+    }
+    return filteredQuestions;
+  }
+}
+
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/// Question Card for QuizPage
+class QuestionQuizCard extends StatefulWidget {
+  final Question question;
+
+  const QuestionQuizCard({required this.question, super.key});
+
+  @override
+  State<QuestionQuizCard> createState() => _QuestionCardState();
+}
+
+class _QuestionCardState extends State<QuestionQuizCard> {
   @override
   Widget build(BuildContext context) {
-    return Container(
-      padding: const EdgeInsets.all(8),
-      child: Card(
-        color: cardBgColor,
-        child: Container(
-          padding: const EdgeInsets.all(16),
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            crossAxisAlignment: CrossAxisAlignment.stretch,
-            children: [
-              Container(
-                margin: const EdgeInsets.fromLTRB(16, 0, 16, 48),
-                child: Text(
-                  widget.question.question,
-                  textAlign: TextAlign.center,
-                ),
-              ),
-              Container(
-                margin: const EdgeInsets.fromLTRB(0, 12, 0, 0),
-                child: FilledButton(
-                  style: getButtonStyle("A"),
-                  onPressed: () {
-                    buttonPressed("A");
-                  },
-                  child: Container(
-                    padding: const EdgeInsets.fromLTRB(4, 12, 4, 12),
-                    child: Text(
-                      widget.question.A,
-                      textAlign: TextAlign.center,
-                    ),
-                  ),
-                ),
-              ),
-              Container(
-                margin: const EdgeInsets.fromLTRB(0, 12, 0, 0),
-                child: FilledButton(
-                  style: getButtonStyle("B"),
-                  onPressed: () {
-                    buttonPressed("B");
-                  },
-                  child: Container(
-                    padding: const EdgeInsets.fromLTRB(4, 12, 4, 12),
-                    child: Text(widget.question.B),
-                  ),
-                ),
-              ),
-              Container(
-                margin: const EdgeInsets.fromLTRB(0, 16, 0, 64),
-                child: FilledButton(
-                  style: getButtonStyle("C"),
-                  onPressed: () {
-                    buttonPressed("C");
-                  },
-                  child: Container(
-                    padding: const EdgeInsets.fromLTRB(4, 12, 4, 12),
-                    child: Text(widget.question.C),
-                  ),
-                ),
-              ),
-              Text(
-                "${widget.question.forType} : ${widget.question.type}",
-                textAlign: TextAlign.center,
-                style: const TextStyle(
-                  fontWeight: FontWeight.w200,
-                  fontSize: 10,
-                ),
-              ),
-            ],
-          ),
-        ),
+    return Card(
+      child: Column(
+        children: [
+          Text("${widget.question.id}"),
+        ],
       ),
     );
   }
 }
+
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//

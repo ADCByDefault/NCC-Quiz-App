@@ -1,14 +1,16 @@
 import "package:flutter/material.dart";
-import 'package:quiz_app/quiz_page.dart';
+import "init_page.dart";
 import 'home_page.dart';
+import "quiz_page.dart";
 
 void main() {
   runApp(MaterialApp(
     title: "NCC Quiz",
-    initialRoute: "/",
+    initialRoute: "/InitPage",
     routes: {
-      "/": (context) => const HomePage(),
-      "/quiz page": (context) => const QuizPage(),
+      "/HomePage": (BuildContext context) => const HomePage(),
+      "/InitPage": (BuildContext context) => const InitPage(),
+      "/QuizPage": (BuildContext context) => const QuizPage(),
     },
   ));
 }
