@@ -5,6 +5,7 @@ import 'question_manager.dart';
 class Question {
   static int currentId = 0;
   late int id = currentId;
+  final int? disable;
   final String num, text, A, B, C, correct, forType, type, date, filename, line;
   final String? provincia, img;
 
@@ -24,6 +25,7 @@ class Question {
       required this.filename,
       required this.line,
       this.img,
+      this.disable = 0,
       dynamic id}) {
     if (id is int) {
       this.id = id;
@@ -50,6 +52,7 @@ class Question {
     return {
       "id": id,
       "num": num,
+      "disable": disable,
       "text": text,
       "A": A,
       "B": B,
@@ -80,7 +83,8 @@ class Question {
         date: map["date"],
         filename: map["filename"],
         line: map["line"].toString(),
-        id: map["id"]);
+        id: map["id"],
+        disable: map["disable"]);
   }
 
   static List<Map<String, dynamic>> toMapFromList(List<Question> questions) {
@@ -107,6 +111,9 @@ class Question {
     questions ??= Question.questions;
     for (int i = 0; i < questions.length; i++) {
       Question q = questions[i];
+      if (q.isDisabled()) {
+        continue;
+      }
       Map<String, dynamic> map = questions[i].toMap();
       if (map[key] != value) continue;
       filteredQuestions.add(q);
@@ -128,6 +135,10 @@ class Question {
       if (q.id == id) return q;
     }
     return getById(-1);
+  }
+
+  bool isDisabled() {
+    return disable == 1;
   }
 }
 
@@ -251,7 +262,7 @@ class _QuestionCardState extends State<QuestionCard> {
                             child: ClipRRect(
                               borderRadius: BorderRadius.circular(8),
                               child: Image.asset(
-                                "assets/flutter.jpg",
+                                "assets/${widget.data.question.img}",
                               ),
                             ),
                           ),
@@ -565,7 +576,7 @@ class _ResultQuestionPopCardState extends State<ResultQuestionPopCard> {
                             child: ClipRRect(
                               borderRadius: BorderRadius.circular(8),
                               child: Image.asset(
-                                "assets/flutter.jpg",
+                                "assets/${widget.data.question.img}",
                               ),
                             ),
                           ),
@@ -595,11 +606,11 @@ class _ResultQuestionPopCardState extends State<ResultQuestionPopCard> {
           Row(
             mainAxisAlignment: MainAxisAlignment.end,
             children: [
-              IconButton(
+              ElevatedButton(
                 onPressed: () {
                   Navigator.of(context).pop();
                 },
-                icon: Icon(Icons.close),
+                child: const Icon(Icons.close),
               ),
             ],
           ),

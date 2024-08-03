@@ -108,16 +108,14 @@ class _ResultPageState extends State<ResultPage> {
                   ),
                 ),
               ),
-              Container(
-                child: ListView.builder(
-                  shrinkWrap: true,
-                  physics: const NeverScrollableScrollPhysics(),
-                  itemCount: questionManager.getLength(),
-                  itemBuilder: (context, index) {
-                    return ResultQuestionCard(
-                        data: questionManager.questionsData[index]);
-                  },
-                ),
+              ListView.builder(
+                shrinkWrap: true,
+                physics: const NeverScrollableScrollPhysics(),
+                itemCount: questionManager.getLength(),
+                itemBuilder: (context, index) {
+                  return ResultQuestionCard(
+                      data: questionManager.questionsData[index]);
+                },
               ),
             ],
           ),
