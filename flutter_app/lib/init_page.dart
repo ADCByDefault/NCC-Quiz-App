@@ -1,6 +1,7 @@
 import "package:flutter/material.dart";
-import "package:hive_flutter/adapters.dart";
+import "package:flutter/services.dart";
 import "question.dart";
+import "db_singleton.dart";
 
 class InitPage extends StatefulWidget {
   const InitPage({super.key});
@@ -10,13 +11,16 @@ class InitPage extends StatefulWidget {
 }
 
 class _InitPageState extends State<InitPage> {
-  Widget messageWidget = const Text("Initializing...");
+  Widget messageWidget = const CircularProgressIndicator(
+    color: Colors.green,
+  );
 
   @override
   void initState() {
     initApp().then((ret) {
       if (ret) {
-        Navigator.pushNamedAndRemoveUntil(context, "/HomePage", (route) => false);
+        Navigator.pushNamedAndRemoveUntil(
+            context, "/HomePage", (route) => false);
       } else {
         setState(() {
           messageWidget = const Text(
@@ -30,48 +34,32 @@ class _InitPageState extends State<InitPage> {
   }
 
   Future<bool> initApp() async {
-    await Hive.initFlutter();
-    Box settingBox = await getBox("settingBox");
-    Box questionBox = await getBox("questionBox");
-
-    // Question q = Question(
-    //     id: 1,
-    //     num: "1",
-    //     text: "text",
-    //     A: "A",
-    //     B: "B",
-    //     C: "C",
-    //     correct: "correct",
-    //     forType: "forType",
-    //     type: "type",
-    //     date: "date",
-    //     filename: "filename",
-    //     line: "line");
-    // questionBox.put(q.id, q);
-    // q = Question(
-    //     id: 2,
-    //     num: "num",
-    //     text: "text2",
-    //     A: "A",
-    //     B: "B",
-    //     C: "C",
-    //     correct: "correct",
-    //     forType: "forType",
-    //     type: "type",
-    //     date: "date",
-    //     filename: "filename",
-    //     line: "line");
-    // questionBox.put(q.id, q);
-    return true;
-  }
-
-  /// returns a Hive Box Object by name
-  /// if box doesn't exists it will be initialized
-  Future<Box> getBox(String name) async {
-    if (!Hive.isBoxOpen(name)) {
-      return await Hive.openBox(name);
+    Question(
+        num: "null",
+        text: "null",
+        A: "null",
+        B: "null",
+        C: "null",
+        correct: "null",
+        forType: "null",
+        type: "null",
+        provincia: "null",
+        date: "null",
+        filename: "null",
+        line: "null",
+        id: -1);
+    DBSingleton db = await DBSingleton.getDB();
+    if (!db.getInitialized()) {
+      String json = await rootBundle.loadString("assets/data.json");
+      List<Map<String, dynamic>> mapped =
+          Question.toMapFromList(Question.fromJSON(json));
+      await db.updateQuestionList(mapped);
+      await db.setInitialized(true);
+    } else {
+      List mapped = db.dataBox.get("questions");
+      Question.toListFromMap(mapped);
     }
-    return Hive.box(name);
+    return true;
   }
 
   @override

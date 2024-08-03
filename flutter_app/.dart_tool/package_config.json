@@ -506,13 +506,13 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "NCC_Quiz",
+      "name": "ncc_quiz",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2024-07-23T16:34:41.641656Z",
+  "generated": "2024-07-26T02:49:23.720400Z",
   "generator": "pub",
   "generatorVersion": "3.4.3",
   "flutterRoot": "file:///C:/flutter",
