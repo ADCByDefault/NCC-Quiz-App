@@ -23,13 +23,17 @@ class _HomePageState extends State<HomePage> {
     Random rng = Random();
     for (int i = 0; i < 30; i++) {
       if (temp.isEmpty) continue;
-      questions.add(temp[rng.nextInt(temp.length)]);
+      Question q = temp[rng.nextInt(temp.length)];
+      questions.add(q);
+      temp.remove(q);
     }
     temp = (Question.filterQuestions("provincia", "FIRENZE",
         Question.filterQuestions("forType", "autovetture")));
     for (int i = 0; i < 10; i++) {
       if (temp.isEmpty) continue;
-      questions.add(temp[rng.nextInt(temp.length)]);
+      Question q = temp[rng.nextInt(temp.length)];
+      questions.add(q);
+      temp.remove(q);
     }
     QuestionManager questionManager = QuestionManager.fromList(questions);
     Navigator.pushNamed(context, "/QuizPage", arguments: questionManager);
@@ -40,9 +44,11 @@ class _HomePageState extends State<HomePage> {
     Random rng = Random();
     List temp = (Question.filterQuestions("provincia", "FIRENZE",
         Question.filterQuestions("forType", "autovetture")));
-    for (int i = 0; i < 40; i++) {
+    for (int i = 0; i < 10; i++) {
       if (temp.isEmpty) continue;
-      questions.add(temp[rng.nextInt(temp.length)]);
+      Question q = temp[rng.nextInt(temp.length)];
+      questions.add(q);
+      temp.remove(q);
     }
     QuestionManager questionManager = QuestionManager.fromList(questions);
     Navigator.pushNamed(context, "/QuizPage", arguments: questionManager);
